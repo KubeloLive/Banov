@@ -4,7 +4,7 @@
     <message>
         <deadline>180</deadline>
         <shutdown>1</shutdown>
-        <text>server restarts in #tmin minutes.</text>
+        <text>(#name)server restarts in #tmin minutes.</text>
     </message>
     <message>
         <repeat>25</repeat>

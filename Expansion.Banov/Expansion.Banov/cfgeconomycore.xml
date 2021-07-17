@@ -28,27 +28,11 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="log_ce_lootrespawn" value="false"/>
 		<default name="log_ce_statistics" value="false"/>
 		<default name="log_ce_zombie" value="false"/>
-		<default name="log_ce_animal" value="false"/>
+		<default name="log_ce_animal" value="true"/>
 		<default name="log_storageinfo" value="false"/>
 		<default name="log_hivewarning" value="true"/>
 		<default name="log_missionfilewarning" value="true"/>
 		<default name="save_events_startup" value="true"/>
 		<default name="save_types_startup" value="true"/>
 	</defaults>
-	<ce folder="types_ce">
-		<file name="awscopes_types.xml" type="types" />
-		<file name="win_types.xml" type="types" />
-		<file name="quadlocks_types.xml" type="types" />
-		<file name="spurbagz_types.xml" type="types" />	
-	</ce>
-	<ce folder="spawntypes_ce">
-		<!--<file name="win_spawntypes.xml" type="spawnabletypes" />	-->	
-	</ce>
-	<!-- EXPANSION CENTRAL ECONOMY -->
-	<ce folder="expansion_ce">
-		<file name="expansion_types.xml" type="types" />
-		<file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
-		<file name="expansion_events.xml" type="events" />
-	</ce>	
-	
 </economycore>

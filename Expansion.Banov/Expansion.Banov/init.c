@@ -68,14 +68,8 @@ void main()
 	if ( ce )
 		ce.InitOffline();
 	
-	//custom map file goes here - dont forget to turn off tunnel if creating loot mapgrouppos file
-	//Dis_NEAF_Quarantine_Z();
-	//Dis_Oilrig();
-	//DisTunnel();
-	
-	
 	//open this line to creat mapgroupos file - can be found in storage_xx export folder
-	//GetCEApi().ExportProxyData( "7500 0 7500", 10000 );  //Center of map, radius of how far to go out and find buildings.
+	//GetCEApi().ExportProxyData( vector.Zero, 100000 );  //Center of map, radius of how far to go out and find buildings.
 
 	//DATE RESET AFTER ECONOMY INIT-------------------------
 	int year, month, day, hour, minute;
