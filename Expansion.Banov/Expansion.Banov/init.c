@@ -13,18 +13,6 @@
 #include "$CurrentDir:\\mpmissions\\Expansion.Banov\\expansion\\ExpansionObjectSpawnTools.c"
 #include "$CurrentDir:\\mpmissions\\Expansion.Banov\\expansion\\missions\\MissionConstructor.c"
 
-static void SpawnObject(string type, vector position, vector orientation)
-{
-    auto obj = GetGame().CreateObjectEx(type, position, ECE_SETUP | ECE_UPDATEPATHGRAPH | ECE_CREATEPHYSICS);
-    obj.SetPosition(position);
-    obj.SetOrientation(orientation);
-    obj.SetOrientation(obj.GetOrientation());
-    obj.SetFlags(EntityFlags.STATIC, false);
-    obj.Update();
-	obj.SetAffectPathgraph(true, false);
-	if (obj.CanAffectPathgraph()) GetGame().GetCallQueue(CALL_CATEGORY_SYSTEM).CallLater(GetGame().UpdatePathgraphRegionByObject, 100, false, obj);
-}
-
 void main()
 {
 	bool loadTraderObjects = false;
@@ -69,7 +57,7 @@ void main()
 		ce.InitOffline();
 	
 	//open this line to creat mapgroupos file - can be found in storage_xx export folder
-	//GetCEApi().ExportProxyData( vector.Zero, 100000 );  //Center of map, radius of how far to go out and find buildings.
+	//GetCEApi().ExportProxyData(vector.Zero, 100000);  //Center of map, radius of how far to go out and find buildings.
 
 	//DATE RESET AFTER ECONOMY INIT-------------------------
 	int year, month, day, hour, minute;
