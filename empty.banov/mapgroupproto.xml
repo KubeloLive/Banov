@@ -15,7 +15,50 @@
 				<default name="clusterMatrix" de="TrajectoryStumps" width="12" height="12"/>
 -->
 		</defaults>
+      <group name="Land_LootPlaneOne" lootmax="4">
+			<usage name="Military" />
+			<container name="lootFloor" lootmax="4">
+				<point pos="-0.018715 0.028395 0.012245" range="0.5" height="1.5" /> 
+			</container>
+		</group>
 
+		<group name="Land_LootPlaneTwo" lootmax="4">
+			<usage name="Medic" />
+			<usage name="Police" />
+			<usage name="Hunting" />
+			<container name="lootFloor" lootmax="4">
+				<point pos="0.000089 0.036206 0.012789" range="0.5" height="1.5" /> 
+			</container>
+		</group>
+
+		<group name="Land_LootPlaneThree" lootmax="4">
+			<usage name="Medic" />
+			<usage name="Town" />
+			<usage name="Farm" />
+			<container name="lootFloor" lootmax="4">
+				<point pos="-0.001352 0.036286 0.004998" range="0.5" height="1.5" /> 
+			</container>
+		</group>
+
+		<group name="Land_LootPlaneFour" lootmax="4">
+			<usage name="Military" />
+			<usage name="Firefighter" />
+			<usage name="Police" />
+			<container name="lootFloor" lootmax="4">
+				<point pos="0.003979 0.090866 0.014001" range="0.5" height="1.5" /> 
+			</container>
+		</group>
+
+		<group name="Land_LootPlaneFive" lootmax="4">
+			<usage name="Coast" />
+			<usage name="Farm" />
+			<usage name="Town" />
+			<usage name="Medic" />
+			<usage name="Hunting" />
+			<container name="lootFloor" lootmax="4">
+				<point pos="0.003035 0.049548 0.026026" range="0.5" height="1.5" /> 
+			</container>
+		</group>
         <group name="Land_ceap_house1" lootmax="7">
 	<usage name="Farm" />
 	<usage name="Village" />
