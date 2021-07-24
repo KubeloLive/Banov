@@ -626,7 +626,7 @@
         </children>
     </event>
     <event name="StaticChristmasTree">
-        <nominal>13</nominal>
+        <nominal>0</nominal>
         <min>0</min>
         <max>0</max>
         <lifetime>86400</lifetime>
@@ -697,8 +697,8 @@
     </event>
     <event name="TrajectoryApple">
         <nominal>140</nominal>
-        <min>2</min>
-        <max>4</max>
+        <min>40</min>
+        <max>60</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>25</saferadius>
@@ -714,8 +714,8 @@
     </event>
     <event name="TrajectoryCanina">
         <nominal>140</nominal>
-        <min>2</min>
-        <max>4</max>
+        <min>20</min>
+        <max>30</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>25</saferadius>
@@ -731,8 +731,8 @@
     </event>
     <event name="TrajectoryConiferous">
         <nominal>140</nominal>
-        <min>2</min>
-        <max>4</max>
+        <min>20</min>
+        <max>44</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>25</saferadius>
@@ -749,8 +749,8 @@
     </event>
     <event name="TrajectoryDeciduous">
         <nominal>140</nominal>
-        <min>2</min>
-        <max>4</max>
+        <min>20</min>
+        <max>40</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>25</saferadius>
@@ -766,8 +766,8 @@
     </event>
     <event name="TrajectoryHumus">
         <nominal>140</nominal>
-        <min>2</min>
-        <max>4</max>
+        <min>20</min>
+        <max>40</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>25</saferadius>
@@ -784,8 +784,8 @@
     </event>
     <event name="TrajectoryPear">
         <nominal>140</nominal>
-        <min>2</min>
-        <max>4</max>
+        <min>20</min>
+        <max>40</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>25</saferadius>
@@ -801,8 +801,8 @@
     </event>
     <event name="TrajectoryPlum">
         <nominal>140</nominal>
-        <min>2</min>
-        <max>4</max>
+        <min>20</min>
+        <max>40</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>25</saferadius>
