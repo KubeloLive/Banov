@@ -10,7 +10,6 @@
  *
 */
 
-#include "$CurrentDir:\\mpmissions\\Expansion.Banov\\expansion\\ExpansionObjectSpawnTools.c"
 #include "$CurrentDir:\\mpmissions\\Expansion.Banov\\expansion\\missions\\MissionConstructor.c"
 
 void main()
@@ -24,32 +23,17 @@ void main()
 	if (MissionWorldName != "empty")
 	{
 		//! Spawn mission objects and traders
-		FindMissionFiles(MissionWorldName, loadTraderObjects, loadTraderNPCs);
+		ExpansionObjectSpawnTools.FindMissionFiles("$CurrentDir:\\mpmissions\\Expansion." + MissionWorldName, loadTraderObjects, loadTraderNPCs);
 	}
-	
 
-	//INIT WEATHER BEFORE ECONOMY INIT  newest copy   ------------------------
-    Weather weather = g_Game.GetWeather();
-    weather.MissionWeather(false);    // false = use weather controller from Weather.c
+	//INIT WEATHER BEFORE ECONOMY INIT------------------------
+	Weather weather = g_Game.GetWeather();
 
-    weather.GetOvercast().SetLimits( 0.25 , 0.75 );//
-    weather.GetRain().SetLimits(0.0, 0.4);//
-    weather.GetFog().SetLimits(0.1, 0.28);
+	weather.MissionWeather(false);    // false = use weather controller from Weather.c
 
-    weather.GetOvercast().SetForecastChangeLimits(1.0, 1.0);
-    weather.GetRain().SetForecastChangeLimits(0.0, 0.05);//
-    weather.GetFog().SetForecastChangeLimits(0.10, 0.25);//
-
-    weather.GetOvercast().SetForecastTimeLimits(1800, 1800);
-    weather.GetRain().SetForecastTimeLimits(150, 500);//
-    weather.GetFog().SetForecastTimeLimits(600, 600);//
-
-    weather.GetOvercast().Set(Math.RandomFloatInclusive(0.3, 0.4), 0, 0);
-    weather.GetRain().Set(Math.RandomFloatInclusive(0.0, 0.2), 0, 0);
-    weather.GetFog().Set(Math.RandomFloatInclusive(0, 1), 0, 0);
-
-    weather.SetWindMaximumSpeed(15);//
-    weather.SetWindFunctionParams(0.1, 1.0, 50);
+	weather.GetOvercast().Set( Math.RandomFloatInclusive(0.4, 0.6), 1, 0);
+	weather.GetRain().Set( 0, 0, 1);
+	weather.GetFog().Set( Math.RandomFloatInclusive(0.05, 0.1), 1, 0);
 
 	//INIT ECONOMY--------------------------------------
 	Hive ce = CreateHive();
@@ -61,7 +45,7 @@ void main()
 
 	//DATE RESET AFTER ECONOMY INIT-------------------------
 	int year, month, day, hour, minute;
-	int reset_month = 8, reset_day = 10;
+	int reset_month = 9, reset_day = 20;
 	GetGame().GetWorld().GetDate(year, month, day, hour, minute);
 
 	if ((month == reset_month) && (day < reset_day))
@@ -86,6 +70,16 @@ void main()
 
 class CustomMission: MissionServer
 {	
+	// ------------------------------------------------------------
+	// CustomMission constructor
+	// ------------------------------------------------------------
+	void CustomMission()
+	{
+		//! Set to true if you want to create a JSON dump list with all class names from all
+		// loaded mods in the server profile directory (ClassNames.JSON and ExpansionClassNames.JSON)
+		EXPANSION_CLASSNAME_DUMP = false;
+	}
+
 	// ------------------------------------------------------------
 	// Override OnInit
 	// ------------------------------------------------------------
@@ -145,7 +139,7 @@ class CustomMission: MissionServer
 				
 				itemEnt = itemClothing.GetInventory().CreateInInventory( "BandageDressing" );
 				if ( Class.CastTo( itemBs, itemEnt ) )
-				itemBs.SetQuantity( 2 );
+					itemBs.SetQuantity( 1 );
 
 				SetRandomHealth( itemEnt );
 
