@@ -23,8 +23,7 @@ A: Probably. We do not plan to have mods that would conflict with anything but w
 
 Q: What is the suggested player count for Banov?
 
-A: Currently only a portion of Banov is done, so we would recommend around 90. For the final size it will be around 150/200.
-
+60/180
 Q: Can I add new types to the existing vanilla Banov setup?
 
 A: Yes.
