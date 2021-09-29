@@ -80,6 +80,10 @@
 	<pos x="7518.47" y="234.364" z="5051.2" a="61.9664"/>
 	<pos x="8354.84" y="209.49" z="2489.58" a="63.5775"/>
 	<pos x="3955.67" y="221.905" z="3030.25" a="132.829"/>
+	<pos x="1182.55" y="242.576" z="10930.5" a="146.701"/>
+	<pos x="4369.2" y="234.088" z="11357.7" a="-102.709"/>
+	<pos x="6846" y="305.587" z="13264.2" a="-24.1407"/>
+	<pos x="12614" y="322.645" z="10638.9" a="-177.133"/>
   </event>
   <event name="StaticChristmasTree" />
   <event name="ItemPlanks">
@@ -130,7 +134,31 @@
 		<pos x="14467.8" y="435.221" z="12740.4" a="27.6614"/>
 		<pos x="14479.8" y="435.221" z="12678.9" a="27.6614"/>
 		<pos x="14422.5" y="435.221" z="12649.2" a="27.6614"/>
+		<pos x="300.914" y="227.977" z="5011.14" a="-121.388"/>
+		<pos x="284.741" y="230.855" z="5114.59" a="-128.608"/>
+		<pos x="1397.43" y="239.757" z="6700.51" a="-127.388"/>	
   </event>
+      <event name="StaticContaminatedArea">
+		<zone smin="0" smax="0" dmin="10" dmax="15" r="75" />
+	  	<pos x="11924.1" z="14955.9" />
+		<pos x="9027.58" z="12272.8" />
+		<pos x="7112.95" z="12086.9" />
+		<pos x="6463.47" z="13826.3" />
+		<pos x="4213"    z="13618.5" />
+		<pos x="2070.31" z="11679.7" />
+		<pos x="1742.05" z="7762.89" />
+		<pos x="304.204" z="5917.99" />
+		<pos x="2293.23" z="4926.09" />
+		<pos x="2161.18" z="2058.68" />
+		<pos x="6122.49" z="1173.18" />
+		<pos x="6108.52" z="1998.81" />
+		<pos x="7471.07" z="2020.11" />
+		<pos x="8737.51" z="3119.43" />
+		<pos x="4898.93" z="4793.12" />
+		<pos x="8117.6"  z="9821.15" />
+		<pos x="13301.9" z="11546.2" />
+	</event>
+    <event name="Loot" />
   <event name="VehicleOffroadHatchback">
 		<pos x="14744.2" y="407.256" z="7396.97" a="152.533"/>
 		<pos x="14358.5" y="538.736" z="5187.69" a="-99.7792"/>
@@ -328,5 +356,20 @@
 		<pos x="11028.4" y="232.742" z="3686.7" a="154.275"/>
 		<pos x="14442.8" y="435.422" z="12635.7" a="23.8563"/>
 		<pos x="14541.4" y="435.422" z="12710.7" a="23.8563"/>
-  </event>
+	</event>
+    <event name="VehicleTransitBus" />
+    <event name="InfectedVillage" />
+    <event name="InfectedSolitude" />
+    <event name="InfectedArmy" />
+    <event name="InfectedCity" />
+    <event name="InfectedMedic" />
+    <event name="InfectedPolice" />
+    <event name="InfectedFirefighter" />
+    <event name="InfectedPrisoner" />
+    <event name="AnimalDeer" />
+    <event name="AnimalCow" />
+    <event name="AnimalSheep" />
+    <event name="AnimalRoeDeer" />
+    <event name="AnimalWolf" />
+    <event name="AnimalWildBoar" />
 </eventposdef>

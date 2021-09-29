@@ -9204,7 +9204,6 @@
 		</group>
 		<group name="Land_Airfield_Small_Hangar" lootmax="10">
 				<usage name="Military" />
-				<usage name="Industrial" />
 				<container name="lootFloor" lootmax="10">
 						<category name="tools" />
 						<category name="containers" />
@@ -10878,8 +10877,6 @@
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
-						<category name="weapons" />
-						<category name="explosives" />
 						<tag name="floor" />
 						<tag name="shelves" />
 						<point pos="0.895633 -1.529320 -1.835329" range="0.168750" height="0.421875" />

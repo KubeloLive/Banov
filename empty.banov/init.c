@@ -1,3 +1,5 @@
+//Vanilla Banov Init.c
+// Thank you for using my map
 void main()
 {		
 	//INIT WEATHER BEFORE ECONOMY INIT------------------------
@@ -15,8 +17,9 @@ void main()
 	if ( ce )
 		ce.InitOffline();
 	
-	//GetCEApi().ExportProxyData(vector.Zero, 100000);
-	//GetCEApi().ExportClusterData();
+	//Loot spawn Creator
+	GetCEApi().ExportProxyData(vector.Zero, 100000); //Loot
+	GetCEApi().ExportClusterData(); //Fruit
 
 	//DATE RESET AFTER ECONOMY INIT-------------------------
 	int year, month, day, hour, minute;
