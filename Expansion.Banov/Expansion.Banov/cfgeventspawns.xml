@@ -96,6 +96,10 @@
 	<pos x="7518.47" y="234.364" z="5051.2" a="61.9664"/>
 	<pos x="8354.84" y="209.49" z="2489.58" a="63.5775"/>
 	<pos x="3955.67" y="221.905" z="3030.25" a="132.829"/>
+	<pos x="1182.55" y="242.576" z="10930.5" a="146.701"/>
+	<pos x="4369.2" y="234.088" z="11357.7" a="-102.709"/>
+	<pos x="6846" y="305.587" z="13264.2" a="-24.1407"/>
+	<pos x="12614" y="322.645" z="10638.9" a="-177.133"/>
   </event>
   <event name="StaticChristmasTree" />
   <event name="ItemPlanks">
@@ -146,7 +150,32 @@
 		<pos x="14467.8" y="435.221" z="12740.4" a="27.6614"/>
 		<pos x="14479.8" y="435.221" z="12678.9" a="27.6614"/>
 		<pos x="14422.5" y="435.221" z="12649.2" a="27.6614"/>
+		<pos x="300.914" y="227.977" z="5011.14" a="-121.388"/>
+		<pos x="284.741" y="230.855" z="5114.59" a="-128.608"/>
+		<pos x="1397.43" y="239.757" z="6700.51" a="-127.388"/>	
   </event>
+     <event name="StaticContaminatedArea">
+		<zone smin="0" smax="0" dmin="10" dmax="15" r="75" />
+	  	<pos x="11924.1" z="14955.9" />
+		<pos x="9027.58" z="12272.8" />
+		<pos x="7112.95" z="12086.9" />
+		<pos x="6463.47" z="13826.3" />
+		<pos x="4213"    z="13618.5" />
+		<pos x="2070.31" z="11679.7" />
+		<pos x="1742.05" z="7762.89" />
+		<pos x="304.204" z="5917.99" />
+		<pos x="2293.23" z="4926.09" />
+		<pos x="2161.18" z="2058.68" />
+		<pos x="6122.49" z="1173.18" />
+		<pos x="6108.52" z="1998.81" />
+		<pos x="7471.07" z="2020.11" />
+		<pos x="8737.51" z="3119.43" />
+		<pos x="4898.93" z="4793.12" />
+		<pos x="8117.6"  z="9821.15" />
+		<pos x="13836.6" z="3729.93" />
+		<pos x="13301.9" z="11546.2" />
+	</event>
+    <event name="Loot" />	
   <event name="VehicleOffroadHatchback">
   		<pos x="14744.2" y="407.256" z="7396.97" a="152.533"/>
 		<pos x="14358.5" y="538.736" z="5187.69" a="-99.7792"/>
@@ -345,6 +374,23 @@
 		<pos x="14442.8" y="435.422" z="12635.7" a="23.8563"/>
 		<pos x="14541.4" y="435.422" z="12710.7" a="23.8563"/>
   </event>
+  
+    <event name="VehicleTransitBus" />
+    <event name="InfectedVillage" />
+    <event name="InfectedSolitude" />
+    <event name="InfectedArmy" />
+    <event name="InfectedCity" />
+    <event name="InfectedMedic" />
+    <event name="InfectedPolice" />
+    <event name="InfectedFirefighter" />
+    <event name="InfectedPrisoner" />
+    <event name="AnimalDeer" />
+    <event name="AnimalCow" />
+    <event name="AnimalSheep" />
+    <event name="AnimalRoeDeer" />
+    <event name="AnimalWolf" />
+    <event name="AnimalWildBoar" />
+	
 	<!-- EXPANSION EVENT SPAWN POINTS -->	
 	<!-- EXPANSION CARS -->
 	<event name="VehicleUAZ">
@@ -371,16 +417,16 @@
 		<pos x="0"  z="0" a="0" />
 	</event>
 	<event name="VehicleUh1hHelicopter">
-		<pos x="4858.9191"  z="4995.1328" a="90" />
+		<pos x="4882.5691"  z="4819.1328" a="90" />
 		<pos x="8118.6554"  z="9730.5024" a="4" />
 		<pos x="11706.852"  z="15041.925" a="90" />
-		<pos x="1780.275"  z="11990.724" a="-45" />
+		<pos x="2147.035"  z="11805.324" a="-90" />
 	</event>
 	<event name="VehicleTHEGYRO">
 		<pos x="6218.78"  z="2056.19" a="-1" />
 		<pos x="13870.10"  z="3729.61" a="-65.0" />
 		<pos x="2268.05"  z="5012.20" a="-2" />
-		<pos x="4803.12"  z="4483.51" a="-95" />
+		<pos x="4956.57"  z="4550.41" a="-95" />
 		<pos x="8292.18"  z="9992.33" a="175" />
 		<pos x="12432.20"  z="15105.02" a="-128" />		
 	</event>
@@ -392,5 +438,5 @@
 	<event name="VehicleZodiacBoat">
 		<pos x="0"  z="0" a="0" />
 		<pos x="0"  z="0" a="0" />
-	</event>  
+	</event>   
 </eventposdef>

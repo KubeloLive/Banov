@@ -1,25 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <events>
     <!-- Vanilla Tweaks -->
-    <event name="VehicleCivilianSedan">
-        <nominal>10</nominal>
-        <min>7</min>
-        <max>13</max>
-        <lifetime>300</lifetime>
-        <restock>0</restock>
-        <saferadius>500</saferadius>
-        <distanceradius>500</distanceradius>
-        <cleanupradius>200</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>fixed</position>
-        <limit>mixed</limit>
-        <active>1</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="CivilianSedan"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="CivilianSedan_Black"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="CivilianSedan_Wine"/>
-        </children>
-    </event>
     <event name="VehicleHatchback02">
         <nominal>10</nominal>
         <min>7</min>
@@ -34,64 +15,7 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Hatchback_02"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Hatchback_02_Black"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Hatchback_02_BlackRust"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Hatchback_02_Blue"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Hatchback_02_BlueRust"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Hatchback_02_Red"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Hatchback_02_RedRust"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="Hatchback_02_BanditKitty"/>
-        </children>
-    </event>
-    <event name="VehicleOffroadHatchback">
-        <nominal>10</nominal>
-        <min>7</min>
-        <max>13</max>
-        <lifetime>300</lifetime>
-        <restock>0</restock>
-        <saferadius>500</saferadius>
-        <distanceradius>500</distanceradius>
-        <cleanupradius>200</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>fixed</position>
-        <limit>mixed</limit>
-        <active>1</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback_Blue"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback_BlueRust"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback_White"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback_WhiteRust"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback_Green" />
-            <child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback_GreenRust" />
-        </children>
-    </event>
-    <event name="VehicleSedan02">
-        <nominal>10</nominal>
-        <min>7</min>
-        <max>13</max>
-        <lifetime>300</lifetime>
-        <restock>0</restock>
-        <saferadius>500</saferadius>
-        <distanceradius>500</distanceradius>
-        <cleanupradius>200</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>fixed</position>
-        <limit>mixed</limit>
-        <active>1</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02_Grey"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02_GreyRust"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02_Red"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02_RedRust"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02_Yellow"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02_YellowRust"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02_YellowBright"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02_YellowBrightRust"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02_Blue"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02_BlueRust"/>
         </children>
     </event>
     <event name="VehicleTruck01">
@@ -108,14 +32,12 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Blue"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Orange"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Black"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Grey"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Lime"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Red"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_White"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Black"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Wine"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Lime"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Yellow"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_YellowBright"/>
         </children>
@@ -162,7 +84,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="0" lootmin="0" max="2" min="1" type="ExpansionVodnik"/>
         </children>
@@ -179,7 +101,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="0" lootmin="0" max="5" min="1" type="ExpansionBus"/>
             <child lootmax="0" lootmin="0" max="5" min="1" type="ExpansionBus_Weeb"/>
@@ -198,7 +120,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="0" lootmin="0" max="5" min="1" type="ExpansionTractor"/>
             <child lootmax="0" lootmin="0" max="5" min="1" type="ExpansionTractor_Blue"/>
@@ -249,7 +171,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="0" lootmin="0" max="1" min="1" type="ExpansionMerlin"/>
             <child lootmax="0" lootmin="0" max="1" min="1" type="ExpansionMerlin_Dahoman"/>
@@ -292,7 +214,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="0" lootmin="0" max="4" min="1" type="ExpansionUtilityBoat"/>
         </children>
@@ -309,7 +231,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="0" lootmin="0" max="19" min="1" type="ExpansionZodiacBoat"/>
             <child lootmax="0" lootmin="0" max="19" min="1" type="ExpansionZodiacBoat_Black"/>
@@ -329,7 +251,7 @@
         <flags deletable="0" init_random="0" remove_damaged="0"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="0" lootmin="0" max="4" min="1" type="Animal_LepusEuropaeus"/>
         </children>
