@@ -18,8 +18,8 @@ void main()
 		ce.InitOffline();
 	
 	//Loot spawn Creator
-	GetCEApi().ExportProxyData(vector.Zero, 100000); //Loot
-	GetCEApi().ExportClusterData(); //Fruit
+	//GetCEApi().ExportProxyData(vector.Zero, 100000); //Loot
+	//GetCEApi().ExportClusterData(); //Fruit
 
 	//DATE RESET AFTER ECONOMY INIT-------------------------
 	int year, month, day, hour, minute;
