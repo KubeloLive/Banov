@@ -8586,8 +8586,8 @@
 		</group>
 		<group name="Land_Mil_Airfield_HQ" lootmax="20">
 				<container name="lootFloor" lootmax="10">
-						<category name="tools" />
-						<category name="containers" />
+						<category name="weapons" />
+                        <category name="explosives" />
 						<category name="clothes" />
 						<tag name="floor" />
 						<point pos="-2.717287 -0.891541 3.522704" range="1.199951" height="2.000000" />
@@ -9205,8 +9205,8 @@
 		<group name="Land_Airfield_Small_Hangar" lootmax="10">
 				<usage name="Military" />
 				<container name="lootFloor" lootmax="10">
-						<category name="tools" />
-						<category name="containers" />
+						<category name="weapons" />
+                        <category name="explosives" />
 						<category name="clothes" />
 						<tag name="floor" />
 						<point pos="-2.967247 -3.382294 -12.812265" range="1.147217" height="2.000000" />
@@ -9260,8 +9260,8 @@
 		<group name="Land_Airfield_Hangar_Green">
 				<usage name="Military" />
 				<container name="lootFloor" lootmax="6">
-						<category name="tools" />
-						<category name="containers" />
+						<category name="weapons" />
+                        <category name="explosives" />
 						<category name="clothes" />
 						<category name="food" />
 						<tag name="ground" />
