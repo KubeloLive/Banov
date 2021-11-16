@@ -9,10 +9,6 @@ Q: Can I add my own locations on the map?
 
 A: Yes.
 
-Q: Can I monetize my server when using Banov?
-
-A: You are hereby given monetization approval under the conditions that you follow the DayZ Server Monetization agreement and have obtained permission from Bohemia. Read more here [www.bohemia.net].
-
 Q: Can I repack Banov?
 
 A: No.
