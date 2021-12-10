@@ -3947,7 +3947,7 @@
         <usage name="Lunapark"/>
         <value name="Tier1"/>
     </type>
-    <type name="ChristmasTree">
+    <type name="ChristmasTree_Green">
         <nominal>0</nominal>
         <lifetime>3</lifetime>
         <restock>0</restock>
@@ -6662,10 +6662,10 @@
         <category name="clothes"/>
     </type>
     <type name="GiftBox_Large_1">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6678,10 +6678,10 @@
         <usage name="SeasonalEvent"/>
     </type>
     <type name="GiftBox_Large_2">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6694,10 +6694,10 @@
         <usage name="SeasonalEvent"/>
     </type>
     <type name="GiftBox_Large_3">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6710,10 +6710,10 @@
         <usage name="SeasonalEvent"/>
     </type>
     <type name="GiftBox_Large_4">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6726,10 +6726,10 @@
         <usage name="SeasonalEvent"/>
     </type>
     <type name="GiftBox_Medium_1">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6742,10 +6742,10 @@
         <usage name="SeasonalEvent"/>
     </type>
     <type name="GiftBox_Medium_2">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6758,10 +6758,10 @@
         <usage name="SeasonalEvent"/>
     </type>
     <type name="GiftBox_Medium_3">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6774,10 +6774,10 @@
         <usage name="SeasonalEvent"/>
     </type>
     <type name="GiftBox_Medium_4">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6790,10 +6790,10 @@
         <usage name="SeasonalEvent"/>
     </type>
     <type name="GiftBox_Small_1">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6806,10 +6806,10 @@
         <usage name="SeasonalEvent"/>
     </type>
     <type name="GiftBox_Small_2">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6822,10 +6822,10 @@
         <usage name="SeasonalEvent"/>
     </type>
     <type name="GiftBox_Small_3">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6838,10 +6838,10 @@
         <usage name="SeasonalEvent"/>
     </type>
     <type name="GiftBox_Small_4">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
