@@ -407,9 +407,9 @@
         </children>
     </event>
     <event name="InfectedNBC">
-        <nominal>20</nominal>
-        <min>15</min>
-        <max>19</max>
+        <nominal>50</nominal>
+        <min>25</min>
+        <max>250</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -661,7 +661,7 @@
         <children/>
     </event>
     <event name="StaticBonfire">
-        <nominal>0</nominal>
+        <nominal>20</nominal>
         <min>0</min>
         <max>0</max>
         <lifetime>86400</lifetime>
@@ -679,7 +679,7 @@
         </children>
     </event>
     <event name="StaticChristmasTree">
-        <nominal>8</nominal>
+        <nominal>13</nominal>
         <min>0</min>
         <max>0</max>
         <lifetime>43200</lifetime>
@@ -690,15 +690,15 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>uniform</position>
         <limit>child</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
-            <child lootmax="15" lootmin="10" max="13" min="13" type="ChristmasTree_Green"/>
+            <child lootmax="15" lootmin="10" max="13" min="13" type="ChristmasTree"/>
         </children>
     </event>
     <event name="StaticContaminatedArea">
         <nominal>0</nominal>
-        <min>1</min>
-        <max>2</max>
+        <min>2</min>
+        <max>4</max>
         <lifetime>2100</lifetime>
         <restock>0</restock>
         <saferadius>0</saferadius>
@@ -728,9 +728,9 @@
         <children/>
     </event>
     <event name="StaticHeliCrash">
-        <nominal>8</nominal>
-        <min>2</min>
-        <max>5</max>
+        <nominal>3</nominal>
+        <min>0</min>
+        <max>0</max>
         <lifetime>2100</lifetime>
         <restock>0</restock>
         <saferadius>1000</saferadius>
@@ -765,10 +765,10 @@
             <child lootmax="5" lootmin="3" max="5" min="5" type="Land_Wreck_sed01_aban2_police"/>
         </children>
     </event>
-   <event name="StaticSantaCrash">
-        <nominal>15</nominal>
-        <min>8</min>
-        <max>14</max>
+    <event name="StaticSantaCrash">
+        <nominal>3</nominal>
+        <min>0</min>
+        <max>0</max>
         <lifetime>2100</lifetime>
         <restock>0</restock>
         <saferadius>1000</saferadius>
@@ -780,7 +780,7 @@
         <limit>child</limit>
         <active>0</active>
         <children>
-            <child lootmax="15" lootmin="10" max="3" min="1" type="SantasSleigh"/>
+            <child lootmax="15" lootmin="10" max="3" min="1" type="Wreck_SantasSleigh"/>
         </children>
     </event>
     <event name="TrajectoryApple">
@@ -888,9 +888,9 @@
         </children>
     </event>
     <event name="TrajectoryPlum">
-        <nominal>0</nominal>
-        <min>0</min>
-        <max>0</max>
+        <nominal>140</nominal>
+        <min>2</min>
+        <max>4</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>25</saferadius>
@@ -899,7 +899,7 @@
         <flags deletable="0" init_random="0" remove_damaged="0"/>
         <position>player</position>
         <limit>mixed</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="0" min="0" type="Plum"/>
         </children>

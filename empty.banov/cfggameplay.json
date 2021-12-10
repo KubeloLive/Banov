@@ -14,7 +14,7 @@
 			"sprintStaminaModifierErc": 1.0,
 			"sprintStaminaModifierCro": 1.0,
 			"staminaWeightLimitThreshold": 6000.0,
-			"staminaMax": 100.0,
+			"staminaMax": 200.0,
 			"staminaKgToStaminaPercentPenalty": 1.75,
 			"staminaMinCap": 5.0
 		}
