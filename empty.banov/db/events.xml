@@ -692,7 +692,7 @@
         <limit>child</limit>
         <active>1</active>
         <children>
-            <child lootmax="15" lootmin="10" max="13" min="13" type="ChristmasTree"/>
+            <child lootmax="15" lootmin="10" max="13" min="13" type="ChristmasTree_Green"/>
         </children>
     </event>
     <event name="StaticContaminatedArea">
