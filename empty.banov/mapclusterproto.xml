@@ -33,7 +33,7 @@
 			<export name="FagusSylvatica_stumpC" shape="dz\plants\tree\d_FagusSylvatica_stumpc.p3d" />
 			<export name="FagusSylvatica_fallen" shape="dz\plants\tree\d_FagusSylvatica_fallen.p3d" />
 			<export name="FagusSylvatica_fallenB" shape="dz\plants\tree\d_FagusSylvatica_fallenB.p3d" />
-			<export name="FagusSylvatica_fallenC" shape="dz\plants\tree\d_FagusSylvatica_fallenC.p3d" />
+			<export name="FagusSylvatica_fallenC" shape="dz\plants_bliss\tree\d_betulapendula_fallen.p3d" />
 <!-- -->
 			<export name="BetulaPendula_fallen" shape="dz\plants_bliss\tree\d_betulapendula_fallen.p3d" />
 			<export name="BetulaPendula_stump" shape="dz\plants_bliss\tree\d_betulapendula_stump.p3d" />
