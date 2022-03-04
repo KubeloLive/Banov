@@ -1,34 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
-<type name="Blue_Key">
-        <nominal>5</nominal>
+	<type name="Blue_Key">
+        <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-		<tag name="floor"/>        
+		<tag name="floor"/>     
+		<usage name="Town"/>
 		<usage name="Military"/>
+		<value name="Tier1"/> 
 		<value name="Tier3"/> 
-		<value name="Tier4"/>  
     </type>
 	<type name="Red_Key">
-        <nominal>5</nominal>
+        <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-		<tag name="floor"/>        
+		<tag name="floor"/>  
+		<usage name="Town"/>
 		<usage name="Military"/>
+		<value name="Tier1"/> 
 		<value name="Tier3"/> 
-		<value name="Tier4"/>  
     </type>
 	    <type name="Mag_PP19_64Rnd">
         <nominal>12</nominal>
@@ -2689,34 +2691,6 @@
         <usage name="Village"/>
     </type>
     <type name="Bear_Dark">
-        <nominal>25</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>10</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="containers"/>
-        <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-    </type>
-    <type name="Bear_Pink">
-        <nominal>25</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>10</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="containers"/>
-        <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-    </type>
-    <type name="Bear_White">
         <nominal>25</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -10459,7 +10433,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
+        <value name="Tier5"/>
     </type>
     <type name="Mag_FAMAS_25Rnd">
         <nominal>5</nominal>

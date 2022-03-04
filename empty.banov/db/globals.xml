@@ -22,7 +22,7 @@
     <var name="SpawnInitial" type="0" value="1200"/>
     <var name="TimeHopping" type="0" value="60"/>
     <var name="TimeLogin" type="0" value="5"/>
-    <var name="TimeLogout" type="0" value="15"/>
+    <var name="TimeLogout" type="0" value="10"/>
     <var name="TimePenalty" type="0" value="20"/>
     <var name="WorldWetTempUpdate" type="0" value="1"/>
     <var name="ZombieMaxCount" type="0" value="800"/>

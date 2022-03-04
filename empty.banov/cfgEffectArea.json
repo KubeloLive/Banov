@@ -5,7 +5,7 @@
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
 				"Pos": [ 13826, 0, 3748 ],
-				"Radius": 190,
+				"Radius": 215,
 				"PosHeight": 21,
 				"NegHeight": 10,
 				"InnerRingCount": 2,
