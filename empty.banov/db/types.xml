@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 	<type name="Blue_Key">
-        <nominal>8</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -9,16 +9,44 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="tools"/>
 		<tag name="floor"/>     
 		<usage name="Town"/>
-		<usage name="Military"/>
-		<value name="Tier1"/> 
+		<usage name="Industrial"/>
+		<value name="Tier2"/> 
 		<value name="Tier3"/> 
     </type>
 	<type name="Red_Key">
-        <nominal>8</nominal>
+        <nominal>6</nominal>
         <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<tag name="floor"/>  
+		<usage name="Town"/>
+		<usage name="Office"/>
+		<value name="Tier1"/>
+		<value name="Tier3"/> 
+    </type>
+    <type name="SingularityCannon">
+        <nominal>0</nominal>            
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>4</min>				
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+    </type>
+    <type name="Singularity_Ammobox">
+        <nominal>4</nominal>
+        <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
@@ -26,11 +54,21 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-		<tag name="floor"/>  
-		<usage name="Town"/>
 		<usage name="Military"/>
-		<value name="Tier1"/> 
-		<value name="Tier3"/> 
+        <value name="Tier4"/>
+	</type>
+    <type name="Ammo_BNVSingularityCell">
+		<nominal>2</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
     </type>
 	    <type name="Mag_PP19_64Rnd">
         <nominal>12</nominal>
@@ -138,7 +176,6 @@
         <usage name="Military"/>
         <usage name="Police"/>
         <value name="Tier4"/>
-        <value name="Tier5"/>
     </type>
     <type name="AK101">
         <nominal>2</nominal>
@@ -151,7 +188,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier5"/>
+        <value name="Tier4"/>
     </type>
     <type name="AK101_Black">
         <nominal>0</nominal>
@@ -3273,13 +3310,13 @@
         <usage name="Village"/>
     </type>
     <type name="Breeches_Pink">
-        <nominal>25</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>20</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
+		<nominal>4</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Town"/>
@@ -5678,7 +5715,6 @@
         <category name="weapons"/>
         <usage name="Military"/>
         <value name="Tier4"/>
-		<value name="Tier5"/>
     </type>
     <type name="Fal_OeBttstck">
         <nominal>5</nominal>
@@ -9183,7 +9219,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="explosives"/>
         <usage name="Military"/>
-        <value name="Tier5"/>
+        <value name="Tier4"/>
     </type>
     <type name="Land_Wreck_Volha_Police">
         <nominal>0</nominal>
@@ -10307,8 +10343,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
+        <value name="Tier3"/>
         <value name="Tier4"/>
-        <value name="Tier5"/>
     </type>
     <type name="Mag_CMAG_10Rnd">
         <nominal>12</nominal>
@@ -10433,7 +10469,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier5"/>
+        <value name="Tier4"/>
     </type>
     <type name="Mag_FAMAS_25Rnd">
         <nominal>5</nominal>
@@ -10611,7 +10647,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier5"/>
+        <value name="Tier4"/>
     </type>
     <type name="Mag_Saiga_5Rnd">
         <nominal>15</nominal>

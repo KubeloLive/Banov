@@ -784,7 +784,7 @@
         </children>
     </event>
     <event name="TrajectoryApple">
-        <nominal>140</nominal>
+        <nominal>40</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -818,7 +818,7 @@
         </children>
     </event>
     <event name="TrajectoryConiferous">
-        <nominal>140</nominal>
+        <nominal>20</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -836,7 +836,7 @@
         </children>
     </event>
     <event name="TrajectoryDeciduous">
-        <nominal>140</nominal>
+        <nominal>20</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -853,18 +853,18 @@
         </children>
     </event>
     <event name="TrajectoryHumus">
-        <nominal>0</nominal>
-        <min>0</min>
-        <max>0</max>
+        <nominal>20</nominal>
+        <min>2</min>
+        <max>4</max>
         <lifetime>180</lifetime>
-        <restock>0</restock>contaminated areas SafePositions
+        <restock>0</restock>
         <saferadius>25</saferadius>
         <distanceradius>100</distanceradius>
         <cleanupradius>25</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="0"/>
         <position>player</position>
         <limit>mixed</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="0" min="0" type="AgaricusMushroom"/>
             <child lootmax="0" lootmin="0" max="0" min="0" type="PleurotusMushroom"/>
@@ -899,13 +899,13 @@
         <flags deletable="0" init_random="0" remove_damaged="0"/>
         <position>player</position>
         <limit>mixed</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="0" lootmin="0" max="0" min="0" type="Plum"/>
         </children>
     </event>
     <event name="TrajectorySambucus">
-        <nominal>140</nominal>
+        <nominal>20</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>

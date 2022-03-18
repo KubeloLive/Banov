@@ -64,7 +64,6 @@
 		<point pos="-1.117673 0.610056 0.013012" range="1.5" height="1.5" /> 
 	</container>
 </group>
-
 <group name="Land_ceap_house3" lootmax="5">
 	<usage name="Farm" />
 	<usage name="Village" />
