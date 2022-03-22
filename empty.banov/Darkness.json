@@ -159,6 +159,16 @@
             "triggerheight": 0.0,
             "triggersoundset": "None",
             "soundloop": 0
+			},
+			{
+            "DarkLight": "Sound",
+            "triggerpos": "11623.3 602.32 15040.9",
+            "triggermins": "-2 1 2",
+            "triggermaxs": "2 1 2",
+            "triggerradius": 2.0,
+            "triggerheight": 2.0,
+            "triggersoundset": "tisovik",
+            "soundloop": 1
         }
     ]
 }
