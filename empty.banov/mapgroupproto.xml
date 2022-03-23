@@ -16030,6 +16030,48 @@
 								<proxy type="Truck_01_Door_1_1_OrangeRust" pos="-1.55 1.02 -1.10" rpy="0.0 160.0 0.0" />
 						</dispatch>
 		</group>
+		<group name="Land_Wreck_hb01_aban1_police" lootmax="6">
+				<usage name="Police" />
+				<container name="lootFloor" lootmax="6">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />
+						<category name="weapons" />
+						<tag name="floor" />
+						<tag name="shelves" />
+						<point pos="-0.540222 -0.679489 -0.667969" range="0.100000" height="0.250000" />
+						<point pos="-0.476318 -0.739979 0.525146" range="0.111450" height="0.278625" />
+						<point pos="-0.735535 -0.044003 0.669189" range="0.100000" height="0.250000" />
+						<point pos="-0.096192 -0.355497 0.336914" range="0.263031" height="0.257578" />
+						<point pos="1.494629 -0.463882 0.198730" range="0.279175" height="0.257937" />
+						<point pos="1.486755 -0.432333 -0.408936" range="0.271362" height="0.258406" />
+						<point pos="-0.748840 0.030724 -0.784180" range="0.100000" height="0.250000" />
+						<point pos="-0.066528 -0.325441 -0.525635" range="0.235687" height="0.259218" />
+						<point pos="0.182781 -1.074524 -1.031443" range="0.703197" height="0.329239" flags="32" />
+						<point pos="0.019141 -1.064697 0.905123" range="0.605642" height="0.267319" flags="32" />
+				</container>
+		</group>
+		<group name="Land_Wreck_hb01_aban2_police" lootmax="6">
+				<usage name="Police" />
+				<container name="lootFloor" lootmax="6">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />
+						<category name="weapons" />
+						<tag name="floor" />
+						<tag name="shelves" />
+						<point pos="-0.651092 -0.542667 -0.499023" range="0.100000" height="0.250000" />
+						<point pos="-0.585052 -0.508253 0.675537" range="0.100000" height="0.250000" />
+						<point pos="1.480774 -0.259859 0.401367" range="0.203125" height="0.257813" />
+						<point pos="1.488983 -0.290457 -0.208740" range="0.203125" height="0.257813" />
+						<point pos="-0.802338 0.130041 -0.661621" range="0.100000" height="0.250000" />
+						<point pos="-0.786927 0.200649 0.795654" range="0.100000" height="0.250000" />
+						<point pos="-0.138123 -0.139936 0.528320" range="0.203125" height="0.257813" />
+						<point pos="-0.099457 -0.181223 -0.336426" range="0.201874" height="0.254684" />
+						<point pos="-0.165021 -0.967194 0.915932" range="0.566987" height="0.373947" flags="32" />
+						<point pos="-0.208003 -0.883530 -0.799476" range="0.552783" height="0.288956" flags="32" />
+				</container>
+		</group>
 		<group name="Bonfire" lootmax="5">
 				<usage name="SeasonalEvent" />
 				<usage name="Firefighter" />
