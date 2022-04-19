@@ -1,6 +1,6 @@
 {
     "Areas": [
-        { 	"AreaName": "Jankov Vršok", 
+        { 	"AreaName": "Area01", 
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
@@ -23,7 +23,7 @@
 				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
 			}
 		},
-        { 	"AreaName": "Tisovik Bunker", 
+        { 	"AreaName": "Area02", 
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
@@ -44,6 +44,30 @@
 				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
 				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
 				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+				}
+		},
+        { 	"AreaName": "Area 03", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 467.686, 0, 15174 ],
+				"Radius": 40,
+				"PosHeight": 20,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+				
 			}
 		}
     ],

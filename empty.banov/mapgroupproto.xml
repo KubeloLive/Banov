@@ -4618,7 +4618,6 @@
 				<container name="lootFloor" lootmax="6">
 						<category name="tools" />
 						<category name="containers" />
-						<category name="vehicleparts" />
 						<category name="clothes" />
 						<category name="weapons" />
 						<category name="explosives" />
@@ -4732,7 +4731,6 @@
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
-						<category name="vehicleparts" />
 						<category name="clothes" />
 						<tag name="ground" />
 						<tag name="floor" />
@@ -9201,8 +9199,8 @@
 				<container name="lootFloor" lootmax="6">
 						<category name="tools" />
 						<category name="containers" />
-						<category name="clothes" />
-						<category name="food" />
+						<category name="weapons" />
+						<category name="explosives" />
 						<tag name="ground" />
 						<tag name="floor" />
 						<point pos="19.429443 3.241959 8.801757" range="0.811279" height="2.000000" />
@@ -9296,8 +9294,8 @@
 				<container name="lootFloor" lootmax="6">
 						<category name="tools" />
 						<category name="containers" />
-						<category name="clothes" />
-						<category name="food" />
+						<category name="weapons" />
+						<category name="explosives" />
 						<tag name="ground" />
 						<tag name="floor" />
 						<point pos="14.274171 3.241959 -7.928223" range="0.802734" height="2.000000" />
@@ -16153,150 +16151,4 @@
 						<point pos="-0.564277 -1.795883 -2.646985" range="0.837598" height="2.000000" flags="32" />
 				</container>
 		</group>
-<!-- NOT INGAME - PREPARATION
-		<group name="Land_Wreck_truck02_aban1_green" >
-						<usage name="Village" />		
-						<usage name="Industrial" />		
-						<container name="loot" lootmax="2">
-							<category name="vehicleparts" />
-							<category name="tools" />
-							<category name="containers" />
-							<category name="clothes" />
-							<category name="food" />
-							<category name="weapons" />
-							<category name="explosives" />
-						</container>
-						<dispatch>
-								<proxy type="HatchbackWheel" pos="0.78 -0.427 -1.155" rpy="90.0 0.0 45.0" />
-								<proxy type="HatchbackDoors_Driver" pos="0.767 0.787 -0.532" rpy="90.0 180.0 -90.0" />
-								<proxy type="HatchbackTrunk" pos="-0.054 0.163 1.516" rpy="90.0 180.0 -90.0" />
-						</dispatch>
-		</group>
-		<group name="Land_Wreck_truck02_aban1_orange" >
-						<usage name="Village" />		
-						<usage name="Industrial" />		
-						<container name="loot" lootmax="2">
-							<category name="vehicleparts" />
-							<category name="tools" />
-							<category name="containers" />
-							<category name="clothes" />
-							<category name="food" />
-							<category name="weapons" />
-							<category name="explosives" />
-						</container>
-						<dispatch>
-								<proxy type="HatchbackWheel" pos="0.78 -0.427 -1.155" rpy="90.0 0.0 45.0" />
-								<proxy type="HatchbackDoors_Driver" pos="0.767 0.787 -0.532" rpy="90.0 180.0 -90.0" />
-								<proxy type="HatchbackTrunk" pos="-0.054 0.163 1.516" rpy="90.0 180.0 -90.0" />
-						</dispatch>
-		</group>
-		<group name="Land_Wreck_truck02_aban2_green" >
-						<usage name="Village" />		
-						<usage name="Industrial" />		
-						<container name="loot" lootmax="2">
-							<category name="vehicleparts" />
-							<category name="tools" />
-							<category name="containers" />
-							<category name="clothes" />
-							<category name="food" />
-							<category name="weapons" />
-							<category name="explosives" />
-						</container>
-						<dispatch>
-								<proxy type="HatchbackWheel" pos="0.78 -0.427 -1.155" rpy="90.0 0.0 45.0" />
-								<proxy type="HatchbackDoors_Driver" pos="0.767 0.787 -0.532" rpy="90.0 180.0 -90.0" />
-								<proxy type="HatchbackTrunk" pos="-0.054 0.163 1.516" rpy="90.0 180.0 -90.0" />
-						</dispatch>
-		</group>
-		<group name="Land_Wreck_truck02_aban2_orange" >
-						<usage name="Village" />		
-						<usage name="Industrial" />		
-						<container name="loot" lootmax="2">
-							<category name="vehicleparts" />
-							<category name="tools" />
-							<category name="containers" />
-							<category name="clothes" />
-							<category name="food" />
-							<category name="weapons" />
-							<category name="explosives" />
-						</container>
-						<dispatch>
-								<proxy type="HatchbackWheel" pos="0.78 -0.427 -1.155" rpy="90.0 0.0 45.0" />
-								<proxy type="HatchbackDoors_Driver" pos="0.767 0.787 -0.532" rpy="90.0 180.0 -90.0" />
-								<proxy type="HatchbackTrunk" pos="-0.054 0.163 1.516" rpy="90.0 180.0 -90.0" />
-						</dispatch>
-		</group>
-		<group name="Land_Wreck_van01_aban1_beige" >
-						<usage name="Village" />		
-						<usage name="Industrial" />		
-						<container name="loot" lootmax="2">
-							<category name="vehicleparts" />
-							<category name="tools" />
-							<category name="containers" />
-							<category name="clothes" />
-							<category name="food" />
-							<category name="weapons" />
-							<category name="explosives" />
-						</container>
-						<dispatch>
-								<proxy type="HatchbackWheel" pos="0.78 -0.427 -1.155" rpy="90.0 0.0 45.0" />
-								<proxy type="HatchbackDoors_Driver" pos="0.767 0.787 -0.532" rpy="90.0 180.0 -90.0" />
-								<proxy type="HatchbackTrunk" pos="-0.054 0.163 1.516" rpy="90.0 180.0 -90.0" />
-						</dispatch>
-		</group>
-		<group name="Land_Wreck_van01_aban1_blue" >
-						<usage name="Village" />		
-						<usage name="Industrial" />		
-						<container name="loot" lootmax="2">
-							<category name="vehicleparts" />
-							<category name="tools" />
-							<category name="containers" />
-							<category name="clothes" />
-							<category name="food" />
-							<category name="weapons" />
-							<category name="explosives" />
-						</container>
-						<dispatch>
-								<proxy type="HatchbackWheel" pos="0.78 -0.427 -1.155" rpy="90.0 0.0 45.0" />
-								<proxy type="HatchbackDoors_Driver" pos="0.767 0.787 -0.532" rpy="90.0 180.0 -90.0" />
-								<proxy type="HatchbackTrunk" pos="-0.054 0.163 1.516" rpy="90.0 180.0 -90.0" />
-						</dispatch>
-		</group>
-		<group name="Land_Wreck_van01_aban2_beige" >
-						<usage name="Village" />		
-						<usage name="Industrial" />		
-						<container name="loot" lootmax="2">
-							<category name="vehicleparts" />
-							<category name="tools" />
-							<category name="containers" />
-							<category name="clothes" />
-							<category name="food" />
-							<category name="weapons" />
-							<category name="explosives" />
-						</container>
-						<dispatch>
-								<proxy type="HatchbackWheel" pos="0.78 -0.427 -1.155" rpy="90.0 0.0 45.0" />
-								<proxy type="HatchbackDoors_Driver" pos="0.767 0.787 -0.532" rpy="90.0 180.0 -90.0" />
-								<proxy type="HatchbackTrunk" pos="-0.054 0.163 1.516" rpy="90.0 180.0 -90.0" />
-						</dispatch>
-		</group>
-		<group name="Land_Wreck_van01_aban2_blue" >
-						<usage name="Village" />		
-						<usage name="Industrial" />		
-						<container name="loot" lootmax="2">
-							<category name="vehicleparts" />
-							<category name="tools" />
-							<category name="containers" />
-							<category name="clothes" />
-							<category name="food" />
-							<category name="weapons" />
-							<category name="explosives" />
-						</container>
-						<dispatch>
-								<proxy type="HatchbackWheel" pos="0.78 -0.427 -1.155" rpy="90.0 0.0 45.0" />
-								<proxy type="HatchbackDoors_Driver" pos="0.767 0.787 -0.532" rpy="90.0 180.0 -90.0" />
-								<proxy type="HatchbackTrunk" pos="-0.054 0.163 1.516" rpy="90.0 180.0 -90.0" />
-						</dispatch>
-		</group>
--->
 </prototype>

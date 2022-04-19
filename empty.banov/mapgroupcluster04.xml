@@ -1,73 +1,1379 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <map>
+    <group name="FagusSylvatica_fallenC" pos="15249.435547 568.633301 13383.553711" a="147.822800" />
+    <group name="FagusSylvatica_fallenC" pos="15255.181641 570.269897 13381.956055" a="14.983063" />
+    <group name="FagusSylvatica_fallenC" pos="15245.851563 565.115601 13416.443359" a="156.579147" />
+    <group name="FagusSylvatica_fallenC" pos="15255.131836 568.334473 13411.864258" a="132.628265" />
+    <group name="FagusSylvatica_stumpC" pos="15281.012695 576.286316 13400.652344" a="-27.590258" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15288.046875 582.732178 13454.151367" a="-103.782776" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15293.565430 579.565063 13463.118164" a="-168.241531" />
+    <group name="FagusSylvatica_stumpB" pos="15288.456055 572.372498 13460.592773" a="-96.443680" />
+    <group name="FagusSylvatica_stumpB" pos="15283.191406 570.331421 13465.130859" a="28.639490" />
+    <group name="FagusSylvatica_fallenC" pos="15299.687500 575.519287 13456.510742" a="-160.276184" />
+    <group name="FagusSylvatica_fallenC" pos="15261.578125 565.923096 13445.423828" a="-87.643349" />
+    <group name="FagusSylvatica_stumpC" pos="15282.655273 571.605042 13447.080078" a="34.506374" />
+    <group name="FagusSylvatica_stumpC" pos="15288.485352 571.135803 13466.033203" a="-14.505144" />
+    <group name="FagusSylvatica_fallenC" pos="15240.640625 538.704529 13599.990234" a="-163.341461" />
+    <group name="FagusSylvatica_stumpC" pos="15255.179688 540.998901 13619.121094" a="34.912865" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15287.182617 559.439087 13663.287109" a="141.703217" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15275.877930 555.710876 13662.874023" a="-79.721970" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15241.843750 543.689026 13671.955078" a="178.409653" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15259.548828 548.624939 13672.779297" a="-71.734665" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15248.444336 545.259460 13673.616211" a="1.513424" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15250.783203 547.752380 13652.375977" a="62.599266" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15289.147461 559.636536 13674.173828" a="144.504822" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15265.468750 551.607422 13668.730469" a="-34.171268" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15247.242188 544.329407 13627.728516" a="-169.461075" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15250.127930 544.148865 13644.919922" a="9.357875" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15243.073242 541.339233 13649.308594" a="68.817711" />
+    <group name="FagusSylvatica_stumpB" pos="15294.532227 550.797485 13675.701172" a="-154.991608" />
+    <group name="FagusSylvatica_stumpB" pos="15270.292969 544.414368 13672.391602" a="-178.250381" />
+    <group name="FagusSylvatica_fallenC" pos="15270.145508 543.572815 13665.117188" a="-38.642841" />
+    <group name="FagusSylvatica_fallenC" pos="15272.818359 545.076355 13647.441406" a="124.805756" />
+    <group name="FagusSylvatica_stumpC" pos="15260.083984 540.419128 13650.108398" a="-175.283966" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15261.352539 548.002808 13698.905273" a="-110.462654" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15251.477539 543.100342 13717.842773" a="-153.574326" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15281.089844 556.677429 13680.174805" a="151.887863" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15266.724609 549.700745 13701.378906" a="-139.137848" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15288.225586 556.056580 13712.362305" a="112.061195" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15254.270508 546.650696 13680.611328" a="-52.826630" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15253.602539 543.304810 13727.783203" a="46.679592" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15248.605469 544.796997 13685.047852" a="53.831905" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15278.924805 549.477051 13710.180664" a="11.324492" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15260.992188 542.232239 13724.910156" a="10.709255" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15291.672852 550.674438 13738.548828" a="-155.013580" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15272.430664 546.384277 13721.782227" a="-55.749092" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15296.363281 555.322693 13702.991211" a="81.265594" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15274.822266 550.535034 13683.472656" a="10.950956" />
+    <group name="FagusSylvatica_stumpB" pos="15290.083008 548.121704 13693.716797" a="126.420769" />
+    <group name="FagusSylvatica_stumpB" pos="15274.755859 539.808716 13733.409180" a="78.068474" />
+    <group name="FagusSylvatica_stumpB" pos="15244.128906 530.725220 13717.248047" a="83.616753" />
+    <group name="FagusSylvatica_fallenC" pos="15277.187500 544.158508 13688.891602" a="-69.899902" />
+    <group name="FagusSylvatica_fallenC" pos="15295.788086 547.516846 13718.217773" a="175.377350" />
+    <group name="FagusSylvatica_fallenC" pos="15271.348633 541.414734 13698.177734" a="-96.443680" />
+    <group name="FagusSylvatica_fallenC" pos="15287.343750 547.607239 13686.430664" a="86.945702" />
+    <group name="FagusSylvatica_fallenC" pos="15252.573242 534.156372 13706.591797" a="19.564505" />
+    <group name="FagusSylvatica_stumpC" pos="15256.635742 534.447205 13718.217773" a="51.480740" />
+    <group name="FagusSylvatica_stumpB" pos="15242.525391 527.179138 13750.466797" a="154.074203" />
+    <group name="FagusSylvatica_fallenC" pos="15240.840820 525.403259 13757.898438" a="-21.822266" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15294.145508 535.671143 13889.069336" a="62.467403" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15241.046875 527.860107 13913.291992" a="-81.435898" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15276.691406 530.689026 13907.009766" a="-8.440491" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15278.183594 527.723145 13899.621094" a="-63.780331" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15286.263672 531.715942 13873.863281" a="-28.337355" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15286.843750 532.257813 13870.220703" a="-110.968033" />
+    <group name="FagusSylvatica_fallenC" pos="15291.031250 527.339111 13865.171875" a="28.529634" />
+    <group name="FagusSylvatica_fallenC" pos="15277.183594 523.662842 13868.428711" a="1.656250" />
+    <group name="FagusSylvatica_fallenC" pos="15263.227539 519.235352 13894.211914" a="49.832760" />
+    <group name="FagusSylvatica_fallenC" pos="15299.214844 527.652344 13878.200195" a="-127.448044" />
+    <group name="FagusSylvatica_fallenC" pos="15286.299805 522.014709 13917.029297" a="-23.964663" />
+    <group name="FagusSylvatica_fallenC" pos="15281.739258 523.000427 13885.041016" a="-20.284134" />
+    <group name="FagusSylvatica_fallenC" pos="15261.226563 518.751282 13901.223633" a="-38.335220" />
+    <group name="FagusSylvatica_stumpC" pos="15293.855469 523.076294 13917.175781" a="5.424650" />
+    <group name="FagusSylvatica_stumpC" pos="15253.204102 517.901428 13895.420898" a="128.123734" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15290.974609 534.790833 13964.541992" a="153.557846" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15244.627930 538.082153 13960.958984" a="122.366699" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15251.379883 535.207947 13952.626953" a="33.187954" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15263.382813 532.603455 13940.910156" a="-170.241104" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15290.103516 529.287659 13932.149414" a="34.154781" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15288.216797 529.909973 13951.924805" a="-175.998108" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15266.819336 531.324951 13960.641602" a="-42.729877" />
+    <group name="FagusSylvatica_stumpB" pos="15271.747070 521.245239 13926.664063" a="-1.859501" />
+    <group name="FagusSylvatica_stumpB" pos="15288.268555 525.411926 13969.341797" a="43.801086" />
+    <group name="FagusSylvatica_stumpB" pos="15292.985352 524.382080 13959.073242" a="-51.123688" />
+    <group name="FagusSylvatica_stumpB" pos="15280.500977 523.317810 13947.672852" a="150.382690" />
+    <group name="FagusSylvatica_stumpB" pos="15272.187500 522.197998 13936.812500" a="-5.814692" />
+    <group name="FagusSylvatica_stumpB" pos="15293.565430 523.608398 13941.913086" a="-81.963257" />
+    <group name="FagusSylvatica_stumpB" pos="15259.579102 527.915527 13971.570313" a="-70.482185" />
+    <group name="FagusSylvatica_fallenC" pos="15256.267578 522.240173 13938.527344" a="2.590115" />
+    <group name="FagusSylvatica_fallenC" pos="15274.276367 523.362183 13951.752930" a="-85.182335" />
+    <group name="FagusSylvatica_fallenC" pos="15295.229492 523.450989 13922.952148" a="-166.846222" />
+    <group name="FagusSylvatica_fallenC" pos="15257.132813 520.381042 13926.106445" a="-21.767336" />
+    <group name="FagusSylvatica_stumpC" pos="15279.163086 521.078003 13923.938477" a="-148.948944" />
+    <group name="FagusSylvatica_stumpC" pos="15259.500977 525.609253 13962.586914" a="-130.436417" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15297.768555 546.359070 14029.034180" a="68.784752" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15281.858398 538.830200 13989.210938" a="-117.911629" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15297.027344 544.170288 14019.459961" a="141.461533" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15282.107422 551.969788 14039.482422" a="44.603115" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15251.592773 558.257080 14035.565430" a="39.703064" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15269.540039 549.701355 14034.991211" a="152.162521" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15275.188477 549.707397 14038.788086" a="74.739532" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15242.332031 551.347595 14017.908203" a="92.911446" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15277.619141 545.231262 14027.293945" a="-48.058407" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15285.704102 544.322876 14028.750977" a="-167.351608" />
+    <group name="FagusSylvatica_stumpB" pos="15246.353516 539.194153 14004.073242" a="-130.875900" />
+    <group name="FagusSylvatica_fallenC" pos="15255.178711 545.083008 14029.582031" a="-30.611591" />
+    <group name="FagusSylvatica_fallenC" pos="15277.437500 528.088806 13985.790039" a="141.055008" />
+    <group name="FagusSylvatica_fallenC" pos="15267.523438 528.411804 13980.999023" a="-12.977998" />
+    <group name="FagusSylvatica_fallenC" pos="15261.118164 531.574402 13990.410156" a="13.016445" />
+    <group name="FagusSylvatica_fallenC" pos="15261.994141 544.894836 14034.811523" a="-151.860413" />
+    <group name="FagusSylvatica_fallenC" pos="15252.261719 544.339355 14025.245117" a="13.346036" />
+    <group name="FagusSylvatica_fallenC" pos="15265.341797 535.358032 14007.501953" a="-146.751617" />
+    <group name="FagusSylvatica_fallenC" pos="15255.832031 532.784302 13990.822266" a="-44.850304" />
+    <group name="FagusSylvatica_fallenC" pos="15252.116211 531.376831 13982.516602" a="-128.579666" />
+    <group name="FagusSylvatica_stumpC" pos="15269.529297 529.285522 13987.487305" a="8.336113" />
+    <group name="FagusSylvatica_stumpC" pos="15284.916016 530.521362 14001.647461" a="99.964874" />
+    <group name="FagusSylvatica_stumpC" pos="15272.467773 534.298584 14009.405273" a="1.700189" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15252.287109 572.885376 14073.640625" a="134.737701" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15243.653320 573.503418 14077.694336" a="9.445766" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15247.042969 558.232605 14041.368164" a="4.941250" />
+    <group name="FagusSylvatica_stumpB" pos="15270.333008 547.009827 14045.559570" a="38.120972" />
+    <group name="FagusSylvatica_stumpB" pos="15244.187500 558.131470 14054.491211" a="-120.526451" />
+    <group name="FagusSylvatica_stumpB" pos="15244.907227 570.007446 14085.520508" a="-107.276520" />
+    <group name="FagusSylvatica_stumpB" pos="15240.456055 573.887939 14091.545898" a="-166.439697" />
+    <group name="FagusSylvatica_stumpB" pos="15280.153320 549.650391 14059.437500" a="-25.107264" />
+    <group name="FagusSylvatica_stumpB" pos="15284.486328 551.388000 14066.962891" a="98.086159" />
+    <group name="FagusSylvatica_stumpB" pos="15290.294922 554.430420 14078.628906" a="89.077118" />
+    <group name="FagusSylvatica_fallenC" pos="15275.862305 565.631836 14098.917969" a="-121.570175" />
+    <group name="FagusSylvatica_fallenC" pos="15275.613281 563.472412 14093.286133" a="-101.783195" />
+    <group name="FagusSylvatica_fallenC" pos="15297.602539 549.010132 14069.329102" a="71.630310" />
+    <group name="FagusSylvatica_fallenC" pos="15242.647461 574.744568 14096.877930" a="170.806915" />
+    <group name="FagusSylvatica_fallenC" pos="15243.280273 555.994995 14049.210938" a="73.662834" />
+    <group name="FagusSylvatica_fallenC" pos="15264.564453 563.526245 14086.017578" a="79.145164" />
+    <group name="FagusSylvatica_stumpC" pos="15257.220703 570.248779 14097.700195" a="-14.505144" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15253.769531 593.589722 14126.946289" a="148.064484" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15255.723633 587.156067 14113.489258" a="30.474236" />
+    <group name="FagusSylvatica_stumpB" pos="15261.248047 578.547607 14120.131836" a="-104.958344" />
+    <group name="FagusSylvatica_stumpB" pos="15243.881836 580.489380 14111.372070" a="27.694635" />
+    <group name="FagusSylvatica_stumpB" pos="15270.767578 568.377136 14101.557617" a="-26.975006" />
+    <group name="FagusSylvatica_fallenC" pos="15266.777344 575.004822 14116.394531" a="161.061707" />
+    <group name="FagusSylvatica_fallenC" pos="15260.994141 584.293213 14135.046875" a="122.015091" />
+    <group name="FagusSylvatica_stumpB" pos="15275.410156 616.647400 14213.030273" a="0.656461" />
+    <group name="FagusSylvatica_stumpB" pos="15285.257813 608.777283 14200.750000" a="47.404690" />
+    <group name="FagusSylvatica_fallenC" pos="15292.526367 606.757568 14200.225586" a="-29.490948" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15270.160156 641.460632 14243.487305" a="-170.120239" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15294.953125 625.982849 14227.830078" a="76.881920" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15260.324219 648.720337 14269.556641" a="-50.958900" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15265.153320 635.955811 14237.618164" a="24.651331" />
+    <group name="FagusSylvatica_stumpB" pos="15275.319336 637.011658 14260.002930" a="127.717224" />
+    <group name="FagusSylvatica_stumpB" pos="15271.247070 622.508057 14223.875000" a="-60.791965" />
+    <group name="FagusSylvatica_stumpB" pos="15294.357422 617.341370 14222.709961" a="-145.598022" />
+    <group name="FagusSylvatica_fallenC" pos="15275.087891 626.629639 14235.902344" a="128.123734" />
+    <group name="FagusSylvatica_fallenC" pos="15276.137695 629.328308 14242.494141" a="152.909637" />
+    <group name="FagusSylvatica_fallenC" pos="15266.034180 622.189392 14221.238281" a="-81.633659" />
+    <group name="FagusSylvatica_fallenC" pos="15278.271484 638.189087 14265.249023" a="-176.470505" />
+    <group name="FagusSylvatica_stumpC" pos="15278.515625 634.135437 14255.235352" a="-3.793155" />
+    <group name="FagusSylvatica_stumpC" pos="15286.986328 626.679443 14241.356445" a="147.185577" />
+    <group name="FagusSylvatica_stumpC" pos="15298.396484 636.225525 14268.084961" a="101.206383" />
+    <group name="FagusSylvatica_stumpC" pos="15248.033203 638.843933 14254.458984" a="-176.833115" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15268.246094 662.153503 14304.944336" a="122.366699" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15273.632813 659.202026 14296.166992" a="33.187954" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15266.402344 665.355713 14319.157227" a="-63.055202" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15296.461914 666.693420 14330.019531" a="-60.517284" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15280.437500 664.103394 14334.064453" a="-56.759861" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15253.693359 659.779907 14307.824219" a="105.535141" />
+    <group name="FagusSylvatica_stumpB" pos="15262.015625 650.929932 14298.225586" a="-63.769341" />
+    <group name="FagusSylvatica_stumpB" pos="15244.138672 657.726685 14339.672852" a="-121.504265" />
+    <group name="FagusSylvatica_stumpB" pos="15261.118164 657.613403 14331.265625" a="9.248012" />
+    <group name="FagusSylvatica_stumpB" pos="15245.982422 653.559387 14306.541992" a="-176.602356" />
+    <group name="FagusSylvatica_fallenC" pos="15285.299805 655.413208 14323.183594" a="-48.662674" />
+    <group name="FagusSylvatica_fallenC" pos="15252.713867 655.276123 14319.084961" a="166.829727" />
+    <group name="FagusSylvatica_fallenC" pos="15283.017578 645.610840 14288.048828" a="41.977287" />
+    <group name="FagusSylvatica_stumpC" pos="15287.619141 657.323730 14334.263672" a="-157.738281" />
+    <group name="FagusSylvatica_stumpC" pos="15253.548828 651.903748 14302.632813" a="98.547607" />
+    <group name="FagusSylvatica_stumpC" pos="15248.839844 656.281311 14328.060547" a="105.139587" />
+    <group name="FagusSylvatica_stumpC" pos="15286.849609 648.870850 14300.104492" a="-5.605961" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15290.334961 672.825500 14381.579102" a="-28.084665" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15270.234375 671.359619 14373.795898" a="-28.809788" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15298.144531 673.488464 14387.666016" a="44.603115" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15297.607422 666.866150 14352.015625" a="-134.369644" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15245.387695 664.732117 14374.518555" a="-122.009659" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15261.510742 666.677307 14369.795898" a="-177.613174" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15297.755859 668.127014 14361.732422" a="155.172867" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15275.530273 666.394958 14350.877930" a="-115.670341" />
+    <group name="FagusSylvatica_stumpB" pos="15296.809570 659.071960 14341.134766" a="-135.061798" />
+    <group name="FagusSylvatica_stumpB" pos="15265.628906 660.994263 14395.304688" a="-64.428535" />
+    <group name="FagusSylvatica_stumpB" pos="15287.345703 660.823242 14353.154297" a="-107.243561" />
+    <group name="FagusSylvatica_stumpB" pos="15251.403320 659.446594 14382.455078" a="94.922012" />
+    <group name="FagusSylvatica_stumpB" pos="15258.546875 659.722107 14354.156250" a="-91.521637" />
+    <group name="FagusSylvatica_stumpB" pos="15283.050781 662.677063 14389.399414" a="154.931152" />
+    <group name="FagusSylvatica_stumpB" pos="15256.864258 660.190674 14382.121094" a="77.650993" />
+    <group name="FagusSylvatica_stumpB" pos="15265.884766 659.185120 14343.166992" a="-109.089325" />
+    <group name="FagusSylvatica_stumpB" pos="15250.080078 658.427185 14343.771484" a="98.064194" />
+    <group name="FagusSylvatica_fallenC" pos="15260.965820 660.320801 14378.563477" a="-29.216280" />
+    <group name="FagusSylvatica_fallenC" pos="15269.573242 659.428711 14347.772461" a="-4.672091" />
+    <group name="FagusSylvatica_stumpC" pos="15287.143555 661.332397 14364.784180" a="-130.546280" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15283.162109 670.867432 14405.715820" a="-179.019455" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15288.607422 669.571289 14423.721680" a="52.930996" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15266.708008 664.614502 14408.290039" a="-119.273987" />
+    <group name="FagusSylvatica_stumpB" pos="15244.399414 655.575745 14402.708984" a="96.262367" />
+    <group name="FagusSylvatica_stumpC" pos="15283.728516 657.669556 14427.324219" a="127.079994" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15275.379883 646.556091 14579.548828" a="-83.061920" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15248.498047 637.407410 14567.393555" a="-151.552780" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15262.791016 640.660706 14569.279297" a="-77.337883" />
+    <group name="FagusSylvatica_stumpB" pos="15280.584961 637.990784 14574.859375" a="167.434006" />
+    <group name="FagusSylvatica_fallenC" pos="15242.969727 629.478882 14579.686523" a="0.997034" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15266.233398 644.697388 14592.430664" a="153.557846" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15287.228516 648.368958 14611.128906" a="-153.574326" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15276.400391 647.136292 14629.230469" a="-98.091682" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15295.428711 650.108765 14627.947266" a="127.464531" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15242.881836 641.600647 14625.916992" a="100.338402" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15262.328125 640.120911 14582.790039" a="-175.998108" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15281.384766 644.373230 14632.767578" a="-21.822264" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15252.718750 639.242004 14623.833984" a="-134.369644" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15296.756836 646.326172 14599.949219" a="-73.327744" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15299.377930 647.039490 14588.875000" a="142.417343" />
+    <group name="FagusSylvatica_stumpB" pos="15242.706055 630.359924 14605.935547" a="115.269287" />
+    <group name="FagusSylvatica_stumpB" pos="15266.475586 635.140259 14615.831055" a="0.414727" />
+    <group name="FagusSylvatica_stumpB" pos="15266.725586 636.084473 14634.096680" a="-95.531784" />
+    <group name="FagusSylvatica_stumpB" pos="15277.164063 637.062561 14620.690430" a="103.216919" />
+    <group name="FagusSylvatica_stumpB" pos="15282.985352 637.924500 14618.143555" a="-70.251480" />
+    <group name="FagusSylvatica_fallenC" pos="15251.301758 632.149597 14615.942383" a="-135.061798" />
+    <group name="FagusSylvatica_fallenC" pos="15290.774414 639.209351 14631.621094" a="-109.243141" />
+    <group name="FagusSylvatica_fallenC" pos="15263.818359 634.878113 14627.311523" a="-95.806450" />
+    <group name="FagusSylvatica_fallenC" pos="15270.616211 635.751404 14622.766602" a="124.135551" />
+    <group name="FagusSylvatica_fallenC" pos="15282.008789 638.328003 14639.821289" a="128.716995" />
+    <group name="FagusSylvatica_fallenC" pos="15274.807617 636.980042 14634.391602" a="141.461517" />
+    <group name="FagusSylvatica_stumpC" pos="15245.745117 630.566467 14610.395508" a="-25.294056" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15270.065430 647.009949 14641.498047" a="29.496458" />
+    <group name="FagusSylvatica_stumpB" pos="15248.673828 637.052734 14669.521484" a="43.372589" />
+    <group name="FagusSylvatica_stumpB" pos="15245.539063 635.908264 14664.013672" a="-13.373506" />
+    <group name="FagusSylvatica_stumpB" pos="15278.918945 643.478088 14689.522461" a="-112.758881" />
+    <group name="FagusSylvatica_fallenC" pos="15296.213867 645.594360 14693.976563" a="118.675201" />
+    <group name="FagusSylvatica_fallenC" pos="15278.617188 640.289368 14667.589844" a="-105.408783" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15275.833984 681.511230 14793.414063" a="-100.135193" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15298.608398 685.318054 14800.464844" a="109.424385" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15291.853516 677.321228 14789.559570" a="-118.746605" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15280.350586 670.076782 14770.191406" a="126.783340" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15293.043945 676.686279 14787.345703" a="-108.528999" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15265.336914 678.303528 14796.596680" a="158.468857" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15283.692383 679.482605 14797.067383" a="118.070892" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15288.309570 679.711670 14796.915039" a="109.786957" />
+    <group name="FagusSylvatica_stumpB" pos="15278.077148 666.086060 14777.007813" a="-10.549960" />
+    <group name="FagusSylvatica_stumpB" pos="15287.652344 678.947388 14813.120117" a="122.520485" />
+    <group name="FagusSylvatica_stumpB" pos="15267.412109 668.005737 14784.466797" a="1.656250" />
+    <group name="FagusSylvatica_stumpB" pos="15257.213867 679.927368 14818.794922" a="7.039695" />
+    <group name="FagusSylvatica_stumpB" pos="15274.445313 673.331177 14798.554688" a="-79.106720" />
+    <group name="FagusSylvatica_fallenC" pos="15274.175781 678.212708 14813.695313" a="141.922974" />
+    <group name="FagusSylvatica_fallenC" pos="15298.154297 664.037781 14766.656250" a="146.064941" />
+    <group name="FagusSylvatica_fallenC" pos="15283.246094 679.260315 14815.487305" a="-5.671880" />
+    <group name="FagusSylvatica_fallenC" pos="15286.267578 669.513000 14786.286133" a="-38.335220" />
+    <group name="FagusSylvatica_stumpC" pos="15283.456055 666.064026 14777.671875" a="142.889771" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15289.647461 712.104858 14876.815430" a="153.074402" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15249.814453 710.286926 14874.635742" a="14.983061" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15281.174805 710.334961 14873.479492" a="10.643337" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15293.010742 703.986633 14855.924805" a="8.336113" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15298.819336 693.822083 14837.449219" a="-171.515564" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15282.046875 695.059631 14841.760742" a="129.991425" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15266.750977 705.579956 14871.189453" a="-51.947693" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15290.809570 692.505127 14834.252930" a="-42.729877" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15262.967773 694.824158 14842.625977" a="-152.036194" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15274.937500 693.020264 14837.006836" a="-89.818710" />
+    <group name="FagusSylvatica_stumpB" pos="15260.467773 683.066406 14827.153320" a="-23.887756" />
+    <group name="FagusSylvatica_stumpB" pos="15249.001953 689.040283 14843.947266" a="-63.527641" />
+    <group name="FagusSylvatica_stumpB" pos="15266.052734 696.245178 14862.587891" a="-153.892944" />
+    <group name="FagusSylvatica_stumpB" pos="15274.137695 698.199585 14867.328125" a="-4.672091" />
+    <group name="FagusSylvatica_stumpB" pos="15297.930664 683.493347 14825.278320" a="112.852242" />
+    <group name="FagusSylvatica_fallenC" pos="15285.279297 683.011597 14825.879883" a="-139.643219" />
+    <group name="FagusSylvatica_fallenC" pos="15252.541992 698.394165 14869.922852" a="145.537598" />
+    <group name="FagusSylvatica_fallenC" pos="15287.261719 687.759827 14839.456055" a="37.044281" />
+    <group name="FagusSylvatica_fallenC" pos="15279.011719 692.134338 14852.063477" a="55.688652" />
+    <group name="FagusSylvatica_fallenC" pos="15253.914063 690.108032 14847.372070" a="-123.723557" />
+    <group name="FagusSylvatica_stumpC" pos="15296.937500 692.131470 14851.668945" a="115.269287" />
+    <group name="FagusSylvatica_stumpC" pos="15271.402344 693.427490 14856.451172" a="-164.110550" />
+    <group name="FagusSylvatica_stumpC" pos="15244.085938 700.316589 14875.970703" a="147.822815" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15253.177734 713.662170 14882.875977" a="-109.034393" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15251.485352 728.758545 14923.126953" a="115.522003" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15262.155273 714.310791 14884.813477" a="-15.570853" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15270.921875 713.051880 14880.482422" a="92.911446" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15297.875977 736.566467 14939.326172" a="89.340782" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15291.937500 736.279236 14938.709961" a="178.761246" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15261.258789 714.504333 14895.110352" a="-80.414139" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15293.019531 714.875427 14894.272461" a="152.162521" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15271.995117 727.743408 14928.746094" a="9.445766" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15265.375000 713.074768 14890.923828" a="-29.216280" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15258.624023 724.252136 14921.127930" a="-153.552353" />
+    <group name="FagusSylvatica_stumpB" pos="15275.892578 715.624451 14912.914063" a="-26.821205" />
+    <group name="FagusSylvatica_stumpB" pos="15268.359375 710.045715 14898.805664" a="-6.517854" />
+    <group name="FagusSylvatica_stumpB" pos="15288.342773 720.069641 14923.549805" a="-102.684097" />
+    <group name="FagusSylvatica_stumpB" pos="15244.225586 712.137695 14905.821289" a="10.500518" />
+    <group name="FagusSylvatica_stumpB" pos="15240.403320 720.316528 14928.669922" a="-134.259781" />
+    <group name="FagusSylvatica_stumpB" pos="15280.039063 717.684509 14917.993164" a="-81.183197" />
+    <group name="FagusSylvatica_stumpB" pos="15286.890625 708.555725 14894.127930" a="-151.860413" />
+    <group name="FagusSylvatica_stumpB" pos="15297.606445 709.986206 14897.337891" a="74.739532" />
+    <group name="FagusSylvatica_fallenC" pos="15242.015625 704.269226 14885.858398" a="12.467100" />
+    <group name="FagusSylvatica_fallenC" pos="15281.296875 719.910828 14924.414063" a="-40.093082" />
+    <group name="FagusSylvatica_fallenC" pos="15253.101563 714.394775 14912.041992" a="-67.449875" />
+    <group name="FagusSylvatica_fallenC" pos="15250.458984 710.733398 14902.755859" a="20.311586" />
+    <group name="FagusSylvatica_fallenC" pos="15298.444336 719.276611 14922.041016" a="112.797325" />
+    <group name="FagusSylvatica_fallenC" pos="15261.107422 715.919922 14915.474609" a="-91.334877" />
+    <group name="FagusSylvatica_fallenC" pos="15248.930664 715.390808 14915.024414" a="-82.765282" />
+    <group name="FagusSylvatica_stumpC" pos="15271.495117 705.239502 14887.540039" a="-70.339371" />
+    <group name="FagusSylvatica_stumpC" pos="15253.758789 722.981018 14936.294922" a="153.810532" />
+    <group name="FagusSylvatica_stumpC" pos="15256.111328 710.774597 14902.929688" a="-70.778839" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15242.853516 742.622620 14963.980469" a="-131.359314" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15279.381836 740.988525 14963.447266" a="-99.684731" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15244.225586 740.675171 14969.301758" a="60.094296" />
+    <group name="FagusSylvatica_stumpB" pos="15269.205078 727.885437 14945.878906" a="107.776428" />
+    <group name="FagusSylvatica_stumpB" pos="15283.014648 728.218750 14944.896484" a="-14.505144" />
+    <group name="FagusSylvatica_stumpB" pos="15290.417969 730.252380 14949.415039" a="166.928604" />
+    <group name="FagusSylvatica_fallenC" pos="15271.970703 729.475830 14950.445313" a="-62.626717" />
+    <group name="FagusSylvatica_fallenC" pos="15249.697266 734.713074 14969.786133" a="-149.432358" />
+    <group name="FagusSylvatica_stumpC" pos="15253.509766 735.785400 14973.293945" a="89.296837" />
+    <group name="FagusSylvatica_stumpC" pos="15259.558594 736.051697 14972.706055" a="116.829407" />
+    <group name="FagusSylvatica_stumpC" pos="15265.817383 725.581787 14941.789063" a="-160.023499" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15260.509766 769.098938 15059.638672" a="-81.435898" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15293.889648 771.423889 15047.177734" a="-42.510151" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15278.295898 769.832214 15049.836914" a="-38.335220" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15273.435547 764.124268 15028.723633" a="-27.634203" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15268.260742 757.401306 15019.612305" a="-90.598770" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15259.098633 761.657532 15042.138672" a="9.962156" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15262.656250 760.198792 15033.513672" a="-27.073881" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15257.257813 760.500244 15038.372070" a="119.784859" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15284.357422 767.732666 15053.129883" a="-118.746605" />
+    <group name="FagusSylvatica_stumpB" pos="15274.668945 757.343262 15040.418945" a="153.151337" />
+    <group name="FagusSylvatica_stumpB" pos="15247.925781 749.712891 15023.830078" a="-133.930176" />
+    <group name="FagusSylvatica_stumpB" pos="15251.699219 748.128906 15015.260742" a="129.266312" />
+    <group name="FagusSylvatica_stumpB" pos="15258.426758 757.901001 15054.333984" a="-3.935981" />
+    <group name="FagusSylvatica_stumpB" pos="15268.128906 756.446838 15040.501953" a="17.828606" />
+    <group name="FagusSylvatica_fallenC" pos="15242.020508 748.649780 15024.401367" a="-8.001036" />
+    <group name="FagusSylvatica_fallenC" pos="15252.347656 754.507690 15044.560547" a="36.901455" />
+    <group name="FagusSylvatica_fallenC" pos="15298.342773 759.314941 15036.812500" a="165.115784" />
+    <group name="FagusSylvatica_stumpC" pos="15288.358398 757.877747 15037.314453" a="110.764771" />
+    <group name="FagusSylvatica_stumpC" pos="15263.729492 751.854919 15026.413086" a="75.970024" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15255.713867 773.548889 15117.562500" a="86.561180" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15273.714844 775.334595 15105.645508" a="129.991425" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15281.305664 770.946045 15071.159180" a="-166.879181" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15298.959961 780.723938 15113.552734" a="132.507355" />
+    <group name="FagusSylvatica_stumpB" pos="15259.591797 761.799744 15074.222656" a="2.216551" />
+    <group name="FagusSylvatica_stumpB" pos="15241.541016 757.096436 15065.840820" a="-91.137100" />
+    <group name="FagusSylvatica_stumpB" pos="15261.628906 767.491577 15109.306641" a="-63.055202" />
+    <group name="FagusSylvatica_stumpB" pos="15288.175781 770.917725 15099.874023" a="-156.507782" />
+    <group name="FagusSylvatica_stumpB" pos="15263.657227 763.745117 15081.552734" a="92.241241" />
+    <group name="FagusSylvatica_fallenC" pos="15240.805664 755.764954 15060.689453" a="-94.927528" />
+    <group name="FagusSylvatica_fallenC" pos="15283.388672 771.383118 15110.935547" a="-146.059448" />
+    <group name="FagusSylvatica_fallenC" pos="15296.977539 766.610657 15069.934570" a="101.206383" />
+    <group name="FagusSylvatica_stumpC" pos="15283.685547 763.442566 15064.761719" a="0.810263" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15296.698242 790.216064 15162.121094" a="44.603115" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15240.874023 777.605408 15145.170898" a="79.518730" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15249.917969 777.575867 15129.619141" a="-133.732407" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15285.494141 786.429871 15145.331055" a="65.763420" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15272.636719 782.371521 15130.934570" a="107.941193" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15278.401367 783.963135 15171.699219" a="-32.501301" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15257.116211 775.990784 15135.250977" a="-51.947693" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15291.774414 785.651978 15163.471680" a="100.766899" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15240.430664 774.544250 15153.809570" a="56.930138" />
+    <group name="FagusSylvatica_stumpB" pos="15252.658203 772.743042 15173.948242" a="-6.418945" />
+    <group name="FagusSylvatica_stumpB" pos="15293.688477 778.251526 15148.456055" a="58.270504" />
+    <group name="FagusSylvatica_stumpB" pos="15288.577148 777.697021 15151.491211" a="-5.430146" />
+    <group name="FagusSylvatica_stumpB" pos="15289.824219 780.571289 15179.711914" a="-140.785858" />
+    <group name="FagusSylvatica_stumpB" pos="15259.632813 770.928894 15140.318359" a="-88.983734" />
+    <group name="FagusSylvatica_stumpB" pos="15295.254883 777.594727 15140.513672" a="-55.056919" />
+    <group name="FagusSylvatica_stumpB" pos="15291.171875 775.778992 15131.797852" a="81.869865" />
+    <group name="FagusSylvatica_fallenC" pos="15280.118164 778.190430 15177.804688" a="-15.076443" />
+    <group name="FagusSylvatica_fallenC" pos="15276.359375 776.152527 15162.615234" a="5.490568" />
+    <group name="FagusSylvatica_fallenC" pos="15242.440430 768.959045 15159.768555" a="-12.857143" />
+    <group name="FagusSylvatica_fallenC" pos="15243.047852 766.040405 15130.217773" a="-108.320259" />
+    <group name="FagusSylvatica_stumpC" pos="15251.160156 769.491760 15148.435547" a="4.765468" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15260.934570 785.476807 15191.232422" a="-56.869717" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15275.829102 785.469482 15202.036133" a="91.219475" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15268.333984 783.983582 15204.103516" a="142.208588" />
+    <group name="FagusSylvatica_stumpB" pos="15257.170898 774.668457 15187.765625" a="-44.762405" />
+    <group name="FagusSylvatica_stumpB" pos="15298.918945 782.271790 15180.922852" a="115.840645" />
+    <group name="FagusSylvatica_stumpB" pos="15291.194336 782.819946 15210.389648" a="-121.570175" />
+    <group name="FagusSylvatica_stumpB" pos="15272.486328 777.454224 15182.440430" a="-75.338303" />
+    <group name="FagusSylvatica_stumpB" pos="15290.957031 781.200989 15185.559570" a="52.425598" />
+    <group name="FagusSylvatica_fallenC" pos="15289.609375 782.413757 15215.937500" a="-47.432175" />
+    <group name="FagusSylvatica_stumpC" pos="15285.503906 779.659058 15186.505859" a="39.505306" />
+    <group name="FagusSylvatica_fallenC" pos="15243.882813 773.041504 15272.479492" a="39.549248" />
+    <group name="FagusSylvatica_fallenC" pos="15254.623047 776.245667 15274.125977" a="-86.434830" />
+    <group name="FagusSylvatica_fallenC" pos="15243.989258 772.855469 15291.116211" a="-52.716759" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15319.806641 275.651306 105.063400" a="71.498474" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15323.520508 271.722900 113.139450" a="-32.973732" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15313.642578 271.819000 98.476379" a="68.806725" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15312.161133 271.266815 114.864021" a="58.215572" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15307.596680 271.519470 103.406128" a="35.352318" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15322.216797 272.088593 96.734985" a="-105.529655" />
+    <group name="FagusSylvatica_stumpB" pos="15311.982422 265.790283 91.737930" a="114.829857" />
+    <group name="FagusSylvatica_stumpB" pos="15330.415039 265.905945 107.368446" a="-97.014969" />
+    <group name="FagusSylvatica_stumpB" pos="15350.704102 265.955170 115.705284" a="-123.998238" />
+    <group name="FagusSylvatica_fallenC" pos="15328.933594 265.740936 94.530891" a="-10.527987" />
+    <group name="FagusSylvatica_fallenC" pos="15333.674805 265.458893 113.425484" a="59.171413" />
+    <group name="FagusSylvatica_fallenC" pos="15343.078125 265.857758 100.958084" a="99.844032" />
+    <group name="FagusSylvatica_fallenC" pos="15313.543945 265.038788 109.808090" a="100.382362" />
+    <group name="FagusSylvatica_fallenC" pos="15307.557617 264.748474 112.365494" a="-136.116531" />
+    <group name="FagusSylvatica_fallenC" pos="15355.643555 265.869110 104.028664" a="-163.517273" />
+    <group name="FagusSylvatica_stumpC" pos="15344.639648 265.272522 117.312080" a="-9.000825" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15319.312500 274.338226 136.425400" a="141.703217" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15311.232422 270.551117 130.654388" a="-39.060345" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15357.204102 269.229767 178.555435" a="-75.316322" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15328.004883 269.383240 164.422348" a="66.433594" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15323.540039 269.140625 166.971359" a="-157.452637" />
+    <group name="FagusSylvatica_stumpB" pos="15330.612305 264.692993 138.722015" a="-1.848518" />
+    <group name="FagusSylvatica_stumpB" pos="15310.303711 263.431091 148.144073" a="151.887863" />
+    <group name="FagusSylvatica_stumpB" pos="15342.446289 265.145660 134.885895" a="10.280764" />
+    <group name="FagusSylvatica_stumpB" pos="15337.270508 263.236725 170.420502" a="167.785568" />
+    <group name="FagusSylvatica_stumpB" pos="15319.648438 265.192322 120.449959" a="95.811928" />
+    <group name="FagusSylvatica_stumpB" pos="15350.684570 263.089050 177.579590" a="-176.053055" />
+    <group name="FagusSylvatica_fallenC" pos="15302.322266 261.805786 165.877731" a="-154.508194" />
+    <group name="FagusSylvatica_fallenC" pos="15305.305664 263.754150 131.260086" a="-82.325829" />
+    <group name="FagusSylvatica_fallenC" pos="15312.041992 262.509338 159.988937" a="-68.372749" />
+    <group name="FagusSylvatica_fallenC" pos="15346.536133 265.150177 127.996017" a="83.759575" />
+    <group name="FagusSylvatica_fallenC" pos="15329.269531 263.496033 153.957138" a="-148.806107" />
+    <group name="FagusSylvatica_fallenC" pos="15318.186523 263.538971 145.889511" a="-161.308945" />
+    <group name="FagusSylvatica_fallenC" pos="15319.549805 263.239471 152.484955" a="86.945702" />
+    <group name="FagusSylvatica_stumpC" pos="15314.610352 262.896149 150.852905" a="145.735336" />
+    <group name="FagusSylvatica_stumpC" pos="15301.947266 261.329529 171.413193" a="-31.940979" />
+    <group name="FagusSylvatica_stumpC" pos="15340.174805 263.956604 145.729675" a="54.974514" />
+    <group name="FagusSylvatica_stumpC" pos="15352.877930 264.124878 145.628723" a="-165.835434" />
+    <group name="FagusSylvatica_stumpC" pos="15348.274414 263.611328 154.403015" a="97.723618" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15300.128906 271.323761 203.170547" a="5.600465" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15333.062500 272.110840 202.018036" a="139.132324" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15304.416016 271.525391 212.020554" a="11.972717" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15302.519531 272.699677 238.545319" a="-7.473670" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15331.699219 268.221252 210.514709" a="-75.821701" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15339.997070 268.969940 180.582870" a="134.287201" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15314.749023 268.260651 181.827927" a="-179.008438" />
+    <group name="FagusSylvatica_stumpB" pos="15341.379883 262.334625 199.914902" a="-158.232681" />
+    <group name="FagusSylvatica_stumpB" pos="15324.291016 261.977142 218.287918" a="-59.078026" />
+    <group name="FagusSylvatica_stumpB" pos="15309.256836 261.679382 201.008530" a="23.376858" />
+    <group name="FagusSylvatica_stumpB" pos="15318.166016 262.122437 186.892273" a="-61.615959" />
+    <group name="FagusSylvatica_stumpB" pos="15329.012695 262.194458 197.559387" a="82.375237" />
+    <group name="FagusSylvatica_fallenC" pos="15311.133789 261.413330 214.872421" a="-21.415751" />
+    <group name="FagusSylvatica_fallenC" pos="15354.774414 261.800262 219.810577" a="173.245926" />
+    <group name="FagusSylvatica_stumpC" pos="15358.291016 261.516846 230.772125" a="-118.186279" />
+    <group name="FagusSylvatica_stumpB" pos="15358.705078 266.098785 262.293945" a="-162.154892" />
+    <group name="FagusSylvatica_fallenC" pos="15334.603516 266.450592 266.390869" a="151.745056" />
+    <group name="FagusSylvatica_fallenC" pos="15333.833008 269.195496 283.401031" a="147.229507" />
+    <group name="FagusSylvatica_fallenC" pos="15339.858398 267.149048 270.916809" a="-0.134578" />
+    <group name="FagusSylvatica_fallenC" pos="15310.560547 262.846436 240.564346" a="-117.241432" />
+    <group name="FagusSylvatica_stumpC" pos="15313.918945 264.521698 253.696335" a="-106.199829" />
+    <group name="FagusSylvatica_stumpC" pos="15328.953125 266.312164 266.618011" a="91.911674" />
+    <group name="FagusSylvatica_stumpC" pos="15330.000000 270.321808 290.703125" a="-130.689117" />
+    <group name="FagusSylvatica_stumpC" pos="15337.527344 267.699371 276.082123" a="176.761673" />
+    <group name="FagusSylvatica_stumpC" pos="15354.003906 271.623413 299.494263" a="167.730652" />
+    <group name="FagusSylvatica_fallenC" pos="15337.823242 272.310944 301.277710" a="104.227730" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15340.318359 390.625122 1923.051392" a="-102.793976" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15312.225586 415.513275 1970.557251" a="124.454170" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15307.360352 396.160889 1920.660156" a="79.782402" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15318.589844 390.330078 1921.935547" a="120.465996" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15332.291992 396.177063 1942.978394" a="-75.261406" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15319.927734 429.091309 2020.773071" a="-34.105354" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15319.846680 431.193329 2029.142334" a="68.554047" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15349.156250 420.514252 2005.150269" a="-0.178530" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15312.955078 417.846588 1989.049316" a="15.675227" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15316.846680 429.066681 2032.091553" a="142.604172" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15323.373047 440.183228 2070.749756" a="166.851685" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15346.156250 434.527008 2062.539795" a="-51.848820" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15353.737305 441.158997 2096.096924" a="116.071312" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15332.332031 449.818298 2105.502197" a="111.478935" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15336.954102 457.979767 2128.059570" a="-134.567413" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15302.901367 457.797638 2125.349609" a="-1.606811" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15347.858398 455.441345 2132.284180" a="93.405846" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15326.210938 447.263489 2106.458740" a="104.579292" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15352.723633 495.482452 2216.375732" a="94.537498" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15324.102539 482.474579 2184.093994" a="127.914955" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15330.264648 497.036743 2219.324951" a="55.183254" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15303.711914 474.804565 2171.500244" a="-98.860748" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15310.968750 486.833801 2201.868896" a="-87.214867" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15349.642578 478.722900 2186.963623" a="-16.164129" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15306.630859 486.837891 2200.673340" a="30.067747" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15320.495117 501.046570 2228.092773" a="71.893982" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15318.143555 507.919281 2255.990479" a="-64.615311" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15347.899414 506.335144 2252.562988" a="-89.807739" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15348.425781 533.435608 2335.618408" a="-135.138718" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15309.711914 531.753052 2335.379395" a="-84.402306" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15319.116211 529.008179 2314.735107" a="-149.597153" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15339.832031 516.297180 2280.938965" a="144.801468" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15323.697266 527.809631 2327.966553" a="130.595734" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15306.387695 533.253845 2360.646729" a="106.490929" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15324.224609 530.787842 2358.414795" a="144.845428" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15330.143555 529.375732 2434.456055" a="-84.237488" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15341.899414 530.736938 2431.905273" a="-0.793793" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15314.536133 521.006775 2451.114746" a="-123.251152" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15320.657227 521.931946 2450.078613" a="-26.964025" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15335.332031 520.736084 2484.751465" a="60.127251" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15304.279297 513.882507 2494.954102" a="-44.597618" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15349.966797 522.317810 2480.527100" a="138.561020" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15336.548828 514.765686 2511.134766" a="-38.038574" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15336.832031 521.272705 2461.636230" a="90.010963" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15314.617188 506.032318 2518.308350" a="-70.548119" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15340.845703 516.992737 2485.867432" a="137.132767" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15318.508789 507.837769 2513.924561" a="-38.258312" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15326.170898 511.789337 2502.287109" a="163.511780" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15345.588867 512.656128 2506.910156" a="-29.282204" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15302.333984 499.542572 2543.735107" a="-150.168457" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15306.468750 492.232452 2570.277832" a="40.505062" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15351.547852 499.975525 2552.423340" a="-76.557816" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15323.048828 504.534790 2527.953125" a="110.709854" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15343.764648 508.705170 2521.975098" a="-90.455940" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15345.020508 493.563873 2583.190430" a="-65.120697" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15345.223633 482.635071 2616.986572" a="-116.714073" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15301.765625 471.380951 2629.739746" a="131.243896" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15337.035156 483.969482 2611.008545" a="-45.828117" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15304.158203 466.705261 2633.486084" a="149.393890" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15350.209961 474.964142 2642.333496" a="-87.863106" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15348.953125 459.332153 2686.093018" a="50.865505" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15307.279297 463.057770 2645.521973" a="-154.903717" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15334.197266 452.496674 2693.346436" a="169.136932" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15340.075195 459.438171 2670.868896" a="34.198723" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15325.035156 447.366302 2748.025879" a="138.473114" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15311.251953 447.551819 2726.504883" a="92.812599" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15307.644531 444.724457 2714.389404" a="49.931637" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15348.142578 447.830200 2721.881836" a="-100.618591" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15329.657227 447.396667 2774.170166" a="-150.520020" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15312.387695 444.372040 2798.560547" a="144.471863" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15330.224609 452.500549 2822.712158" a="100.821869" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15333.507813 454.508698 2834.030518" a="-16.131166" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15310.644531 460.406250 2871.891846" a="-176.360657" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15338.332031 467.434601 2883.847900" a="-75.876640" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15339.345703 476.539978 2909.673096" a="39.571220" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15304.927734 468.623810 2883.768311" a="-112.000801" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15338.778320 482.122986 2934.063721" a="-97.981812" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15300.347656 463.788239 2880.739258" a="-146.861481" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15342.426758 510.763062 2995.996582" a="20.970793" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15321.833008 503.412933 2973.758057" a="-172.493347" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15323.738281 536.609558 3050.197754" a="-89.500107" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15316.927734 532.948975 3048.284912" a="-123.569756" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15333.305664 520.717224 3025.568115" a="-88.126762" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15319.643555 512.095642 3002.293457" a="-69.196747" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15323.333008 529.829407 3043.024170" a="35.253445" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15314.374023 547.194946 3071.160889" a="155.326675" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15332.169922 551.403198 3090.290771" a="14.378780" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15324.143555 557.246460 3100.971680" a="-168.472214" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15308.657227 547.336731 3069.805908" a="-7.902169" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15332.981445 557.757935 3118.826172" a="161.951630" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15347.575195 551.165527 3104.159912" a="86.033806" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15336.467773 573.602783 3154.455566" a="-142.620605" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15351.020508 569.106995 3146.405029" a="-34.676647" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15322.967773 561.622131 3123.528809" a="60.182186" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15314.049805 569.897400 3141.622559" a="-139.434494" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15303.103516 571.005859 3136.601074" a="4.325980" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15346.601563 591.381409 3215.989746" a="112.984085" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15310.441406 602.961487 3238.467285" a="-105.485703" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15314.536133 596.251587 3230.895264" a="86.055779" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15341.088867 579.462708 3187.932617" a="-80.721764" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15319.198242 592.137390 3219.975342" a="-158.287582" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15317.495117 591.999573 3218.381104" a="-154.134644" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15300.347656 615.636353 3283.422607" a="-10.088507" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15322.521484 615.033936 3292.907715" a="112.061195" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15312.062500 616.704956 3294.980225" a="-171.196945" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15332.616211 601.042725 3243.887451" a="-92.378624" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15309.346680 607.214111 3253.452393" a="159.897141" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15335.859375 601.131104 3258.474121" a="167.027466" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15345.628906 604.850342 3274.973389" a="3.271269" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15345.669922 606.153931 3279.915283" a="-3.848083" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15341.494141 621.854797 3341.130859" a="97.317108" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15312.670898 623.545410 3355.318848" a="-89.653915" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15341.047852 623.349426 3358.188232" a="146.064941" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15341.372070 622.724609 3350.217529" a="-65.757935" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15330.507813 619.623413 3356.833252" a="-32.501301" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15316.400391 623.013184 3403.860840" a="38.208858" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15313.684570 623.231934 3385.049805" a="-165.857407" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15344.494141 620.975708 3411.273682" a="-73.404633" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15305.536133 618.622498 3390.549561" a="4.974212" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15308.130859 621.422241 3430.323730" a="27.277128" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15319.198242 623.028442 3438.135254" a="148.976410" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15342.264648 625.685120 3452.960693" a="80.287773" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15333.507813 624.804199 3473.923828" a="10.050047" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15327.710938 620.297302 3474.242676" a="-113.352150" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15341.656250 624.855408 3526.610596" a="122.355690" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15300.630859 618.703186 3534.900391" a="91.999565" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15314.130859 617.550049 3525.096191" a="-38.214355" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15304.482422 615.575867 3531.313477" a="-111.363571" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15314.414063 617.963135 3494.010254" a="-45.663319" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15336.873047 626.855103 3588.623291" a="136.770233" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15314.008789 622.822205 3576.268555" a="153.612793" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15332.778320 626.963074 3595.398438" a="-27.963814" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15329.088867 624.531921 3569.812256" a="-164.813675" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15314.860352 617.839111 3552.196777" a="105.194534" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15318.629883 619.312073 3570.370117" a="-66.164429" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15341.859375 621.022583 3545.660889" a="-45.531483" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15340.885742 628.391235 3600.818604" a="155.854050" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15333.588867 633.247925 3640.353516" a="35.231472" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15319.684570 627.383667 3636.687012" a="4.347959" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15313.562500 634.372192 3671.359863" a="40.867638" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15325.926758 637.771423 3703.322510" a="96.460144" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15329.210938 632.661072 3670.722168" a="-158.089844" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15337.359375 634.893127 3690.569336" a="-100.926239" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15333.669922 638.576782 3756.328369" a="-124.965050" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15343.764648 639.862488 3771.233643" a="-80.183403" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15324.346680 637.982666 3735.205811" a="20.531342" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15326.210938 633.545227 3764.378662" a="-169.933472" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15341.575195 640.098450 3805.428223" a="5.831175" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15317.819336 635.413818 3821.210205" a="150.042099" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15342.547852 630.121521 3883.940186" a="-178.832657" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15332.899414 626.946289 3894.780518" a="40.735806" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15313.076172 628.305298 3874.534668" a="16.686005" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15307.563477 619.047546 3912.874023" a="85.264740" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15327.224609 621.220276 3914.866943" a="99.272705" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15312.265625 610.792236 3950.974365" a="33.165981" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15302.617188 614.565857 3911.837891" a="-140.643021" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15338.940430 610.832092 3945.075928" a="118.400520" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15316.522461 614.999084 3919.649414" a="-105.145111" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15319.238281 611.609680 3934.953125" a="-98.673958" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15335.129883 603.381287 3995.451416" a="-37.840813" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15301.117188 597.096069 3986.045898" a="-88.742012" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15309.468750 596.045532 4041.123779" a="-15.669720" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15313.319336 593.587524 4025.022949" a="-39.071323" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15347.088867 606.851868 4110.708496" a="-77.898201" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15337.966797 606.526855 4127.925293" a="174.179794" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15323.089844 603.408203 4107.360840" a="-109.166214" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15308.901367 601.690552 4130.077637" a="85.847046" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15310.117188 601.998047 4139.164063" a="83.803520" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15337.075195 606.068115 4112.143555" a="74.574730" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15342.872070 603.171692 4129.041504" a="-168.768890" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15322.765625 600.506775 4135.976074" a="157.414169" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15335.859375 605.724304 4155.823242" a="47.119049" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15302.090820 600.054199 4144.664063" a="-64.285713" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15344.980469 604.260742 4181.409180" a="108.105995" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15347.047852 602.643494 4191.054199" a="-47.564011" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15312.995117 598.240906 4159.170898" a="64.093437" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15345.466797 597.616028 4196.633301" a="109.622162" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15336.021484 584.912903 4259.762207" a="36.088436" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15316.117188 589.296631 4234.813477" a="157.699814" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15346.399414 593.816772 4228.994629" a="138.330292" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15318.022461 596.150635 4206.039063" a="135.946228" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15338.210938 591.206604 4237.762695" a="54.908596" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15310.806641 594.553833 4208.031738" a="115.258331" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15329.373047 598.340454 4203.807129" a="-84.270454" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15327.629883 580.318726 4273.710938" a="-76.502876" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15329.981445 582.370544 4267.174805" a="-46.542255" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15343.966797 570.327332 4311.492188" a="-166.615479" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15342.466797 557.643738 4358.360352" a="-66.087517" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15344.372070 564.652710 4333.013184" a="63.038723" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15308.414063 567.101318 4320.579102" a="75.453644" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15314.089844 552.303467 4379.243652" a="-81.996208" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15332.494141 550.328674 4370.715332" a="107.095238" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15330.264648 555.527222 4352.223145" a="118.169792" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15311.941406 554.636902 4356.048828" a="69.136322" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15307.684570 552.023193 4380.439453" a="-141.005569" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15309.552734 531.962891 4433.643066" a="58.369381" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15322.151367 536.941711 4416.440918" a="-58.012325" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15335.131836 517.287964 4489.619141" a="27.079372" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15354.326172 517.575195 4489.619141" a="20.575285" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15327.939453 514.800232 4505.333496" a="-171.460648" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15343.729492 515.991089 4500.312500" a="61.962032" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15310.234375 509.816223 4581.766602" a="87.319237" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15334.621094 518.193176 4603.803711" a="153.722641" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15351.432617 517.177124 4572.933105" a="-104.068428" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15331.088867 529.301941 4650.854004" a="88.330009" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15320.576172 536.212402 4678.191406" a="77.398277" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15351.262695 541.310913 4678.656250" a="9.456756" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15355.688477 556.861633 4726.821777" a="148.668793" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15333.216797 540.554138 4682.840332" a="-84.237488" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15345.899414 555.183594 4721.986816" a="-13.263641" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15303.935547 535.529236 4690.186035" a="-167.505417" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15301.466797 533.943909 4687.861816" a="-58.012325" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15328.917969 556.315674 4733.051758" a="31.386135" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15311.169922 554.491028 4737.887207" a="99.107903" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15355.305664 564.834229 4793.026855" a="43.174831" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15309.850586 560.169373 4761.876953" a="154.975113" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15324.151367 565.044006 4787.633789" a="177.003372" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15353.730469 564.805969 4794.328613" a="-78.875999" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15350.326172 560.311768 4833.103027" a="-121.713005" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15351.262695 561.923157 4822.967773" a="113.203804" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15327.044922 563.225220 4819.713379" a="-88.313545" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15300.317383 562.598572 4837.473145" a="-83.754074" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15327.683594 551.941772 4871.226563" a="-54.474632" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15357.390625 551.914978 4867.506836" a="-132.238235" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15323.981445 539.586670 4907.397461" a="-26.392719" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15341.302734 538.398865 4907.862305" a="28.584562" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15330.493164 525.317871 4942.266113" a="-6.638707" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15330.493164 513.456482 4973.788086" a="-115.428635" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15339.813477 529.682800 4930.922363" a="159.523605" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15315.341797 515.699829 4966.721191" a="140.659500" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15329.513672 530.930847 4928.690430" a="-174.405029" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15301.764648 534.160706 4925.622070" a="128.200607" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15342.111328 502.376221 5026.881836" a="-126.920685" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15357.475586 507.227844 4998.521973" a="-145.048660" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15324.832031 506.341797 4995.732422" a="-84.841759" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15310.063477 507.809174 4988.665527" a="-123.174232" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15322.747070 506.580536 4994.430664" a="-130.370483" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15351.943359 506.930603 4998.800781" a="153.107376" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15356.114258 503.918213 5025.858887" a="45.800659" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15336.833984 506.417175 4998.521484" a="-59.056061" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15301.636719 508.426392 4986.712891" a="-95.971237" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15302.530273 493.345520 5035.715332" a="162.160385" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15319.554688 507.181122 4991.641113" a="-51.618084" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15351.474609 501.965210 5045.571777" a="-121.998657" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15323.597656 497.602020 5055.799805" a="-120.548416" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15357.646484 508.850647 5117.076660" a="-75.722816" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15317.937500 504.065277 5132.977051" a="94.076050" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15352.836914 516.319336 5149.435059" a="-127.810608" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15321.342773 502.841309 5121.446777" a="145.427704" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15353.730469 506.137115 5104.802734" a="-108.858612" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15327.641602 521.371582 5187.372559" a="-74.953758" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15343.218750 530.843201 5208.107910" a="105.073692" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15301.253906 514.248108 5207.364258" a="65.104210" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15326.279297 516.568359 5170.635254" a="82.913605" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15330.706055 522.723633 5188.674316" a="-142.829376" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15322.959961 526.220642 5214.523926" a="-150.717804" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15349.474609 521.286316 5168.403809" a="136.781204" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15315.340820 538.494812 5298.302734" a="-86.566666" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15343.814453 546.603027 5330.475098" a="-150.366211" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15347.133789 547.071899 5302.486816" a="119.466187" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15301.892578 535.709290 5334.938477" a="25.574219" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15346.792969 540.039063 5383.848145" a="-29.029510" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15317.980469 539.089722 5373.062012" a="-93.565163" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15314.192383 538.232117 5373.712891" a="58.622089" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15358.242188 534.559143 5405.792480" a="134.023529" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15304.147461 520.278992 5451.075684" a="49.722897" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15352.198242 522.312927 5442.707031" a="-78.491470" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15349.006836 534.910889 5404.583496" a="-86.094238" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15339.983398 533.986938 5407.373047" a="-24.843592" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15326.492188 535.112183 5401.143066" a="-89.500107" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15338.876953 511.783142 5470.137207" a="-172.570251" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15356.666992 514.221741 5462.884766" a="-146.487946" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15315.851563 504.947479 5491.151855" a="-152.695419" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15300.913086 506.399780 5489.478027" a="45.547974" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15306.105469 472.618988 5569.816406" a="-118.779579" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15343.941406 466.184601 5574.279785" a="-55.056919" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15343.005859 480.419800 5541.456055" a="55.381012" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15302.190430 465.209045 5589.529297" a="-138.786301" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15300.487305 468.037994 5582.834473" a="-170.922272" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15329.258789 456.259033 5601.245117" a="-103.760796" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15331.130859 432.525543 5666.520020" a="152.404236" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15356.666992 427.670959 5673.772949" a="-95.257095" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15345.431641 435.969727 5649.968750" a="-105.925171" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15323.470703 409.805359 5752.530273" a="-162.912994" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15312.191406 413.666870 5751.135742" a="-169.691772" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15318.320313 419.655121 5721.101563" a="23.970150" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15327.811523 422.580200 5703.341797" a="174.157837" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15331.045898 396.196503 5802.090820" a="147.372314" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15304.573242 410.064301 5767.221680" a="152.525070" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15304.786133 389.493958 5840.307617" a="-89.060631" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15353.645508 388.816956 5835.100098" a="-132.359100" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15330.493164 377.634003 5909.208496" a="-158.935837" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15333.599609 377.481171 5912.463379" a="-84.105652" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15331.088867 374.604401 5954.398926" a="-120.405586" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15300.487305 373.575348 5999.589355" a="105.710945" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15342.580078 382.070862 6040.037598" a="-37.961662" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15331.897461 380.483887 6032.784668" a="-39.400925" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15326.620117 387.184662 6058.262207" a="12.950527" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15306.063477 412.095520 6118.980957" a="-160.924423" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15332.493164 387.806274 6060.865723" a="138.385223" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15340.834961 398.365936 6092.015625" a="55.106350" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15304.701172 415.569550 6126.233887" a="21.619015" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15306.488281 430.901855 6167.332520" a="-105.309921" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15353.006836 439.701263 6212.708984" a="-33.446159" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15307.637695 440.102875 6264.873047" a="-162.583389" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15312.404297 440.492767 6264.036133" a="125.662704" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15356.794922 442.506500 6258.736328" a="-96.905113" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15350.751953 438.270325 6298.068359" a="-74.898834" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15332.408203 433.768433 6319.083008" a="-136.940536" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15335.429688 432.655792 6328.381348" a="175.311432" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15356.540039 432.669342 6340.283203" a="97.965294" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15342.622070 433.976501 6324.197266" a="-88.203674" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15336.323242 429.924561 6357.299316" a="-175.382874" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15352.751953 430.686066 6384.264648" a="-139.489441" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15303.551758 423.293121 6404.721191" a="-38.587898" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15308.361328 425.236511 6469.252441" a="-65.757935" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15330.450195 429.188477 6432.709473" a="51.722469" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15349.048828 431.204803 6439.590332" a="-76.305138" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15327.044922 428.432098 6425.642578" a="148.943451" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15340.324219 430.326935 6523.555176" a="75.178978" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15326.833008 428.850098 6520.858398" a="39.494286" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15323.342773 428.630585 6485.896484" a="22.915430" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15325.853516 428.739227 6515.093750" a="-80.513000" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15330.960938 429.683868 6550.520508" a="19.586479" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15324.619141 429.702026 6575.812012" a="20.740078" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15325.640625 430.252319 6582.506836" a="128.991653" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15322.916992 429.698883 6579.810547" a="32.803432" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15308.574219 436.238708 6637.646484" a="133.847778" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15327.428711 440.580780 6642.295898" a="19.685360" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15313.766602 434.261444 6624.442871" a="105.381271" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15335.216797 441.904541 6644.062500" a="-8.176818" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15314.745117 436.524200 6633.834473" a="107.227058" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15327.087891 433.484161 6608.170898" a="141.659256" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15336.579102 444.701416 6655.964355" a="-170.669571" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15345.729492 441.720459 6639.320313" a="36.736660" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15328.875000 444.812256 6660.241699" a="-119.834282" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15347.857422 453.794922 6702.084961" a="157.194427" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15340.452148 445.683716 6757.317383" a="-81.721535" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15316.575195 446.477814 6742.811523" a="65.609619" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15315.128906 449.215637 6721.425293" a="176.157410" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15343.601563 429.208710 6812.084961" a="-79.732956" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15358.370117 436.006927 6792.558105" a="148.789642" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15332.875977 432.684448 6800.555176" a="-6.561799" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15312.191406 421.914551 6826.590332" a="22.893459" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15323.895508 437.205261 6784.654785" a="20.443417" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15330.620117 408.555908 6865.458008" a="-43.718670" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15352.624023 399.171234 6895.770996" a="-125.887947" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15330.322266 405.902252 6872.989746" a="-65.560158" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15352.879883 387.541443 6943.657715" a="126.706421" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15308.830078 394.996979 6904.046387" a="95.361465" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15353.092773 396.442230 6904.976074" a="35.879696" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15335.072266 388.449829 6987.021973" a="-24.623850" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15328.993164 389.023712 7018.886230" a="-42.652969" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15320.022461 384.658203 6962.161621" a="-4.727026" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15342.576172 385.085327 6999.321777" a="-100.618591" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15312.179688 383.395996 7005.617188" a="-141.390137" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15351.599609 385.290161 6999.806152" a="134.979370" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15352.264648 391.080750 7036.609863" a="94.669319" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15326.903320 391.420776 7057.917480" a="-45.168922" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15336.591797 391.892365 7054.043457" a="-163.901779" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15329.182617 388.394562 7064.503418" a="107.347900" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15349.415039 390.462067 7078.934082" a="-125.679192" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15321.393555 394.439484 7131.815430" a="-126.536148" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15340.866211 395.576874 7101.307129" a="129.079544" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15318.638672 392.828430 7086.294922" a="51.326935" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15347.800781 390.617950 7081.452148" a="-128.315994" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15311.040039 387.772461 7081.742676" a="-155.716736" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15347.041016 392.527161 7129.006836" a="83.770561" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15321.773438 389.784698 7092.977539" a="-90.576790" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15357.109375 392.004425 7174.720703" a="-140.774872" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15356.919922 394.985016 7152.638672" a="88.143242" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15301.826172 388.037323 7170.071777" a="174.311646" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15321.868164 387.214874 7167.263184" a="40.307312" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15319.398438 376.948334 7238.255371" a="-70.273460" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15351.980469 377.485016 7243.582520" a="23.212065" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15352.169922 375.027618 7236.706055" a="-95.608688" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15313.509766 370.049988 7277.093262" a="86.660065" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15303.060547 366.593536 7301.887207" a="-92.422569" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15327.472656 365.555450 7287.649902" a="160.831009" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15340.391602 369.641785 7371.426758" a="-32.907806" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15347.895508 368.454742 7358.254883" a="119.565117" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15352.075195 363.266968 7330.749023" a="25.244595" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15353.024414 372.224548 7390.700195" a="-136.259338" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15320.539063 375.649292 7433.508789" a="-158.496353" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15355.209961 375.630035 7491.813965" a="169.642319" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15337.921875 370.853394 7494.816406" a="110.292366" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15306.195313 366.339661 7497.140625" a="8.237239" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15345.520508 372.148651 7483.193848" a="12.950527" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15314.934570 370.875763 7451.523438" a="-147.564636" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15354.069336 373.615753 7453.363770" a="133.023743" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15310.089844 368.277100 7517.479492" a="-132.732620" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15316.074219 365.415436 7545.856934" a="52.326717" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15351.884766 370.851013 7534.913086" a="106.886505" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15353.974609 366.403290 7540.143066" a="-44.564655" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15311.799805 358.952759 7556.898438" a="-98.432259" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15328.517578 361.561890 7580.433105" a="-152.629486" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15354.924805 365.987427 7566.680176" a="140.802338" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15304.675781 356.500458 7589.827637" a="-10.967441" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15339.251953 355.396637 7603.968262" a="-8.319644" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15351.030273 363.109894 7560.384766" a="-52.628853" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15330.607422 354.157776 7606.486328" a="153.612793" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15332.317383 357.766815 7584.597656" a="-86.841339" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15326.427734 349.417908 7670.214844" a="-147.630554" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15321.868164 353.156311 7636.800781" a="97.712631" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15339.346680 354.682892 7635.832520" a="-32.600174" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15336.782227 345.833649 7677.381836" a="-3.848083" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15304.675781 348.384033 7629.730957" a="-2.529693" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15310.089844 345.916840 7663.241699" a="-135.589157" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15330.417969 349.807404 7690.360352" a="-94.773712" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15332.791992 350.163544 7701.401367" a="149.316956" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15352.740234 350.332977 7682.224609" a="-95.257095" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15338.207031 351.455750 7728.616699" a="155.458527" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15353.309570 351.740387 7739.173340" a="-38.719749" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15301.731445 347.759735 7698.205078" a="2.930695" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15314.839844 346.941284 7700.238770" a="-23.624069" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15309.804688 348.894928 7716.122559" a="77.958611" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15353.120117 352.175720 7745.372070" a="47.569519" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15348.275391 353.943207 7762.514648" a="167.488953" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15314.364258 356.876617 7754.282227" a="152.107605" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15303.345703 359.177338 7753.216797" a="-170.372925" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15326.998047 354.533081 7751.764160" a="97.317108" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15335.452148 349.421967 7747.986816" a="-98.003792" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15343.050781 351.114746 7770.262695" a="-75.360268" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15340.866211 348.462708 7740.529297" a="53.875851" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15334.027344 351.771057 7768.132324" a="-107.836861" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15350.459961 361.787476 7818.495117" a="143.010651" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15328.422852 369.054932 7836.315918" a="118.620255" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15331.937500 360.492249 7819.366699" a="-135.622116" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15334.976563 379.577911 7876.218750" a="-166.428711" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15328.802734 384.620880 7887.647461" a="80.287773" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15357.869141 380.094330 7888.228516" a="12.137509" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15342.005859 385.676117 7900.819336" a="66.268791" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15333.836914 381.491821 7882.514160" a="35.506130" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15355.779297 384.505737 7910.407715" a="-71.723686" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15334.596680 388.258301 7903.046875" a="19.146997" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15306.005859 396.586945 7900.528809" a="-15.878483" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15317.878906 379.824280 7863.144043" a="98.866226" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15327.663086 376.533203 7873.991211" a="-112.879723" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15327.377930 386.820892 7902.175293" a="48.360531" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15324.337891 387.957886 7902.756348" a="-126.876740" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15320.348633 391.244781 7907.501953" a="-65.659035" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15348.560547 398.919373 7938.300781" a="26.167475" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15306.195313 416.671478 7977.622559" a="49.689938" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15309.615234 414.324615 7967.744141" a="168.236008" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15325.762695 408.741608 7959.124023" a="67.147728" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15330.607422 410.815582 7971.618164" a="20.784023" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15342.670898 410.671234 7977.913086" a="36.835541" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15338.966797 401.034546 7940.334961" a="-88.775002" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15312.654297 408.287292 7960.576660" a="77.541130" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15330.987305 408.654297 7978.591309" a="164.061096" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15307.240234 403.610779 7936.363770" a="99.492470" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15328.993164 393.959625 7924.354004" a="-16.164129" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15357.774414 388.058228 7923.870117" a="-9.242531" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15322.723633 401.830170 7944.886719" a="-76.810524" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15348.940430 398.437561 7947.308105" a="88.242119" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15301.920898 404.487793 7934.620605" a="73.761719" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15345.235352 420.508301 8035.056152" a="-62.714607" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15334.596680 420.532806 8029.729004" a="-30.545677" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15309.330078 424.562073 8039.607910" a="53.579220" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15326.618164 421.927032 8034.281250" a="12.917571" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15322.343750 416.705292 8018.784668" a="176.706757" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15316.739258 419.262238 8033.603027" a="-94.444099" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15334.787109 413.008789 8005.322266" a="-69.394524" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15346.090820 415.383850 8025.661133" a="26.156492" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15310.754883 415.584137 7998.542969" a="174.575317" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15314.364258 416.397034 8008.228027" a="174.641251" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15334.692383 424.543976 8061.883789" a="-82.468636" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15316.074219 424.978821 8049.583496" a="-53.474838" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15311.705078 426.425201 8060.140625" a="169.949951" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15353.309570 429.825623 8123.675293" a="39.878841" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15356.634766 427.795288 8102.561523" a="-124.712349" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15358.819336 424.548279 8108.856934" a="-17.306753" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15345.710938 440.226898 8199.414063" a="107.732468" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15340.486328 439.849670 8196.217773" a="106.337143" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15339.916016 453.712860 8276.216797" a="-48.366051" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15351.599609 446.498077 8235.152344" a="173.509628" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15342.576172 448.800415 8269.437500" a="135.550705" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15351.030273 459.388824 8308.759766" a="157.996460" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15342.385742 457.635223 8299.461914" a="-12.351750" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15355.684570 456.305847 8291.229492" a="-141.554916" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15348.750000 458.549011 8326.095703" a="131.276871" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15305.815430 466.945374 8358.832031" a="-1.079439" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15335.261719 471.873749 8379.945313" a="24.442566" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15325.002930 464.714508 8341.107422" a="54.502098" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15330.987305 468.692383 8362.899414" a="-162.462524" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15331.557617 470.106018 8371.325195" a="-60.143738" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15330.417969 472.810242 8384.400391" a="109.457336" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15306.575195 473.113800 8399.703125" a="109.468369" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15322.533203 469.259888 8386.918945" a="98.031250" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15347.610352 462.626312 8349.339844" a="116.291054" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15354.259766 470.706482 8391.470703" a="-162.154892" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15337.351563 477.631775 8426.143555" a="-83.622238" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15329.277344 474.967102 8400.380859" a="-114.571655" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15352.834961 479.746857 8442.511719" a="-137.819458" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15348.940430 480.193390 8446.966797" a="-153.398544" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15319.398438 479.384033 8450.647461" a="175.663010" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15344.000977 477.447784 8422.269531" a="-139.489441" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15311.990234 474.770599 8411.228516" a="157.051605" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15329.467773 473.692780 8427.403320" a="110.512077" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15319.208984 471.635406 8412.584961" a="40.900600" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15328.897461 474.085663 8431.374023" a="102.392921" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15330.797852 476.870972 8456.458008" a="2.656033" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15344.571289 481.988281 8465.465820" a="-48.377037" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15340.771484 485.280701 8502.657227" a="125.497902" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15335.737305 481.757660 8465.755859" a="2.535186" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15301.161133 478.711334 8501.494141" a="-12.527560" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15342.576172 480.736481 8492.583984" a="81.243614" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15308.475586 479.903320 8507.596680" a="159.139038" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15345.235352 487.265625 8529.582031" a="155.458527" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15318.923828 485.527405 8520.768555" a="-94.290298" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15330.702148 487.791870 8543.721680" a="-53.035374" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15308.095703 487.222015 8550.307617" a="-146.103409" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15324.813477 483.085114 8534.133789" a="-44.147152" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15337.636719 484.939087 8552.535156" a="103.183968" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15305.815430 497.946106 8627.208008" a="-69.987793" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15337.636719 498.121857 8625.852539" a="124.750816" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15340.011719 497.331635 8621.203125" a="81.957756" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15313.604492 494.298767 8627.208008" a="-47.937553" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15336.021484 495.888336 8636.312500" a="-115.769226" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15338.111328 490.264618 8599.605469" a="91.175545" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15314.459961 492.380341 8616.166992" a="-130.996735" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15352.321289 505.130157 8670.838867" a="-174.888443" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15343.769531 505.316132 8672.668945" a="-51.607113" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15315.235352 500.161530 8662.575195" a="98.404778" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15335.938477 505.642334 8696.869141" a="-0.299377" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15327.836914 513.134888 8717.232422" a="-91.433746" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15350.520508 518.050232 8747.629883" a="-117.647926" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15316.585938 514.135132 8721.718750" a="35.143578" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15316.135742 516.005188 8731.103516" a="-139.225739" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15353.130859 507.000061 8706.430664" a="-86.555672" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15343.049805 515.678589 8755.540039" a="123.124763" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15343.139648 516.213562 8759.317383" a="-77.810310" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15340.529297 527.546021 8813.738281" a="-157.463593" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15329.367188 525.319946 8792.371094" a="143.867615" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15310.194336 525.898499 8791.781250" a="-94.455101" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15316.855469 517.684570 8763.153320" a="33.023159" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15322.796875 531.520203 8844.961914" a="-143.785217" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15308.754883 535.022217 8866.919922" a="-51.848820" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15315.956055 530.125732 8829.616211" a="-2.287959" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15330.087891 532.816345 8863.496094" a="150.525497" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15326.756836 531.789734 8851.513672" a="5.128021" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15330.717773 526.845642 8841.952148" a="-101.871086" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15347.640625 526.810669 8861.489258" a="-14.230469" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15305.963867 532.341003 8874.356445" a="147.888733" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15327.117188 538.108826 8917.385742" a="-47.860661" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15316.765625 536.835449 8892.890625" a="148.240280" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15310.915039 536.790344 8885.630859" a="-88.401436" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15304.074219 541.438965 8926.239258" a="104.007988" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15351.150391 538.101929 8933.558594" a="-137.467896" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15335.758789 535.093994 8933.322266" a="4.402887" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15343.229492 531.426331 8902.570313" a="-176.470505" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15353.041016 539.727417 8949.495117" a="111.039452" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15340.168945 552.557068 9036.498047" a="-135.138718" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15338.999023 555.624756 9057.983398" a="-131.117584" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15349.710938 554.984009 9059.222656" a="101.250313" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15304.524414 549.394287 9015.367188" a="-127.491989" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15307.854492 549.389526 9017.314453" a="28.408747" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15339.718750 544.679993 9010.940430" a="-56.759861" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15322.707031 553.336670 9054.205078" a="101.854622" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15351.871094 552.882568 9081.416016" a="116.884354" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15340.079102 553.657043 9079.822266" a="-15.735639" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15316.945313 555.032837 9060.934570" a="-13.867922" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15346.020508 551.902954 9064.653320" a="-136.050613" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15340.979492 554.106995 9094.519531" a="-154.277451" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15320.545898 555.002258 9064.239258" a="116.950302" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15324.146484 554.750000 9067.486328" a="-112.220512" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15329.097656 561.300781 9134.243164" a="-0.200503" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15325.586914 561.762573 9153.543945" a="119.916679" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15312.625000 565.615967 9137.135742" a="-81.446877" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15303.983398 567.353027 9163.519531" a="173.762344" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15316.135742 564.015930 9158.325195" a="62.775051" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15311.094727 561.918762 9146.933594" a="60.127251" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15305.784180 563.639526 9127.160156" a="140.329880" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15334.768555 558.391968 9181.935547" a="68.026665" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15339.359375 554.562500 9216.819336" a="109.050858" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15345.750000 553.697876 9218.708008" a="-100.190132" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15353.041016 547.786133 9237.477539" a="-59.001133" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15348.630859 547.984192 9237.595703" a="-9.407317" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15340.798828 552.035461 9249.578125" a="-97.630219" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15344.939453 551.520264 9274.722656" a="-84.764862" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15304.433594 558.708130 9288.179688" a="84.495689" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15334.318359 563.750244 9343.309570" a="-175.371857" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15353.041016 561.201782 9357.416016" a="-24.261292" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15336.028320 562.254883 9357.239258" a="31.583927" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15319.826172 571.131592 9379.609375" a="-90.576790" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15314.785156 586.491577 9420.750000" a="176.124435" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15349.260742 581.549561 9424.822266" a="9.039274" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15307.134766 597.719910 9468.914063" a="67.257591" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15352.680664 588.741821 9467.261719" a="-156.222107" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15346.560547 585.995300 9446.367188" a="-104.639732" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15307.764648 595.273193 9478.535156" a="123.058868" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15341.069336 584.717102 9458.348633" a="141.538437" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15341.519531 586.701965 9474.994141" a="5.051120" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15300.473633 594.474426 9457.935547" a="-155.090485" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15343.859375 585.262268 9465.608398" a="-142.851364" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15328.737305 584.523682 9444.300781" a="113.082962" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15313.345703 598.968933 9496.951172" a="30.650053" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15323.426758 595.720398 9492.937500" a="26.189449" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15340.979492 589.668701 9508.697266" a="141.395599" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15329.637695 591.245361 9503.148438" a="-81.534767" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15354.391602 596.046387 9555.090820" a="-110.451675" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15349.440430 596.914063 9561.051758" a="-136.259338" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15350.250977 595.870911 9550.486328" a="-169.505005" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15327.567383 602.753357 9584.189453" a="-67.636642" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15324.146484 601.643738 9596.821289" a="157.842651" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15303.083984 603.263367 9543.344727" a="-60.099800" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15333.328125 597.184753 9590.918945" a="91.362335" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15352.861328 595.240356 9596.939453" a="-134.413589" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15311.634766 602.895142 9565.892578" a="80.639366" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15310.915039 600.682495 9545.174805" a="103.920097" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15333.958008 611.177856 9633.830078" a="-10.165413" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15352.861328 604.245178 9612.639648" a="-151.563766" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15311.544922 617.604492 9633.416992" a="73.959473" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15337.378906 606.458191 9614.351563" a="-70.976593" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15350.340820 608.817932 9652.127930" a="-44.564655" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15320.636719 611.616089 9636.721680" a="-170.900299" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15338.279297 600.253662 9605.616211" a="86.033806" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15338.728516 605.645203 9629.756836" a="-45.652336" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15345.570313 622.845764 9697.576172" a="171.586945" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15307.404297 634.228333 9708.555664" a="132.716156" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15310.104492 624.877380 9666.765625" a="-96.652412" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15344.129883 615.944397 9683.174805" a="-161.297928" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15316.675781 636.285461 9730.807617" a="-111.220741" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15350.791016 633.788574 9764.628906" a="-168.944672" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15329.637695 632.723877 9748.279297" a="-82.897118" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15319.862305 633.345520 9739.230469" a="-179.085373" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15334.047852 629.110229 9735.765625" a="-3.848083" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15314.634766 649.623962 9788.718750" a="-60.890839" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15305.250977 653.944092 9813.619141" a="-72.602615" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15333.339844 646.766724 9813.931641" a="-132.809540" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15340.204102 647.289124 9827.948242" a="-84.237488" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15341.211914 656.939270 9848.384766" a="60.577724" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15340.771484 665.194763 9887.693359" a="52.063046" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15323.640625 666.724487 9883.542969" a="96.262367" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15317.531250 661.844116 9846.349609" a="-123.163239" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15342.219727 661.924194 9868.978516" a="11.555236" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15321.247070 664.243164 9890.668945" a="125.541862" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15305.376953 666.000854 9883.464844" a="-164.835663" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15322.948242 655.983704 9843.765625" a="-133.237991" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15321.121094 662.455017 9876.965820" a="-75.261406" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15307.329102 671.338074 9938.199219" a="163.423889" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15336.803711 668.079712 10017.285156" a="5.128021" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15325.908203 669.523010 9972.338867" a="-56.518143" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15328.552734 665.484558 9978.368164" a="65.862305" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15341.023438 665.525208 9973.435547" a="80.287773" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15350.595703 665.489868 9969.520508" a="177.684555" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15317.468750 665.725220 9973.905273" a="131.925079" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15339.826172 667.806030 10032.553711" a="106.787605" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15308.966797 661.546631 10066.380859" a="-55.606243" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15340.393555 668.702515 10072.253906" a="-111.506393" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15336.614258 667.550415 10067.947266" a="-177.228607" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15314.256836 665.899109 10022.531250" a="-161.001312" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15326.286133 665.780457 10054.870117" a="89.857170" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15340.708008 664.266052 10023.706055" a="-56.221489" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15337.118164 663.733765 10113.127930" a="68.246391" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15317.468750 660.188293 10112.188477" a="94.427612" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15326.222656 662.789917 10096.449219" a="-94.015633" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15339.952148 664.428894 10104.828125" a="-93.444328" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15308.399414 657.901123 10113.833008" a="127.914955" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15343.416016 664.306213 10114.458984" a="92.669739" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15350.407227 660.255615 10132.468750" a="99.151863" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15352.673828 660.805481 10118.843750" a="-3.935981" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15325.656250 662.203003 10169.663086" a="-54.243893" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15348.517578 664.577515 10165.590820" a="158.721573" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15346.753906 664.200623 10159.483398" a="96.306297" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15300.841797 655.382324 10192.135742" a="95.350479" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15306.005859 653.457520 10152.123047" a="-170.021362" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15336.299805 660.852234 10182.583008" a="-86.401878" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15307.329102 657.378174 10198.008789" a="140.307907" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15334.724609 658.979553 10147.268555" a="-40.488605" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15305.439453 653.138550 10145.310547" a="-104.573807" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15323.578125 667.304321 10224.004883" a="22.278194" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15309.469727 670.890320 10256.344727" a="153.437012" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15323.514648 665.375916 10208.970703" a="9.544674" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15335.795898 669.214783 10248.905273" a="54.304317" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15332.142578 667.068726 10239.666016" a="-82.666397" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15341.023438 665.617615 10223.926758" a="57.226776" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15316.208984 678.691345 10284.455078" a="19.201933" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15301.535156 684.429504 10313.036133" a="-53.474838" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15332.458008 681.806213 10299.489258" a="116.950302" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15329.246094 681.641052 10300.428711" a="-126.810814" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15333.213867 671.398438 10261.041992" a="65.444794" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15314.130859 685.620850 10318.595703" a="71.047997" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15310.351563 683.561890 10313.897461" a="138.978531" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15301.787109 668.666992 10268.794922" a="-6.166263" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15337.622070 703.569641 10362.915039" a="-133.062241" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15322.948242 699.955627 10353.910156" a="103.788246" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15317.783203 700.943359 10359.782227" a="-84.237488" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15317.657227 693.667908 10333.629883" a="73.695801" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15314.886719 687.570313 10326.738281" a="-156.419861" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15307.769531 685.080933 10321.727539" a="-65.801880" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15346.124023 689.055725 10320.161133" a="-15.735639" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15345.620117 715.667358 10413.185547" a="46.273064" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15300.211914 709.233215 10397.837891" a="-34.621719" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15326.916016 711.502258 10396.193359" a="-81.446877" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15350.029297 714.314026 10404.963867" a="25.178677" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15346.061523 707.798218 10392.356445" a="-63.241966" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15348.013672 707.155334 10389.616211" a="-78.271744" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15318.854492 716.779541 10442.940430" a="9.105192" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15343.101563 716.479004 10486.320313" a="-121.713005" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15313.123047 716.292175 10445.837891" a="-49.563591" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15333.024414 715.273132 10494.463867" a="35.659969" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15325.466797 711.288940 10491.332031" a="-53.749496" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15338.944336 714.408264 10445.759766" a="-90.455940" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15320.113281 712.254578 10475.358398" a="-91.840271" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15306.761719 703.677002 10549.824219" a="-124.811264" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15348.265625 708.683960 10543.951172" a="49.821774" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15310.225586 705.872620 10542.150391" a="97.251160" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15328.490234 709.318787 10533.223633" a="-45.828117" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15345.053711 711.239990 10500.336914" a="50.349117" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15347.131836 708.187805 10522.183594" a="35.374290" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15321.184570 694.154358 10596.571289" a="84.495689" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15337.118164 701.303040 10572.375977" a="114.159645" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15326.790039 689.792297 10613.562500" a="-116.241669" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15346.250000 686.850281 10614.111328" a="7.852713" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15344.927734 686.879944 10627.657227" a="51.447781" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15340.771484 685.433594 10632.199219" a="-24.623850" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15323.703125 676.632629 10658.039063" a="61.665401" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15312.556641 681.772339 10624.603516" a="-58.166142" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15331.764648 684.377930 10620.453125" a="77.068687" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15345.746094 678.910095 10642.143555" a="-100.618591" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15334.976563 674.931519 10653.576172" a="54.249386" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15328.930664 668.159973 10704.550781" a="27.244165" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15308.966797 666.234375 10692.492188" a="-25.865360" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15302.793945 661.207397 10729.294922" a="105.458206" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15345.746094 669.449951 10727.885742" a="37.648556" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15317.027344 667.316956 10693.510742" a="-150.520020" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15336.866211 666.312561 10694.841797" a="107.347900" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15330.631836 665.793884 10693.902344" a="-97.432487" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15305.879883 660.197327 10701.966797" a="70.377800" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15339.511719 668.927002 10680.277344" a="-172.416443" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15308.273438 664.705017 10770.795898" a="146.899918" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15333.528320 671.759094 10769.934570" a="-68.867165" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15338.818359 673.762268 10773.849609" a="0.480651" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15316.901367 668.435364 10796.008789" a="-17.405632" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15318.665039 675.847412 10812.139648" a="-101.321762" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15341.085938 681.660034 10809.555664" a="-175.262009" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15303.927734 675.996338 10831.558594" a="-143.851135" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15331.198242 685.637146 10850.585938" a="-97.981812" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15313.689453 696.834351 10903.675781" a="130.540771" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15334.473633 694.436096 10868.204102" a="26.189449" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15341.401367 695.683350 10890.599609" a="-79.743950" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15336.740234 697.303040 10910.174805" a="46.899323" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15316.083008 694.593872 10914.403320" a="40.109558" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15323.452148 693.555786 10894.279297" a="-73.668320" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15300.337891 690.470276 10909.000000" a="-124.217964" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15328.868164 700.759338 10920.588867" a="44.438293" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15311.737305 698.082581 10940.243164" a="-123.459885" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15317.531250 695.390747 10926.697266" a="106.732666" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15307.203125 692.018860 10957.626953" a="35.253445" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15333.654297 666.216187 11037.026367" a="-132.765594" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15326.160156 673.083069 11022.774414" a="-172.570251" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15330.253906 647.358948 11080.327148" a="75.091087" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15312.933594 651.243103 11071.322266" a="-50.772121" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15321.058594 644.199646 11078.212891" a="123.014938" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15339.133789 652.786987 11059.107422" a="127.827065" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15311.989258 630.496399 11119.244141" a="155.832077" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15311.926758 636.862793 11102.878906" a="-133.237991" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15321.625000 622.846313 11154.950195" a="-92.378624" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15308.147461 623.727417 11127.309570" a="-177.657104" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15336.425781 621.413269 11154.636719" a="-32.490314" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15303.235352 626.541626 11117.677734" a="109.622162" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15305.502930 617.255310 11194.571289" a="122.619415" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15311.044922 620.507080 11213.755859" a="-141.840576" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15306.699219 618.753296 11163.876953" a="176.728714" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15334.976563 624.654236 11196.999023" a="-114.703499" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15329.938477 619.743469 11162.467773" a="80.694305" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15319.736328 619.088562 11212.033203" a="9.072229" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15304.873047 622.672607 11237.325195" a="87.791679" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15340.078125 635.769775 11263.712891" a="-107.836861" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15341.085938 628.829224 11228.164063" a="-119.372849" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15304.809570 617.288452 11230.669922" a="176.113449" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15320.428711 623.666931 11239.987305" a="-13.362515" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15330.757813 632.978333 11273.188477" a="74.146233" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15302.038086 633.548889 11287.125977" a="3.853570" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15313.941406 638.037048 11293.311523" a="-51.782909" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15314.382813 640.296875 11319.152344" a="-51.585133" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15312.871094 639.718811 11317.742188" a="-78.447525" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15319.610352 644.374573 11337.318359" a="-15.482961" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15321.499023 653.842651 11370.753906" a="-15.878483" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15310.351563 646.778625 11359.243164" a="-87.830132" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15307.895508 651.712341 11397.141602" a="3.469016" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15333.717773 654.647034 11398.864258" a="136.935028" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15316.146484 644.816467 11342.956055" a="-112.077698" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15313.689453 647.267944 11359.007813" a="-53.639641" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15334.788086 660.591980 11424.625977" a="21.498165" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15332.583984 655.314941 11406.616211" a="-76.810524" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15313.311523 653.871277 11412.253906" a="-129.513535" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15308.588867 660.299011 11470.041992" a="156.897781" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15337.181641 660.514343 11498.701172" a="-147.202057" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15324.333008 656.891541 11488.677734" a="-64.307693" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15301.787109 655.691895 11463.151367" a="-98.619041" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15307.139648 655.374268 11496.665039" a="-94.059578" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15300.653320 655.684143 11465.657227" a="-37.071747" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15305.943359 653.553162 11513.813477" a="145.537598" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15325.340820 657.624756 11461.976563" a="42.702419" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15307.581055 654.691345 11534.876953" a="132.869965" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15327.167969 651.137085 11560.403320" a="18.949242" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15327.986328 655.987183 11533.154297" a="-98.805817" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15328.552734 648.635254 11571.522461" a="-129.030136" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15313.563477 656.011414 11529.239258" a="-6.759553" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15320.302734 647.635498 11557.427734" a="129.617905" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15308.399414 632.409119 11621.636719" a="172.257126" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15325.718750 629.431091 11627.901367" a="90.373512" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15334.095703 641.144592 11587.105469" a="98.844231" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15306.951172 607.655212 11692.265625" a="-10.560949" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15317.846680 622.057434 11658.673828" a="-81.238121" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15316.020508 619.968994 11663.450195" a="-118.922401" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15316.775391 604.866760 11695.868164" a="74.574730" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15335.291992 604.324829 11687.097656" a="-101.772224" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15308.399414 623.225098 11648.495117" a="-100.267044" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15325.404297 585.548523 11726.250000" a="-124.503616" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15303.675781 584.390808 11733.061523" a="-101.420631" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15312.682617 587.887024 11723.822266" a="-111.616264" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15332.646484 570.726624 11753.968750" a="-74.547256" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15315.642578 562.091187 11779.652344" a="-139.390564" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15326.160156 571.126648 11760.625000" a="152.371246" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15333.402344 563.444824 11774.092773" a="177.860336" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15331.890625 546.452576 11803.221680" a="121.180130" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15307.265625 540.847168 11831.645508" a="-167.395599" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15317.468750 530.390198 11859.991211" a="-162.154892" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15307.517578 531.123779 11930.072266" a="43.306667" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15334.095703 531.687256 11900.003906" a="-67.493813" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15321.688477 543.889343 11967.580078" a="-28.952606" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15316.649414 539.672119 11957.870117" a="19.388699" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15303.865234 553.126465 11999.605469" a="130.496811" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15326.538086 537.910522 11958.261719" a="-47.937553" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15327.230469 570.834778 12042.985352" a="44.152645" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15321.184570 556.671570 12008.218750" a="119.400291" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15316.838867 558.996338 12016.048828" a="138.055649" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15316.586914 584.473450 12097.954102" a="-84.270454" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15320.050781 586.284241 12109.778320" a="-170.746506" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15321.876953 587.187805 12117.921875" a="94.515503" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15308.462891 575.615967 12076.029297" a="-151.322052" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15301.283203 582.992615 12130.763672" a="-126.085709" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15333.843750 590.913086 12160.518555" a="66.982941" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15314.823242 583.015930 12147.363281" a="113.225792" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15326.978516 591.206421 12191.761719" a="92.285202" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15318.350586 600.232788 12250.253906" a="24.233820" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15303.067383 622.350037 12346.875977" a="154.184067" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15331.448242 628.655762 12358.411133" a="-17.790159" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15340.109375 615.564087 12304.626953" a="-100.948219" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15344.594727 616.249573 12305.807617" a="-17.482527" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15309.794922 618.795471 12339.440430" a="99.635307" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15311.805664 621.663086 12357.924805" a="-109.276100" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15301.907227 610.308105 12307.336914" a="129.639877" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15319.770508 627.717102 12414.557617" a="176.970398" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15346.759766 627.898743 12371.544922" a="-100.618591" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15336.397461 629.313232 12396.560547" a="-20.954319" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15335.856445 630.228882 12418.310547" a="107.347900" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15310.645508 631.273071 12446.175781" a="112.094139" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15319.770508 632.068298 12428.316406" a="-106.100952" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15352.328125 631.556274 12428.664063" a="-125.679192" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15305.232422 624.992493 12421.089844" a="43.350613" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15331.989258 631.006897 12446.592773" a="60.105286" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15318.765625 629.677551 12456.598633" a="-55.639206" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15326.679688 645.340088 12519.596680" a="-151.179214" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15354.155273 649.099426 12528.244141" a="143.867615" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15302.293945 632.357666 12498.013672" a="-74.953758" />
+    <group name="FagusSylvatica_stumpB" pos="15336.768555 634.831848 12514.064453" a="105.754883" />
+    <group name="FagusSylvatica_stumpB" pos="15351.361328 636.266113 12517.437500" a="44.570156" />
+    <group name="FagusSylvatica_fallenC" pos="15342.355469 640.893188 12537.343750" a="-5.682863" />
+    <group name="FagusSylvatica_fallenC" pos="15317.463867 638.139648 12534.073242" a="-171.867126" />
     <group name="FagusSylvatica_fallenC" pos="15329.035156 636.922424 12525.775391" a="-106.024040" />
     <group name="FagusSylvatica_fallenC" pos="15357.042969 640.840027 12535.986328" a="10.643337" />
     <group name="FagusSylvatica_stumpC" pos="15331.809570 633.148621 12511.297852" a="167.587814" />
     <group name="FagusSylvatica_stumpC" pos="15340.569336 632.626892 12505.779297" a="-179.184219" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15304.846680 652.343811 12550.825195" a="-34.072392" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15314.917969 654.253845 12552.479492" a="169.092972" />
-    <group name="t_PinusSylvestris_2fb_summer" pos="15326.583984 665.095459 12582.738281" a="151.250641" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15345.034180 657.323486 12557.132813" a="127.914955" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15331.904297 652.008789 12541.531250" a="-164.066589" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15332.303711 660.346436 12567.770508" a="133.902695" />
-    <group name="t_PinusSylvestris_2fb_summer" pos="15304.846680 652.343811 12550.825195" a="-34.072392" />
-    <group name="t_PinusSylvestris_2fb_summer" pos="15345.034180 657.323486 12557.132813" a="127.914955" />
-    <group name="t_FagusSylvatica_1f_summer" pos="15313.587891 658.512573 12576.934570" a="-94.685806" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15326.583984 665.095459 12582.738281" a="151.250641" />
     <group name="t_FagusSylvatica_1f_summer" pos="15308.760742 658.427063 12577.438477" a="-152.332809" />
-    <group name="t_FagusSylvatica_1f_summer" pos="15354.591797 656.081177 12565.094727" a="126.365852" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15313.587891 658.512573 12576.934570" a="-94.685806" />
     <group name="t_FagusSylvatica_1f_summer" pos="15334.184570 660.670959 12580.333984" a="79.628593" />
     <group name="t_FagusSylvatica_1f_summer" pos="15354.364258 654.217346 12559.006836" a="61.918087" />
     <group name="t_FagusSylvatica_1f_summer" pos="15329.890625 649.899353 12547.851563" a="-32.413410" />
-    <group name="FagusSylvatica_stumpB" pos="15326.147461 650.625061 12569.592773" a="37.198086" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15354.591797 656.081177 12565.094727" a="126.365852" />
     <group name="FagusSylvatica_stumpB" pos="15313.872070 656.637207 12588.916016" a="-96.410728" />
     <group name="FagusSylvatica_stumpB" pos="15320.883789 640.637878 12540.057617" a="49.700924" />
-    <group name="FagusSylvatica_stumpB" pos="15301.445313 647.575806 12565.637695" a="-114.736473" />
-    <group name="FagusSylvatica_stumpB" pos="15324.266602 658.833923 12594.629883" a="-103.826721" />
     <group name="FagusSylvatica_stumpB" pos="15347.999023 659.304688 12594.953125" a="155.821075" />
-    <group name="FagusSylvatica_fallenC" pos="15337.224609 650.522339 12569.153320" a="168.851273" />
+    <group name="FagusSylvatica_stumpB" pos="15324.266602 658.833923 12594.629883" a="-103.826721" />
+    <group name="FagusSylvatica_stumpB" pos="15326.147461 650.625061 12569.592773" a="37.198086" />
+    <group name="FagusSylvatica_stumpB" pos="15301.445313 647.575806 12565.637695" a="-114.736473" />
     <group name="FagusSylvatica_fallenC" pos="15331.429688 657.914490 12592.095703" a="-97.014969" />
-    <group name="t_PinusSylvestris_2fb_summer" pos="15340.587891 675.777649 12617.443359" a="-157.035126" />
+    <group name="FagusSylvatica_fallenC" pos="15337.224609 650.522339 12569.153320" a="168.851273" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15339.524414 677.943787 12627.111328" a="-51.892761" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15340.587891 675.777649 12617.443359" a="-157.035126" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15337.073242 676.632019 12621.773438" a="9.896237" />
-    <group name="t_FagusSylvatica_1f_summer" pos="15322.784180 678.789063 12650.817383" a="-116.087830" />
-    <group name="t_FagusSylvatica_1f_summer" pos="15306.652344 678.623047 12646.589844" a="-27.128822" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15345.775391 677.569702 12643.475586" a="74.695580" />
     <group name="t_FagusSylvatica_1f_summer" pos="15305.987305 678.256714 12644.290039" a="-135.863815" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15306.652344 678.623047 12646.589844" a="-27.128822" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15352.235352 676.971191 12640.580078" a="-176.393631" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15322.784180 678.789063 12650.817383" a="-116.087830" />
     <group name="t_FagusSylvatica_1f_summer" pos="15313.872070 667.726807 12603.612305" a="58.215572" />
     <group name="t_FagusSylvatica_1f_summer" pos="15310.546875 667.521912 12603.664063" a="-153.464462" />
     <group name="t_FagusSylvatica_1f_summer" pos="15309.863281 670.804749 12614.224609" a="-130.711090" />
-    <group name="t_FagusSylvatica_1f_summer" pos="15345.775391 677.569702 12643.475586" a="74.695580" />
-    <group name="t_FagusSylvatica_1f_summer" pos="15352.235352 676.971191 12640.580078" a="-176.393631" />
     <group name="FagusSylvatica_stumpB" pos="15316.418945 670.740601 12638.472656" a="94.493507" />
+    <group name="FagusSylvatica_stumpB" pos="15331.942383 668.591675 12629.205078" a="175.278442" />
     <group name="FagusSylvatica_stumpB" pos="15327.419922 666.155090 12619.006836" a="-113.901489" />
     <group name="FagusSylvatica_stumpB" pos="15345.756836 667.667053 12625.160156" a="-6.770536" />
-    <group name="FagusSylvatica_stumpB" pos="15331.942383 668.591675 12629.205078" a="175.278442" />
     <group name="FagusSylvatica_stumpB" pos="15344.540039 664.566895 12612.893555" a="110.709854" />
-    <group name="FagusSylvatica_fallenC" pos="15355.979492 669.453552 12635.203125" a="32.913292" />
-    <group name="FagusSylvatica_fallenC" pos="15313.910156 672.272217 12648.994141" a="167.291168" />
-    <group name="FagusSylvatica_fallenC" pos="15301.426758 672.804993 12649.252930" a="15.686215" />
     <group name="FagusSylvatica_fallenC" pos="15354.477539 672.760986 12656.246094" a="-67.988235" />
     <group name="FagusSylvatica_fallenC" pos="15304.980469 665.675720 12618.800781" a="115.554977" />
-    <group name="FagusSylvatica_fallenC" pos="15312.675781 665.746094 12618.851563" a="-172.844940" />
     <group name="FagusSylvatica_fallenC" pos="15350.031250 664.927856 12615.607422" a="4.238102" />
-    <group name="FagusSylvatica_stumpC" pos="15347.865234 671.713318 12649.304688" a="-27.546310" />
-    <group name="FagusSylvatica_stumpC" pos="15354.173828 666.085876 12620.971680" a="19.059114" />
+    <group name="FagusSylvatica_fallenC" pos="15301.426758 672.804993 12649.252930" a="15.686215" />
+    <group name="FagusSylvatica_fallenC" pos="15313.910156 672.272217 12648.994141" a="167.291168" />
+    <group name="FagusSylvatica_fallenC" pos="15312.675781 665.746094 12618.851563" a="-172.844940" />
+    <group name="FagusSylvatica_fallenC" pos="15355.979492 669.453552 12635.203125" a="32.913292" />
     <group name="FagusSylvatica_stumpC" pos="15335.743164 670.844421 12643.449219" a="23.453760" />
-    <group name="t_PinusSylvestris_2fb_summer" pos="15338.383789 682.904480 12695.978516" a="-62.846458" />
-    <group name="t_PinusSylvestris_2fb_summer" pos="15334.051758 680.015991 12712.601563" a="139.681671" />
-    <group name="t_PinusSylvestris_2fb_summer" pos="15357.195313 681.709473 12701.472656" a="-75.316322" />
-    <group name="t_PinusSylvestris_2fb_summer" pos="15322.233398 684.261963 12689.063477" a="112.061195" />
-    <group name="t_PinusSylvestris_2fb_summer" pos="15322.936523 679.299500 12718.082031" a="56.578575" />
+    <group name="FagusSylvatica_stumpC" pos="15354.173828 666.085876 12620.971680" a="19.059114" />
+    <group name="FagusSylvatica_stumpC" pos="15347.865234 671.713318 12649.304688" a="-27.546310" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15330.327148 683.962219 12663.677734" a="-148.806107" />
-    <group name="t_FagusSylvatica_1f_summer" pos="15322.366211 679.954773 12694.763672" a="-54.837193" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15334.051758 680.015991 12712.601563" a="139.681671" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15338.383789 682.904480 12695.978516" a="-62.846458" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15322.233398 684.261963 12689.063477" a="112.061195" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15357.195313 681.709473 12701.472656" a="-75.316322" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15322.936523 679.299500 12718.082031" a="56.578575" />
     <group name="t_FagusSylvatica_1f_summer" pos="15344.141602 678.928467 12695.422852" a="19.542540" />
     <group name="t_FagusSylvatica_1f_summer" pos="15321.397461 678.044434 12707.314453" a="-108.298294" />
-    <group name="FagusSylvatica_stumpB" pos="15304.904297 675.193970 12672.364258" a="10.500518" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15322.366211 679.954773 12694.763672" a="-54.837193" />
     <group name="FagusSylvatica_stumpB" pos="15352.501953 672.092529 12699.701172" a="46.679592" />
-    <group name="FagusSylvatica_stumpB" pos="15341.272461 674.162720 12669.804688" a="111.292114" />
-    <group name="FagusSylvatica_stumpB" pos="15303.080078 671.940063 12711.502930" a="78.068474" />
     <group name="FagusSylvatica_stumpB" pos="15356.910156 673.711304 12682.988281" a="-147.278961" />
+    <group name="FagusSylvatica_stumpB" pos="15303.080078 671.940063 12711.502930" a="78.068474" />
+    <group name="FagusSylvatica_stumpB" pos="15304.904297 675.193970 12672.364258" a="10.500518" />
+    <group name="FagusSylvatica_stumpB" pos="15341.272461 674.162720 12669.804688" a="111.292114" />
     <group name="FagusSylvatica_stumpB" pos="15342.544922 669.970825 12712.536133" a="-119.219017" />
+    <group name="FagusSylvatica_fallenC" pos="15319.515625 674.468201 12674.949219" a="44.240536" />
     <group name="FagusSylvatica_fallenC" pos="15343.343750 673.848022 12676.887695" a="17.444061" />
     <group name="FagusSylvatica_fallenC" pos="15340.131836 673.356628 12661.273438" a="-37.335430" />
-    <group name="FagusSylvatica_fallenC" pos="15319.515625 674.468201 12674.949219" a="44.240536" />
     <group name="FagusSylvatica_stumpC" pos="15330.327148 673.801697 12670.153320" a="-90.159302" />
     <group name="FagusSylvatica_stumpC" pos="15332.778320 672.515259 12696.289063" a="5.567503" />
     <group name="FagusSylvatica_stumpC" pos="15303.992188 673.759949 12696.224609" a="67.927795" />
@@ -75,45 +1381,45 @@
     <group name="FagusSylvatica_fallenC" pos="15345.072266 664.682068 12730.761719" a="-129.502533" />
     <group name="FagusSylvatica_fallenC" pos="15349.803711 664.015747 12733.036133" a="16.411314" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15321.869141 631.147278 12831.936523" a="-64.472481" />
-    <group name="FagusSylvatica_stumpB" pos="15302.158203 634.547852 12805.620117" a="-28.337355" />
     <group name="FagusSylvatica_stumpB" pos="15325.053711 624.118347 12825.426758" a="-64.604317" />
+    <group name="FagusSylvatica_stumpB" pos="15302.158203 634.547852 12805.620117" a="-28.337355" />
     <group name="FagusSylvatica_stumpB" pos="15318.315430 618.970581 12836.575195" a="-98.597061" />
     <group name="FagusSylvatica_fallenC" pos="15324.908203 626.385254 12819.780273" a="-84.138603" />
     <group name="FagusSylvatica_fallenC" pos="15310.965820 636.576111 12799.952148" a="-136.138504" />
-    <group name="t_PinusSylvestris_2fb_summer" pos="15312.501953 609.872620 12881.424805" a="-170.032349" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15302.599609 606.541870 12891.456055" a="-101.222870" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15330.746094 625.678650 12843.163086" a="126.365852" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15312.501953 609.872620 12881.424805" a="-170.032349" />
     <group name="t_FagusSylvatica_1f_summer" pos="15320.409180 616.128845 12856.835938" a="-31.062038" />
-    <group name="FagusSylvatica_stumpB" pos="15308.166992 598.277710 12886.496094" a="-110.187988" />
-    <group name="FagusSylvatica_stumpB" pos="15315.068359 597.966858 12887.049805" a="-16.493732" />
-    <group name="FagusSylvatica_stumpB" pos="15311.494141 605.455811 12867.840820" a="-35.423748" />
-    <group name="FagusSylvatica_stumpB" pos="15300.110352 606.464233 12866.291016" a="76.057915" />
     <group name="FagusSylvatica_stumpB" pos="15309.745117 595.252075 12894.754883" a="-161.759399" />
+    <group name="FagusSylvatica_stumpB" pos="15311.494141 605.455811 12867.840820" a="-35.423748" />
+    <group name="FagusSylvatica_stumpB" pos="15315.068359 597.966858 12887.049805" a="-16.493732" />
+    <group name="FagusSylvatica_stumpB" pos="15308.166992 598.277710 12886.496094" a="-110.187988" />
+    <group name="FagusSylvatica_stumpB" pos="15300.110352 606.464233 12866.291016" a="76.057915" />
     <group name="FagusSylvatica_fallenC" pos="15312.109375 607.648926 12861.773438" a="158.952301" />
-    <group name="FagusSylvatica_stumpC" pos="15310.380859 614.835449 12844.569336" a="-58.891262" />
     <group name="FagusSylvatica_stumpC" pos="15307.958008 609.481628 12857.112305" a="-175.229050" />
+    <group name="FagusSylvatica_stumpC" pos="15310.380859 614.835449 12844.569336" a="-58.891262" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15307.325195 602.585815 12901.973633" a="89.175987" />
-    <group name="t_PinusSylvestris_2fb_summer" pos="15320.986328 586.441284 12948.871094" a="87.967461" />
-    <group name="t_PinusSylvestris_2fb_summer" pos="15307.412109 588.409912 12943.811523" a="-126.118660" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15303.145508 600.776184 12907.498047" a="89.714355" />
-    <group name="FagusSylvatica_stumpB" pos="15317.832031 580.614380 12937.058594" a="-110.462654" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15307.412109 588.409912 12943.811523" a="-126.118660" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15320.986328 586.441284 12948.871094" a="87.967461" />
     <group name="FagusSylvatica_stumpB" pos="15303.319336 580.901855 12936.880859" a="-15.263228" />
-    <group name="FagusSylvatica_stumpB" pos="15324.848633 574.824707 12954.229492" a="-54.837193" />
+    <group name="FagusSylvatica_stumpB" pos="15317.832031 580.614380 12937.058594" a="-110.462654" />
     <group name="FagusSylvatica_stumpB" pos="15322.957031 581.149536 12935.474609" a="-54.013184" />
+    <group name="FagusSylvatica_stumpB" pos="15324.848633 574.824707 12954.229492" a="-54.837193" />
+    <group name="FagusSylvatica_fallenC" pos="15321.236328 585.752563 12920.583984" a="-87.214867" />
     <group name="FagusSylvatica_fallenC" pos="15328.057617 582.039978 12932.076172" a="172.103317" />
     <group name="FagusSylvatica_fallenC" pos="15313.892578 579.180542 12940.268555" a="173.048172" />
-    <group name="FagusSylvatica_fallenC" pos="15321.236328 585.752563 12920.583984" a="-87.214867" />
     <group name="FagusSylvatica_stumpC" pos="15324.553711 589.582947 12909.136719" a="137.550293" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15315.329102 575.883240 12980.236328" a="-80.293304" />
     <group name="t_FagusSylvatica_1f_summer" pos="15312.791016 563.453735 13002.854492" a="128.716980" />
     <group name="FagusSylvatica_stumpB" pos="15322.341797 569.199646 12971.312500" a="161.105667" />
-    <group name="FagusSylvatica_stumpB" pos="15310.871094 559.430786 12997.441406" a="107.897263" />
     <group name="FagusSylvatica_stumpB" pos="15314.682617 550.836975 13019.750000" a="151.843933" />
-    <group name="FagusSylvatica_stumpB" pos="15319.866211 566.983704 12977.435547" a="0.326836" />
+    <group name="FagusSylvatica_stumpB" pos="15310.871094 559.430786 12997.441406" a="107.897263" />
     <group name="FagusSylvatica_stumpB" pos="15304.960938 563.011902 12987.621094" a="122.201897" />
+    <group name="FagusSylvatica_stumpB" pos="15319.866211 566.983704 12977.435547" a="0.326836" />
     <group name="FagusSylvatica_fallenC" pos="15313.840820 567.531067 12974.368164" a="-61.044655" />
-    <group name="t_PinusSylvestris_2fb_summer" pos="15314.564453 540.546082 13070.964844" a="39.054836" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15316.069336 549.269958 13048.490234" a="31.243315" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15314.564453 540.546082 13070.964844" a="39.054836" />
     <group name="t_FagusSylvatica_1f_summer" pos="15316.472656 548.159058 13041.548828" a="-179.041412" />
     <group name="FagusSylvatica_stumpB" pos="15307.787109 545.409058 13031.972656" a="-173.152542" />
     <group name="FagusSylvatica_fallenC" pos="15310.826172 542.598267 13038.005859" a="-98.168579" />
@@ -123,82 +1429,82 @@
     <group name="FagusSylvatica_stumpC" pos="15300.600586 520.596313 13100.791016" a="-13.922851" />
     <group name="FagusSylvatica_stumpB" pos="15311.812500 552.271545 13254.299805" a="112.412781" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15308.173828 567.274353 13267.573242" a="14.202999" />
-    <group name="t_PinusSylvestris_2fb_summer" pos="15306.164063 569.319824 13273.071289" a="-42.510151" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15300.679688 581.601196 13310.613281" a="-5.814692" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15306.164063 569.319824 13273.071289" a="-42.510151" />
     <group name="FagusSylvatica_stumpB" pos="15307.827148 568.814636 13298.209961" a="-123.404953" />
     <group name="FagusSylvatica_stumpB" pos="15315.275391 571.842834 13306.109375" a="34.154781" />
-    <group name="FagusSylvatica_stumpC" pos="15308.439453 573.586304 13315.863281" a="-77.085175" />
     <group name="FagusSylvatica_stumpC" pos="15304.348633 562.261169 13281.823242" a="-8.440491" />
+    <group name="FagusSylvatica_stumpC" pos="15308.439453 573.586304 13315.863281" a="-77.085175" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15318.526367 592.715576 13353.157227" a="-126.118660" />
     <group name="t_FagusSylvatica_1f_summer" pos="15313.738281 583.098938 13325.211914" a="-175.998108" />
-    <group name="FagusSylvatica_stumpB" pos="15308.861328 583.757080 13379.521484" a="-147.333908" />
     <group name="FagusSylvatica_stumpB" pos="15323.373047 585.115662 13378.005859" a="-53.474838" />
+    <group name="FagusSylvatica_stumpB" pos="15308.861328 583.757080 13379.521484" a="-147.333908" />
     <group name="FagusSylvatica_stumpB" pos="15307.396484 583.038391 13367.125977" a="-135.061798" />
     <group name="FagusSylvatica_fallenC" pos="15305.471680 582.637146 13372.640625" a="-60.605175" />
-    <group name="FagusSylvatica_stumpC" pos="15305.141602 574.577332 13321.096680" a="-91.301926" />
     <group name="FagusSylvatica_stumpC" pos="15313.206055 583.380005 13370.330078" a="136.550461" />
+    <group name="FagusSylvatica_stumpC" pos="15305.141602 574.577332 13321.096680" a="-91.301926" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15308.760742 592.704773 13409.793945" a="44.603115" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15332.593750 594.755310 13427.944336" a="5.556520" />
     <group name="t_FagusSylvatica_1f_summer" pos="15325.057617 591.574341 13397.315430" a="128.716980" />
     <group name="t_FagusSylvatica_1f_summer" pos="15308.004883 587.241577 13424.284180" a="121.191139" />
-    <group name="FagusSylvatica_stumpB" pos="15318.188477 584.740662 13399.435547" a="29.496458" />
     <group name="FagusSylvatica_stumpB" pos="15337.470703 585.301147 13426.280273" a="-117.241432" />
+    <group name="FagusSylvatica_stumpB" pos="15318.188477 584.740662 13399.435547" a="29.496458" />
     <group name="FagusSylvatica_fallenC" pos="15308.257813 580.299622 13429.857422" a="110.973557" />
     <group name="FagusSylvatica_fallenC" pos="15315.203125 580.921143 13439.205078" a="-83.171776" />
-    <group name="t_PinusSylvestris_2fb_summer" pos="15310.972656 587.527466 13464.700195" a="-69.163780" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15330.714844 587.708008 13491.155273" a="75.058136" />
-    <group name="t_PinusSylvestris_2fb_summer" pos="15335.755859 590.957275 13467.871094" a="135.155167" />
-    <group name="t_PinusSylvestris_2fb_summer" pos="15333.429688 593.193176 13446.052734" a="-115.747261" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15305.428711 586.873047 13459.508789" a="-16.977148" />
-    <group name="t_FagusSylvatica_1f_summer" pos="15341.996094 588.494080 13459.525391" a="-41.059910" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15333.429688 593.193176 13446.052734" a="-115.747261" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15335.755859 590.957275 13467.871094" a="135.155167" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15310.972656 587.527466 13464.700195" a="-69.163780" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15325.762695 586.783508 13462.953125" a="67.136749" />
     <group name="t_FagusSylvatica_1f_summer" pos="15302.208008 580.701111 13473.808594" a="-47.432175" />
     <group name="t_FagusSylvatica_1f_summer" pos="15336.638672 585.502380 13481.790039" a="107.743477" />
-    <group name="t_FagusSylvatica_1f_summer" pos="15325.762695 586.783508 13462.953125" a="67.136749" />
-    <group name="FagusSylvatica_stumpB" pos="15301.245117 573.467773 13480.125977" a="162.621811" />
-    <group name="FagusSylvatica_stumpB" pos="15343.338867 581.745483 13465.155273" a="34.605251" />
-    <group name="FagusSylvatica_stumpB" pos="15321.101563 577.863892 13480.887695" a="146.504395" />
-    <group name="FagusSylvatica_stumpB" pos="15345.297852 579.425903 13484.283203" a="-157.639404" />
-    <group name="FagusSylvatica_stumpB" pos="15306.873047 576.404480 13467.639648" a="150.910065" />
-    <group name="FagusSylvatica_stumpB" pos="15323.331055 582.410645 13443.138672" a="-109.177216" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15341.996094 588.494080 13459.525391" a="-41.059910" />
     <group name="FagusSylvatica_stumpB" pos="15313.958008 576.916016 13477.343750" a="149.196121" />
     <group name="FagusSylvatica_stumpB" pos="15308.059570 578.667236 13448.992188" a="-163.495285" />
-    <group name="FagusSylvatica_fallenC" pos="15303.706055 576.831177 13453.356445" a="108.479523" />
-    <group name="FagusSylvatica_fallenC" pos="15330.825195 580.679443 13465.246094" a="144.614700" />
-    <group name="FagusSylvatica_fallenC" pos="15319.142578 575.234009 13494.392578" a="-13.450413" />
+    <group name="FagusSylvatica_stumpB" pos="15306.873047 576.404480 13467.639648" a="150.910065" />
+    <group name="FagusSylvatica_stumpB" pos="15301.245117 573.467773 13480.125977" a="162.621811" />
+    <group name="FagusSylvatica_stumpB" pos="15321.101563 577.863892 13480.887695" a="146.504395" />
+    <group name="FagusSylvatica_stumpB" pos="15345.297852 579.425903 13484.283203" a="-157.639404" />
+    <group name="FagusSylvatica_stumpB" pos="15343.338867 581.745483 13465.155273" a="34.605251" />
+    <group name="FagusSylvatica_stumpB" pos="15323.331055 582.410645 13443.138672" a="-109.177216" />
     <group name="FagusSylvatica_fallenC" pos="15326.936523 575.952759 13498.483398" a="108.831116" />
+    <group name="FagusSylvatica_fallenC" pos="15330.825195 580.679443 13465.246094" a="144.614700" />
     <group name="FagusSylvatica_fallenC" pos="15343.069336 583.462585 13446.458984" a="97.339050" />
-    <group name="FagusSylvatica_stumpC" pos="15326.805664 578.192322 13479.918945" a="-141.115463" />
-    <group name="FagusSylvatica_stumpC" pos="15306.256836 572.289368 13493.722656" a="105.853729" />
+    <group name="FagusSylvatica_fallenC" pos="15303.706055 576.831177 13453.356445" a="108.479523" />
+    <group name="FagusSylvatica_fallenC" pos="15319.142578 575.234009 13494.392578" a="-13.450413" />
     <group name="FagusSylvatica_stumpC" pos="15335.862305 576.800171 13496.172852" a="109.863892" />
     <group name="FagusSylvatica_stumpC" pos="15300.687500 576.365845 13447.982422" a="146.735123" />
+    <group name="FagusSylvatica_stumpC" pos="15326.805664 578.192322 13479.918945" a="-141.115463" />
     <group name="FagusSylvatica_stumpC" pos="15308.456055 573.950562 13485.963867" a="-168.999588" />
+    <group name="FagusSylvatica_stumpC" pos="15306.256836 572.289368 13493.722656" a="105.853729" />
     <group name="FagusSylvatica_stumpB" pos="15302.657227 549.934753 13716.132813" a="143.021622" />
     <group name="FagusSylvatica_stumpB" pos="15302.523438 552.408997 13683.884766" a="145.427704" />
-    <group name="FagusSylvatica_fallenC" pos="15301.026367 547.168701 13736.524414" a="-103.079620" />
     <group name="FagusSylvatica_fallenC" pos="15300.638672 549.784546 13706.943359" a="-86.566666" />
+    <group name="FagusSylvatica_fallenC" pos="15301.026367 547.168701 13736.524414" a="-103.079620" />
     <group name="t_FagusSylvatica_1f_summer" pos="15304.319336 538.154846 13858.023438" a="-159.682922" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15311.403320 538.405518 13896.158203" a="-20.240189" />
     <group name="FagusSylvatica_stumpB" pos="15313.901367 530.651794 13883.300781" a="-37.610088" />
     <group name="FagusSylvatica_fallenC" pos="15305.085938 528.068359 13886.008789" a="126.629532" />
     <group name="FagusSylvatica_stumpC" pos="15308.693359 529.320374 13879.992188" a="5.600465" />
-    <group name="t_PinusSylvestris_2fb_summer" pos="15323.204102 536.920654 13978.513672" a="81.265594" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15322.255859 536.322449 13968.304688" a="-148.806107" />
-    <group name="t_PinusSylvestris_2fb_summer" pos="15303.753906 536.291016 13978.110352" a="173.048172" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15301.681641 534.291260 13932.552734" a="-170.032349" />
-    <group name="FagusSylvatica_stumpB" pos="15310.465820 525.321228 13938.655273" a="174.278671" />
-    <group name="FagusSylvatica_stumpB" pos="15313.367188 525.941162 13931.095703" a="151.316528" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15323.204102 536.920654 13978.513672" a="81.265594" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15303.753906 536.291016 13978.110352" a="173.048172" />
     <group name="FagusSylvatica_stumpB" pos="15307.563477 525.195190 13928.223633" a="105.436241" />
+    <group name="FagusSylvatica_stumpB" pos="15313.367188 525.941162 13931.095703" a="151.316528" />
     <group name="FagusSylvatica_stumpB" pos="15323.229492 526.334106 13961.961914" a="-99.410072" />
-    <group name="FagusSylvatica_fallenC" pos="15316.689453 525.503662 13943.284180" a="-8.341617" />
-    <group name="FagusSylvatica_fallenC" pos="15310.242188 524.809021 13948.469727" a="-75.634926" />
+    <group name="FagusSylvatica_stumpB" pos="15310.465820 525.321228 13938.655273" a="174.278671" />
     <group name="FagusSylvatica_fallenC" pos="15301.981445 524.326233 13955.558594" a="-106.979874" />
-    <group name="FagusSylvatica_fallenC" pos="15309.999023 526.052002 13977.493164" a="35.550110" />
-    <group name="FagusSylvatica_fallenC" pos="15323.628906 526.324707 13973.378906" a="-83.182762" />
+    <group name="FagusSylvatica_fallenC" pos="15310.242188 524.809021 13948.469727" a="-75.634926" />
     <group name="FagusSylvatica_fallenC" pos="15314.699219 525.367065 13962.870117" a="-87.214867" />
+    <group name="FagusSylvatica_fallenC" pos="15309.999023 526.052002 13977.493164" a="35.550110" />
+    <group name="FagusSylvatica_fallenC" pos="15316.689453 525.503662 13943.284180" a="-8.341617" />
+    <group name="FagusSylvatica_fallenC" pos="15323.628906 526.324707 13973.378906" a="-83.182762" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15320.047852 537.344238 13985.138672" a="112.061195" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15305.795898 537.634949 13989.013672" a="-153.574326" />
-    <group name="FagusSylvatica_stumpB" pos="15316.938477 527.786560 13989.699219" a="-170.482788" />
     <group name="FagusSylvatica_stumpB" pos="15309.486328 528.363037 13994.010742" a="10.709255" />
+    <group name="FagusSylvatica_stumpB" pos="15316.938477 527.786560 13989.699219" a="-170.482788" />
     <group name="FagusSylvatica_fallenC" pos="15319.607422 531.092407 14013.957031" a="176.662796" />
     <group name="FagusSylvatica_fallenC" pos="15323.955078 532.746277 14023.239258" a="-14.021731" />
     <group name="FagusSylvatica_stumpC" pos="15300.043945 530.323608 14006.576172" a="-53.474838" />
@@ -208,53 +1514,53 @@
     <group name="FagusSylvatica_fallenC" pos="15304.578125 538.414063 14040.288086" a="159.875153" />
     <group name="FagusSylvatica_stumpB" pos="15301.133789 613.893799 14218.095703" a="112.412781" />
     <group name="t_FagusSylvatica_1f_summer" pos="15304.523438 644.843445 14274.594727" a="34.154781" />
-    <group name="FagusSylvatica_stumpB" pos="15315.537109 634.782288 14268.274414" a="80.760223" />
     <group name="FagusSylvatica_stumpB" pos="15313.759766 637.717773 14275.019531" a="-170.032349" />
     <group name="FagusSylvatica_stumpB" pos="15307.516602 631.800842 14258.820313" a="5.424650" />
-    <group name="FagusSylvatica_fallenC" pos="15305.044922 614.504639 14221.500000" a="-160.506912" />
+    <group name="FagusSylvatica_stumpB" pos="15315.537109 634.782288 14268.274414" a="80.760223" />
     <group name="FagusSylvatica_fallenC" pos="15312.560547 633.058411 14263.939453" a="-35.423748" />
+    <group name="FagusSylvatica_fallenC" pos="15305.044922 614.504639 14221.500000" a="-160.506912" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15331.640625 649.284973 14283.408203" a="9.896237" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15326.191406 662.528198 14319.102539" a="-54.013184" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15328.411133 665.856873 14330.416992" a="112.061195" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15330.172852 660.535828 14312.682617" a="-148.806107" />
-    <group name="t_PinusSylvestris_2fb_summer" pos="15331.640625 649.284973 14283.408203" a="9.896237" />
-    <group name="t_PinusSylvestris_2fb_summer" pos="15320.097656 663.330994 14320.393555" a="-110.462654" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15330.929688 663.721680 14323.436523" a="81.265594" />
-    <group name="t_PinusSylvestris_2fb_summer" pos="15326.191406 662.528198 14319.102539" a="-54.013184" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15320.097656 663.330994 14320.393555" a="-110.462654" />
     <group name="t_FagusSylvatica_1f_summer" pos="15303.018555 652.614380 14295.426758" a="-175.998108" />
     <group name="t_FagusSylvatica_1f_summer" pos="15334.335938 650.183411 14295.526367" a="-86.830338" />
+    <group name="FagusSylvatica_stumpB" pos="15331.268555 652.161316 14318.028320" a="-83.182762" />
     <group name="FagusSylvatica_stumpB" pos="15301.476563 652.985840 14315.797852" a="53.227627" />
     <group name="FagusSylvatica_stumpB" pos="15330.950195 648.142517 14306.000000" a="-99.410072" />
-    <group name="FagusSylvatica_stumpB" pos="15331.268555 652.161316 14318.028320" a="-83.182762" />
+    <group name="FagusSylvatica_fallenC" pos="15301.109375 644.417603 14289.963867" a="-151.805496" />
     <group name="FagusSylvatica_fallenC" pos="15323.524414 657.477966 14337.432617" a="-55.749092" />
     <group name="FagusSylvatica_fallenC" pos="15335.117188 645.535706 14300.492188" a="54.249386" />
-    <group name="FagusSylvatica_fallenC" pos="15301.109375 644.417603 14289.963867" a="-151.805496" />
     <group name="FagusSylvatica_stumpC" pos="15314.491211 649.724915 14309.675781" a="-171.812180" />
     <group name="FagusSylvatica_stumpC" pos="15318.472656 650.546631 14313.097656" a="124.783768" />
-    <group name="t_PinusSylvestris_2fb_summer" pos="15310.046875 672.786560 14366.572266" a="141.461533" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15317.025391 674.059753 14376.333008" a="-145.576035" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15310.046875 672.786560 14366.572266" a="141.461533" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15310.638672 673.817078 14376.658203" a="68.784752" />
     <group name="FagusSylvatica_stumpB" pos="15329.465820 661.024170 14353.063477" a="117.697388" />
     <group name="FagusSylvatica_fallenC" pos="15328.477539 664.234802 14377.453125" a="-22.294689" />
     <group name="FagusSylvatica_stumpC" pos="15321.635742 660.112915 14351.113281" a="-88.313545" />
     <group name="FagusSylvatica_stumpC" pos="15322.276367 664.883606 14399.927734" a="-76.063408" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15325.947266 672.753540 14445.166992" a="-60.297569" />
-    <group name="t_PinusSylvestris_2fb_summer" pos="15305.089844 673.723450 14401.788086" a="-77.909187" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15313.987305 670.511169 14451.803711" a="47.954037" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15305.089844 673.723450 14401.788086" a="-77.909187" />
     <group name="FagusSylvatica_stumpB" pos="15318.278320 663.445190 14426.583984" a="-26.876133" />
-    <group name="FagusSylvatica_stumpB" pos="15307.107422 663.305481 14411.540039" a="160.852982" />
     <group name="FagusSylvatica_stumpB" pos="15315.934570 664.437317 14408.650391" a="125.541862" />
+    <group name="FagusSylvatica_stumpB" pos="15307.107422 663.305481 14411.540039" a="160.852982" />
     <group name="FagusSylvatica_stumpB" pos="15326.604492 665.139343 14411.323242" a="145.460693" />
+    <group name="FagusSylvatica_fallenC" pos="15313.292969 663.315735 14415.386719" a="-4.287538" />
+    <group name="FagusSylvatica_fallenC" pos="15322.672852 664.256897 14415.278320" a="-11.802432" />
     <group name="FagusSylvatica_fallenC" pos="15324.579102 661.817139 14451.000000" a="135.155167" />
     <group name="FagusSylvatica_fallenC" pos="15331.549805 663.625610 14438.683594" a="30.430298" />
-    <group name="FagusSylvatica_fallenC" pos="15322.672852 664.256897 14415.278320" a="-11.802432" />
-    <group name="FagusSylvatica_fallenC" pos="15313.292969 663.315735 14415.386719" a="-4.287538" />
     <group name="FagusSylvatica_stumpC" pos="15309.497070 663.514221 14404.777344" a="-113.780640" />
     <group name="FagusSylvatica_stumpC" pos="15304.771484 662.811829 14407.025391" a="149.525726" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15317.823242 668.284546 14474.585938" a="-6.572789" />
     <group name="t_FagusSylvatica_1f_summer" pos="15305.147461 647.434509 14617.003906" a="-179.008438" />
     <group name="FagusSylvatica_stumpC" pos="15307.687500 641.171143 14622.872070" a="56.578575" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15307.482422 652.709595 14648.433594" a="92.669739" />
-    <group name="FagusSylvatica_stumpB" pos="15314.933594 644.017456 14654.747070" a="37.791378" />
     <group name="FagusSylvatica_stumpB" pos="15312.510742 644.964294 14669.593750" a="-102.024902" />
+    <group name="FagusSylvatica_stumpB" pos="15314.933594 644.017456 14654.747070" a="37.791378" />
     <group name="FagusSylvatica_stumpB" pos="15310.381836 646.314575 14684.408203" a="135.056320" />
     <group name="FagusSylvatica_fallenC" pos="15309.962891 646.800171 14691.094727" a="-57.726673" />
     <group name="FagusSylvatica_fallenC" pos="15313.619141 643.133545 14649.036133" a="91.856728" />
@@ -262,75 +1568,75 @@
     <group name="FagusSylvatica_fallenC" pos="15301.335938 660.624512 14754.491211" a="-38.214352" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15313.002930 678.904541 14776.474609" a="62.467403" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15320.932617 688.296448 14806.408203" a="80.760223" />
-    <group name="t_FagusSylvatica_1f_summer" pos="15300.040039 676.508850 14784.992188" a="-63.780331" />
     <group name="t_FagusSylvatica_1f_summer" pos="15311.866211 681.549072 14798.534180" a="-67.779480" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15300.040039 676.508850 14784.992188" a="-63.780331" />
     <group name="FagusSylvatica_stumpB" pos="15301.070313 672.464294 14791.144531" a="-103.321335" />
-    <group name="FagusSylvatica_fallenC" pos="15317.813477 668.067383 14772.731445" a="-179.272110" />
     <group name="FagusSylvatica_fallenC" pos="15321.125977 679.869751 14812.601563" a="4.699557" />
+    <group name="FagusSylvatica_fallenC" pos="15317.813477 668.067383 14772.731445" a="-179.272110" />
     <group name="FagusSylvatica_stumpC" pos="15319.817383 681.285828 14818.040039" a="68.817711" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15312.960938 702.650574 14850.569336" a="-126.118660" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15335.835938 710.271667 14871.507813" a="-80.172409" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15320.806641 702.078430 14848.354492" a="173.048172" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15320.898438 709.772034 14870.684570" a="-27.128822" />
-    <group name="t_FagusSylvatica_1f_summer" pos="15319.367188 691.802612 14830.149414" a="-106.979874" />
     <group name="t_FagusSylvatica_1f_summer" pos="15309.993164 708.873901 14877.950195" a="122.201897" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15319.367188 691.802612 14830.149414" a="-106.979874" />
     <group name="FagusSylvatica_stumpB" pos="15340.057617 698.866699 14867.383789" a="144.131287" />
+    <group name="FagusSylvatica_fallenC" pos="15303.356445 697.773865 14865.791992" a="-114.934235" />
+    <group name="FagusSylvatica_fallenC" pos="15303.327148 700.276367 14872.600586" a="-147.333908" />
+    <group name="FagusSylvatica_fallenC" pos="15322.472656 688.536987 14839.152344" a="-141.873520" />
     <group name="FagusSylvatica_fallenC" pos="15334.039063 693.635925 14854.029297" a="112.061195" />
     <group name="FagusSylvatica_fallenC" pos="15322.464844 694.786316 14857.156250" a="-153.574326" />
-    <group name="FagusSylvatica_fallenC" pos="15322.472656 688.536987 14839.152344" a="-141.873520" />
-    <group name="FagusSylvatica_fallenC" pos="15303.327148 700.276367 14872.600586" a="-147.333908" />
-    <group name="FagusSylvatica_fallenC" pos="15303.356445 697.773865 14865.791992" a="-114.934235" />
     <group name="FagusSylvatica_stumpC" pos="15313.979492 699.840698 14872.019531" a="-162.583389" />
     <group name="FagusSylvatica_stumpC" pos="15307.822266 698.773743 14869.265625" a="-140.643021" />
-    <group name="t_PinusSylvestris_2fb_summer" pos="15301.651367 716.407532 14887.629883" a="179.178726" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15303.225586 720.084717 14897.898438" a="44.603115" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15321.618164 733.230896 14930.040039" a="39.054836" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15301.651367 716.407532 14887.629883" a="179.178726" />
     <group name="t_FagusSylvatica_1f_summer" pos="15307.767578 714.293579 14892.584961" a="-129.733276" />
-    <group name="FagusSylvatica_stumpB" pos="15309.875977 716.396912 14913.093750" a="-92.455521" />
-    <group name="FagusSylvatica_stumpB" pos="15306.676758 712.404663 14903.143555" a="46.141235" />
     <group name="FagusSylvatica_stumpB" pos="15326.845703 722.837524 14928.400391" a="99.986870" />
-    <group name="FagusSylvatica_fallenC" pos="15309.951172 710.473755 14898.999023" a="-11.945251" />
+    <group name="FagusSylvatica_stumpB" pos="15306.676758 712.404663 14903.143555" a="46.141235" />
+    <group name="FagusSylvatica_stumpB" pos="15309.875977 716.396912 14913.093750" a="-92.455521" />
     <group name="FagusSylvatica_fallenC" pos="15328.239258 707.921753 14892.121094" a="-160.726654" />
-    <group name="FagusSylvatica_stumpC" pos="15309.875977 722.372131 14929.500000" a="89.077118" />
+    <group name="FagusSylvatica_fallenC" pos="15309.951172 710.473755 14898.999023" a="-11.945251" />
     <group name="FagusSylvatica_stumpC" pos="15319.602539 709.091187 14895.753906" a="-25.579695" />
     <group name="FagusSylvatica_stumpC" pos="15313.445313 711.719116 14902.763672" a="76.958824" />
+    <group name="FagusSylvatica_stumpC" pos="15309.875977 722.372131 14929.500000" a="89.077118" />
     <group name="FagusSylvatica_stumpB" pos="15303.347656 732.774536 14954.154297" a="-38.994415" />
     <group name="FagusSylvatica_fallenC" pos="15309.004883 732.480408 14953.918945" a="26.595974" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15303.262695 775.023010 15057.215820" a="-93.103729" />
     <group name="FagusSylvatica_stumpB" pos="15316.531250 766.545898 15056.262695" a="-147.125183" />
-    <group name="t_PinusSylvestris_2fb_summer" pos="15307.263672 785.908875 15114.506836" a="-126.118660" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15300.942383 779.692017 15081.586914" a="-101.222870" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15307.263672 785.908875 15114.506836" a="-126.118660" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15313.950195 780.333679 15075.280273" a="-170.032349" />
     <group name="t_FagusSylvatica_1f_summer" pos="15303.746094 775.162903 15074.953125" a="34.154781" />
+    <group name="FagusSylvatica_stumpB" pos="15315.914063 769.490479 15070.080078" a="80.760223" />
     <group name="FagusSylvatica_stumpB" pos="15327.685547 777.835754 15109.264648" a="-54.013184" />
     <group name="FagusSylvatica_stumpB" pos="15307.053711 766.902222 15062.791992" a="5.424650" />
-    <group name="FagusSylvatica_stumpB" pos="15315.914063 769.490479 15070.080078" a="80.760223" />
     <group name="FagusSylvatica_fallenC" pos="15313.434570 767.334473 15062.924805" a="158.952301" />
     <group name="FagusSylvatica_fallenC" pos="15301.202148 766.488708 15066.070313" a="-45.773190" />
     <group name="FagusSylvatica_stumpC" pos="15319.093750 774.999939 15101.621094" a="1.491451" />
-    <group name="t_PinusSylvestris_2fb_summer" pos="15314.470703 792.820251 15159.962891" a="-25.579695" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15317.577148 788.384399 15121.133789" a="-153.574326" />
-    <group name="t_PinusSylvestris_2fb_summer" pos="15330.306641 791.889038 15133.615234" a="56.578575" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15306.898438 790.992554 15153.412109" a="29.496458" />
-    <group name="t_FagusSylvatica_1f_summer" pos="15333.385742 793.164856 15176.314453" a="-160.924423" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15314.470703 792.820251 15159.962891" a="-25.579695" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15330.306641 791.889038 15133.615234" a="56.578575" />
     <group name="t_FagusSylvatica_1f_summer" pos="15334.815430 792.687256 15167.495117" a="37.791378" />
-    <group name="FagusSylvatica_stumpB" pos="15322.592773 778.942505 15120.096680" a="176.706757" />
+    <group name="t_FagusSylvatica_1f_summer" pos="15333.385742 793.164856 15176.314453" a="-160.924423" />
     <group name="FagusSylvatica_stumpB" pos="15309.447266 782.144043 15159.593750" a="3.150415" />
-    <group name="FagusSylvatica_stumpB" pos="15314.530273 783.796814 15168.434570" a="176.596832" />
-    <group name="FagusSylvatica_stumpB" pos="15304.042969 779.235901 15142.051758" a="122.201897" />
     <group name="FagusSylvatica_stumpB" pos="15307.277344 778.836304 15134.846680" a="129.683823" />
-    <group name="FagusSylvatica_stumpC" pos="15322.482422 785.151733 15177.379883" a="5.556520" />
+    <group name="FagusSylvatica_stumpB" pos="15322.592773 778.942505 15120.096680" a="176.706757" />
+    <group name="FagusSylvatica_stumpB" pos="15304.042969 779.235901 15142.051758" a="122.201897" />
+    <group name="FagusSylvatica_stumpB" pos="15314.530273 783.796814 15168.434570" a="176.596832" />
     <group name="FagusSylvatica_stumpC" pos="15307.789063 781.986389 15167.014648" a="76.958824" />
-    <group name="t_PinusSylvestris_2fb_summer" pos="15327.402344 799.611694 15227.625977" a="113.236748" />
+    <group name="FagusSylvatica_stumpC" pos="15322.482422 785.151733 15177.379883" a="5.556520" />
     <group name="t_PinusSylvestris_2fb_summer" pos="15323.386719 796.819702 15192.603516" a="-115.747261" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="15327.402344 799.611694 15227.625977" a="113.236748" />
     <group name="t_FagusSylvatica_1f_summer" pos="15315.092773 792.800964 15206.811523" a="67.136749" />
-    <group name="FagusSylvatica_stumpB" pos="15318.783203 787.546570 15213.021484" a="-136.764755" />
-    <group name="FagusSylvatica_stumpB" pos="15320.052734 786.144836 15187.264648" a="-122.350250" />
-    <group name="FagusSylvatica_stumpB" pos="15314.439453 788.633179 15238.979492" a="2.139643" />
-    <group name="FagusSylvatica_stumpB" pos="15305.847656 787.060852 15237.468750" a="128.277512" />
     <group name="FagusSylvatica_stumpB" pos="15312.461914 785.203979 15190.153320" a="-109.177216" />
+    <group name="FagusSylvatica_stumpB" pos="15305.847656 787.060852 15237.468750" a="128.277512" />
+    <group name="FagusSylvatica_stumpB" pos="15318.783203 787.546570 15213.021484" a="-136.764755" />
+    <group name="FagusSylvatica_stumpB" pos="15314.439453 788.633179 15238.979492" a="2.139643" />
+    <group name="FagusSylvatica_stumpB" pos="15320.052734 786.144836 15187.264648" a="-122.350250" />
     <group name="FagusSylvatica_stumpB" pos="15305.605469 786.066528 15222.564453" a="149.668579" />
     <group name="FagusSylvatica_fallenC" pos="15312.904297 785.594360 15201.451172" a="59.325222" />
-    <group name="FagusSylvatica_stumpC" pos="15310.113281 787.037170 15234.551758" a="-124.646439" />
     <group name="FagusSylvatica_stumpC" pos="15333.814453 787.638916 15192.945313" a="97.339050" />
+    <group name="FagusSylvatica_stumpC" pos="15310.113281 787.037170 15234.551758" a="-124.646439" />
 </map>
