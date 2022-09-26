@@ -980,14 +980,15 @@
 	<!-- -----------------------------NBC------------------------------ -->
 	<type name="ZmbM_NBC_Grey">
 		<cargo preset="ContaminatedCargo" />
+		<cargo preset="ContaminatedKey" />
 		<cargo chance="0.03">
-			<item name="AntiChemInjector" chance="1.0" />
+		<item name="AntiChemInjector" chance="1.0" />
 		</cargo>
-	</type>
+</type>
 	<type name="ZmbM_NBC_Yellow">
 		<cargo preset="ContaminatedCargo" />
-		<cargo chance="0.01">
-			<item name="AntiChemInjector" chance="1.0" />
+		<cargo chance="1.0">
+			<item name="Yellow_Key" chance="1.0" />
 		</cargo>
 	</type>
 	<!-- -----------------------------ARMY----------------------------- -->
@@ -1032,9 +1033,10 @@
 		<attachments preset="vestsArmy" />
 	</type>
 	<type name="ZmbM_usSoldier_Officer_Desert">
-		<cargo preset="foodArmy" />		
+		<cargo preset="foodArmy" />
+		<cargo preset="ContaminatedKey" />
 		<attachments preset="OfficerHatArmy" />
-	</type>
+</type>
 	<type name="ZmbM_usSoldier_Heavy_Woodland">
 		<cargo preset="foodArmy" />		
 		<attachments preset="HeavyArmorArmy" />

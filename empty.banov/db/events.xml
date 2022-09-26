@@ -629,9 +629,9 @@
         </children>
     </event>
     <event name="ItemPlanks">
-        <nominal>50</nominal>
-        <min>40</min>
-        <max>50</max>
+        <nominal>36</nominal>
+        <min>15</min>
+        <max>36</max>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <saferadius>250</saferadius>
@@ -784,9 +784,9 @@
         </children>
     </event>
     <event name="StaticTrain">
-        <nominal>8</nominal>
-        <min>5</min>
-        <max>9</max>
+        <nominal>3</nominal>
+        <min>1</min>
+        <max>3</max>
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>

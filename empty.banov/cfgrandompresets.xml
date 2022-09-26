@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <randompresets>
+		<cargo chance="0.20" name="ContaminatedKey">
+				<item name="Blue_Key" chance="0.33" />
+				<item name="Red_Key" chance="0.33"/>
+				<item name="Yellow_Key" chance="0.33" />
+		</cargo>
 		<cargo chance="0.15" name="foodHermit">
 				<item name="TunaCan" chance="0.11" />
 				<item name="SardinesCan" chance="0.11" />
