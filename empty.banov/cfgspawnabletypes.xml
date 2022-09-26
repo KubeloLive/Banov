@@ -986,11 +986,11 @@
 		</cargo>
 </type>
 	<type name="ZmbM_NBC_Yellow">
-		<cargo preset="ContaminatedCargo" />
-		<cargo chance="1.0">
-			<item name="Yellow_Key" chance="1.0" />
-		</cargo>
-	</type>
+        <cargo preset="ContaminatedCargo" />
+        <cargo chance="0.01">
+            <item name="AntiChemInjector" chance="1.0" />
+        </cargo>
+    </type>
 	<!-- -----------------------------ARMY----------------------------- -->
 	<type name="ZmbM_PatrolNormal_Autumn">
 		<cargo preset="foodArmy" />
