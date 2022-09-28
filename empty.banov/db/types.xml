@@ -4266,7 +4266,7 @@
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
-    <type name="map_Banov">
+    <type name="Banov_map">
         <nominal>50</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
