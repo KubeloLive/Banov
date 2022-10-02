@@ -4,7 +4,7 @@
     <!--GUI props-->
     <selected row="18"/>
     <global>
-        <background file="banov.png" rgba="16777215"/>
+        <background file="map.png" rgba="16777215"/>
         <layer size="2048"/>
         <world size="15360"/>
     </global>
