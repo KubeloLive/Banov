@@ -629,9 +629,9 @@
         </children>
     </event>
     <event name="ItemPlanks">
-        <nominal>27</nominal>
-        <min>5</min>
-        <max>15</max>
+        <nominal>50</nominal>
+        <min>40</min>
+        <max>50</max>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <saferadius>250</saferadius>
@@ -678,6 +678,24 @@
             <child lootmax="8" lootmin="4" max="20" min="20" type="Bonfire"/>
         </children>
     </event>
+	<event name="StaticAmbulanceCar">
+        <nominal>3</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>2500</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <secondary>InfectedMedic</secondary>
+        <flags deletable="1" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="3" lootmin="2" max="3" min="3" type="ambulancia_crash"/>
+        </children>
+		</event>
     <event name="StaticChristmasTree">
         <nominal>13</nominal>
         <min>0</min>
@@ -748,7 +766,7 @@
     </event>
     <event name="StaticMilitaryConvoy">
         <nominal>5</nominal>
-        <min>5</min>
+        <min>0</min>
         <max>0</max>
         <lifetime>1800</lifetime>
         <restock>0</restock>
@@ -761,24 +779,6 @@
         <limit>child</limit>
         <active>1</active>
         <children/>
-	</event>
-	<event name="StaticAmbulanceCar">
-        <nominal>10</nominal>
-        <min>0</min>
-        <max>0</max>
-        <lifetime>2500</lifetime>
-        <restock>0</restock>
-        <saferadius>500</saferadius>
-        <distanceradius>500</distanceradius>
-        <cleanupradius>200</cleanupradius>
-        <secondary>InfectedMedic</secondary>
-        <flags deletable="1" init_random="0" remove_damaged="0"/>
-        <position>fixed</position>
-        <limit>child</limit>
-        <active>1</active>
-        <children>
-            <child lootmax="5" lootmin="3" max="5" min="5" type="ambulancia_crash"/>
-        </children>
     </event>
     <event name="StaticPoliceCar">
         <nominal>10</nominal>
@@ -801,7 +801,7 @@
     </event>
     <event name="StaticPoliceSituation">
         <nominal>5</nominal>
-        <min>5</min>
+        <min>0</min>
         <max>0</max>
         <lifetime>1800</lifetime>
         <restock>0</restock>
@@ -812,7 +812,7 @@
         <flags deletable="1" init_random="0" remove_damaged="0"/>
         <position>fixed</position>
         <limit>child</limit>
-        <active>0</active>
+        <active>1</active>
         <children/>
     </event>
     <event name="StaticSantaCrash">
@@ -846,7 +846,7 @@
         <flags deletable="1" init_random="0" remove_damaged="0"/>
         <position>fixed</position>
         <limit>child</limit>
-        <active>0</active>
+        <active>1</active>
         <children/>
     </event>
     <event name="TrajectoryApple">
