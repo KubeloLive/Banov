@@ -630,7 +630,7 @@
     </event>
     <event name="ItemPlanks">
         <nominal>50</nominal>
-        <min>40</min>
+        <min>30</min>
         <max>50</max>
         <lifetime>7200</lifetime>
         <restock>0</restock>

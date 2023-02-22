@@ -9,13 +9,10 @@
 	</group>
 		<!--<pos x="2351.04" z="8935.95" a="0" y="235.778" group="Prosperitycamp"/>-->
 	<group name="Prosperitycamp">
-		<child type="vbldr_tent_ltable_prx" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="0"/>
 		<child type="Land_Wreck_V3S_DE" deloot="0" lootmax="3" lootmin="1" x="-7.43994" z="-10.7197" y="0.266006" a="0"/>
 		<child type="Land_Wreck_offroad02_aban2" deloot="0" lootmax="3" lootmin="1" x="-8.53003" z="-1.12012" y="0.479004" a="0"/>
 		<child type="StaticObj_Wreck_BMP2" deloot="0" lootmax="3" lootmin="1" x="-15.8101" z="7.84961" y="-0.496002" a="24.03"/>
 		<child type="StaticObj_Wreck_Ural_DE" deloot="0" lootmax="3" lootmin="1" x="-8.14014" z="8.58984" y="0.339996" a="0"/>
-		<child type="vbldr_tent_pallets_prx" deloot="0" lootmax="3" lootmin="1" x="0.349854" z="4.00977" y="0.264008" a="0"/>
-		<child type="vbldr_tent_gunrack_prx" deloot="0" lootmax="3" lootmin="1" x="-0.840088" z="4.22949" y="-0.341003" a="0"/>
 		<child type="StaticObj_Mil_CamoNet_Side_east" deloot="0" lootmax="3" lootmin="1" x="0.0200195" z="0.530273" y="1.662" a="86.6697"/>
 		<child type="land_chz_polevaya_kuhnya" deloot="0" lootmax="3" lootmin="1" x="-0.880127" z="-8.79004" y="0.354996" a="0"/>
 		<child type="land_chz_rls_chp75b_up" deloot="0" lootmax="3" lootmin="1" x="-2.68994" z="16.3301" y="2.633" a="51.2999"/>
@@ -42,7 +39,7 @@
 		<child type="Land_Wreck_truck01_aban1_orange_DE" deloot="0" lootmax="3" lootmin="1" x="7.53027" z="-5.59961" y="-1.69598" a="0"/>
 		<child type="Land_Wreck_offroad02_aban1" deloot="0" lootmax="3" lootmin="1" x="-1.27051" z="-19.3994" y="0.210999" a="320.31"/>
 		<child type="StaticObj_Wreck_BMP2" deloot="0" lootmax="3" lootmin="1" x="5.62988" z="-27.8994" y="-0.850006" a="224.46"/>
-		<child type="StaticObj_Wreck_Ural_DE_DE" deloot="0" lootmax="3" lootmin="1" x="9.4502" z="10.3008" y="-0.493988" a="0"/>
+		<child type="StaticObj_Wreck_Ural_DE" deloot="0" lootmax="3" lootmin="1" x="9.4502" z="10.3008" y="-0.493988" a="0"/>
 		<child type="StaticObj_ammoboxes_stacked" deloot="0" lootmax="3" lootmin="1" x="1.05957" z="-4.19922" y="-0.893005" a="0"/>
 		<child type="StaticObj_ammoboxes_big" deloot="0" lootmax="3" lootmin="1" x="0.820313" z="2.10059" y="-0.631989" a="0"/>
 		<child type="land_chz_tank_br" deloot="0" lootmax="3" lootmin="1" x="3.22949" z="-14.5" y="-0.165009" a="323.55"/>
@@ -103,7 +100,7 @@
 	</group>
 		<!--<pos x="12572.8" z="10014.3" a="0" y="332.136" group="Radisamily"/>-->
 	<group name="Radisamily">
-		<child type="StaticObj_Wreck_BMP1_DE_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="59.1299"/>
+		<child type="StaticObj_Wreck_BMP1_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="59.1299"/>
 		<child type="StaticObj_Wreck_Uaz_DE" deloot="0" lootmax="3" lootmin="1" x="-8.5" z="36.5" y="-0.315979" a="0"/>
 		<child type="Land_Wreck_offroad02_aban2" deloot="0" lootmax="3" lootmin="1" x="0.200195" z="39.4004" y="0.384003" a="71.8199"/>
 		<child type="StaticObj_Wreck_Mi8_Crashed" deloot="0" lootmax="3" lootmin="1" x="6.2998" z="24.7998" y="0.674011" a="0"/>
@@ -129,7 +126,6 @@
 		<child type="Land_Container_1Aoh" deloot="0" lootmax="3" lootmin="1" x="-10.9199" z="1.5498" y="0.498001" a="97.7396"/>
 		<child type="Land_Container_1Mo" deloot="0" lootmax="3" lootmin="1" x="-70.5598" z="9.46973" y="0.537994" a="279"/>
 		<child type="Land_Wreck_offroad02_aban2" deloot="0" lootmax="3" lootmin="1" x="-84.22" z="11.71" y="0.904007" a="99.3596"/>
-		<child type="vbldr_wreck_v3s" deloot="0" lootmax="3" lootmin="1" x="-91.25" z="12.6201" y="0.880997" a="95"/>
 	</group>
 	<!--<pos x="4155.13" z="3482.62" a="0" y="203.165" group="Ozorovcevlak"/>-->
 	<group name="OzorovceVlak">
