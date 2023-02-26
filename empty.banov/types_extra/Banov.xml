@@ -176,7 +176,7 @@
         <usage name="Police"/>
         <usage name="Hunting"/> 
     </type>
-	<type name="Nano_Key">	//Don't edit! 
+	<type name="Key_Nano">	//Don't edit! 
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
