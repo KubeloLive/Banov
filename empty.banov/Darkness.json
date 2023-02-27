@@ -102,7 +102,7 @@
         },
 		{
             "DarkLight": "Dark",
-            "triggerpos": "14857 372.494 6151.58",
+            "triggerpos": "14867.7 374.289 6159.81",
             "triggermins": "-5 -1 -5",
             "triggermaxs": "5 1 5",
             "triggerradius": 0.0,
@@ -112,7 +112,7 @@
         },
         {
             "DarkLight": "Light",
-            "triggerpos": "14848.3 372.29 6145.07", 
+            "triggerpos": "14854.4 373.913 6149.66", 
             "triggermins": "-5 -1 -5",
             "triggermaxs": "5 1 5",
             "triggerradius": 0.0,
@@ -142,7 +142,7 @@
         },
         {
             "DarkLight": "Dark",
-            "triggerpos": "11651.5 603.633 15042",
+            "triggerpos": "11623.9 618.462 15042.8",
             "triggermins": "-5 -1 -5",
             "triggermaxs": "5 1 5",
             "triggerradius": 0.0,
@@ -152,7 +152,7 @@
         },
         {
             "DarkLight": "Light",
-            "triggerpos": "11665.4 610.258 15042",
+            "triggerpos": "11635.8 618.285 15042.3",
             "triggermins": "-5 -1 -5",
             "triggermaxs": "5 1 5",
             "triggerradius": 0.0,
@@ -172,13 +172,23 @@
         },
         {
             "DarkLight": "Sound",
-            "triggerpos": "8149.95 273.25 862.823",
+            "triggerpos": "8149.01 277.433 851.361",
             "triggermins": "-1 1 1",
             "triggermaxs": "1 3 1",
             "triggerradius": 2.0,
             "triggerheight": 2.0,
             "triggersoundset": "cave",
             "soundloop": 1
+        },
+		{
+            "DarkLight": "Sound",
+            "triggerpos": "8168.09 279.96 842.652",
+            "triggermins": "-2 1 2",
+            "triggermaxs": "2 1 2",
+            "triggerradius": 2.0,
+            "triggerheight": 2.0,
+            "triggersoundset": "None",
+            "soundloop": 0
         },
 		{
             "DarkLight": "Sound",
@@ -242,7 +252,7 @@
         },
 		{
             "DarkLight": "Sound",
-            "triggerpos": "11623.3 602.32 15040.9",
+            "triggerpos": "11623.9 618.424 15042.9",
             "triggermins": "-2 1 2",
             "triggermaxs": "2 1 2",
             "triggerradius": 2.0,
