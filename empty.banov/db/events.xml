@@ -629,7 +629,7 @@
         </children>
     </event>
     <event name="ItemPlanks">
-        <nominal>50</nominal>
+        <nominal>60</nominal>
         <min>30</min>
         <max>50</max>
         <lifetime>7200</lifetime>

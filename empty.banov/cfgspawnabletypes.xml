@@ -1674,6 +1674,12 @@
 		<attachments preset="bagsIndustrial" />
 		<attachments preset="vestsIndustrial" />
 	</type>
+	<type name="Scout_Alien_1">
+		<cargo preset="foodCity" />
+	</type>
+	<type name="Scout_Alien_2">
+	<cargo preset="foodCity" />
+	</type>
 	<type name="ZmbM_MechanicSkinny_Grey">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsIndustrial" />
