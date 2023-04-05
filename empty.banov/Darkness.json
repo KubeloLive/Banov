@@ -110,6 +110,126 @@
             "triggersoundset": "None",
             "soundloop": 0
         },
+		{
+            "DarkLight": "Light",
+            "triggerpos": "14080.5 520.888 3793.82",
+            "triggermins": "-5 -1 -5",
+            "triggermaxs": "5 1 5",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+		{
+            "DarkLight": "Light",
+            "triggerpos": "11606.7 616.693 15022.9",
+            "triggermins": "-5 -1 -5",
+            "triggermaxs": "5 1 5",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+		{
+            "DarkLight": "Light",
+            "triggerpos": "11337.9 463.92 12151.2",
+            "triggermins": "-5 -1 -5",
+            "triggermaxs": "5 1 5",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+		{
+            "DarkLight": "Light",
+            "triggerpos": "423.041 333.451 15273.5",
+            "triggermins": "-5 -1 -5",
+            "triggermaxs": "5 1 5",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+		{
+            "DarkLight": "Dark",
+            "triggerpos": "14077.2 512.958 3794.46",
+            "triggermins": "-5 -1 -5",
+            "triggermaxs": "5 1 5",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+		{
+            "DarkLight": "Sound",
+            "triggerpos": "14079.6 510.301 3792.39",
+            "triggermins": "-5 -1 -5",
+            "triggermaxs": "5 3 5",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "tunnel",
+            "soundloop": 1
+        },
+		{
+            "DarkLight": "Dark",
+            "triggerpos": "11365.4 464.13 12141.8",
+            "triggermins": "-5 -1 -5",
+            "triggermaxs": "5 1 5",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+		{
+            "DarkLight": "Sound",
+            "triggerpos": "11413.5 459.766 12138.2",
+            "triggermins": "-5 -1 -5",
+            "triggermaxs": "5 3 5",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "tunnel",
+            "soundloop": 1
+        },
+		{
+            "DarkLight": "Dark",
+            "triggerpos": "11603 610.644 15022.3",
+            "triggermins": "-5 -1 -5",
+            "triggermaxs": "5 1 5",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+		{
+            "DarkLight": "Sound",
+            "triggerpos": "11606.5 602.324 15022.6",
+            "triggermins": "-5 -1 -5",
+            "triggermaxs": "5 3 5",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "tunnel",
+            "soundloop": 1
+        },
+		{
+            "DarkLight": "Dark",
+            "triggerpos": "426.455 326.308 15273.5",
+            "triggermins": "-5 -1 -5",
+            "triggermaxs": "5 1 5",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+		{
+            "DarkLight": "Sound",
+            "triggerpos": "425.419 319.97 15270.6",
+            "triggermins": "-5 -1 -5",
+            "triggermaxs": "5 3 5",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "tunnel",
+            "soundloop": 1
+        },
         {
             "DarkLight": "Light",
             "triggerpos": "14854.4 373.913 6149.66", 
