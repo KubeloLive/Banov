@@ -1,7 +1,7 @@
 <types>
 	<type name="SingularityCannon"> //Don't edit! 
         <nominal>0</nominal>            
-        <lifetime>21600</lifetime>
+        <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>0</min>				
         <quantmin>-1</quantmin>
@@ -13,7 +13,7 @@
     </type>
 	  <type name="TLS_Nano2_Filter">	//Don't edit! 
         <nominal>0</nominal>
-        <lifetime>21600</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -24,7 +24,7 @@
     </type>
 		  <type name="TLS_Nano2_TOP">	//Don't edit! 
         <nominal>0</nominal>
-        <lifetime>21600</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -35,7 +35,7 @@
     </type>
 		  <type name="TLS_Nano2_LEG">	//Don't edit! 
         <nominal>0</nominal>
-        <lifetime>21600</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -46,7 +46,7 @@
     </type>
 		  <type name="TLS_Nano2_Gloves">	//Don't edit! 
         <nominal>0</nominal>
-        <lifetime>21600</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -57,7 +57,7 @@
     </type>
 		  <type name="TLS_Nano2_Boots">	//Don't edit! 
         <nominal>0</nominal>
-        <lifetime>21600</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -68,7 +68,7 @@
     </type>
 		  <type name="TLS_Nano2_Helm">	//Don't edit! 
         <nominal>0</nominal>
-        <lifetime>21600</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -89,7 +89,7 @@
     </type>
 	<type name="PunchedCard">			//Don't edit! 
         <nominal>0</nominal>
-        <lifetime>21600</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -178,7 +178,7 @@
     </type>
 	<type name="Key_Nano">	//Don't edit! 
         <nominal>0</nominal>
-        <lifetime>21600</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
