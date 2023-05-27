@@ -19,7 +19,8 @@ A: Probably. We do not plan to have mods that would conflict with anything but w
 
 Q: What is the suggested player count for Banov?
 
-60/180
+A: 60/180
+
 Q: Can I add new types to the existing vanilla Banov setup?
 
 A: Yes.
