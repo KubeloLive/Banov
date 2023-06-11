@@ -11,15 +11,11 @@ A: Yes.
 
 Q: Can I repack Banov?
 
-A: No.
-
-Q: Is Banov compatible with X?
-
-A: Probably. We do not plan to have mods that would conflict with anything but with that said, Banov is heavily a work in progress and there will be bugs.
+A: Fuck No.
 
 Q: What is the suggested player count for Banov?
 
-60/180
+60/120
 Q: Can I add new types to the existing vanilla Banov setup?
 
 A: Yes.
