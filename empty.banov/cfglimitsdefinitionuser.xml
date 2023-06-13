@@ -36,11 +36,12 @@
             <value name="Tier3" />
             <value name="Tier4" />
         </user>
-        <user name="Tier1234">
+        <user name="Tier12345">
             <value name="Tier1" />
             <value name="Tier2" />
             <value name="Tier3" />
             <value name="Tier4" />
+			<value name="Tier5" />
         </user>
     </valueflags>
 </user_lists>
