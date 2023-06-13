@@ -21,9 +21,9 @@
         </children>
     </event>
     <event name="AnimalBear">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <min>2</min>
-        <max>2</max>
+        <max>3</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -407,9 +407,9 @@
         </children>
     </event>
     <event name="InfectedNBC">
-        <nominal>50</nominal>
-        <min>25</min>
-        <max>250</max>
+        <nominal>35</nominal>
+        <min>20</min>
+        <max>40</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -426,7 +426,7 @@
     <event name="InfectedNBCYellow">
         <nominal>50</nominal>
         <min>25</min>
-        <max>250</max>
+        <max>40</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -708,7 +708,7 @@
         <flags deletable="1" init_random="1" remove_damaged="0"/>
         <position>fixed</position>
         <limit>parent</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="0" lootmin="0" max="4" min="2" type="ContaminatedArea_Dynamic"/>
         </children>
@@ -817,7 +817,7 @@
         </children>
     </event>
     <event name="StaticTrain">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <min>1</min>
         <max>0</max>
         <lifetime>5400</lifetime>
@@ -878,7 +878,7 @@
         <flags deletable="0" init_random="0" remove_damaged="0"/>
         <position>player</position>
         <limit>mixed</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="0" lootmin="0" max="0" min="0" type="BoletusMushroom"/>
             <child lootmax="0" lootmin="0" max="0" min="0" type="MacrolepiotaMushroom"/>
@@ -896,7 +896,7 @@
         <flags deletable="0" init_random="0" remove_damaged="0"/>
         <position>player</position>
         <limit>mixed</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="0" lootmin="0" max="0" min="0" type="LactariusMushroom"/>
         </children>
@@ -913,7 +913,7 @@
         <flags deletable="0" init_random="0" remove_damaged="0"/>
         <position>player</position>
         <limit>mixed</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="0" lootmin="0" max="0" min="0" type="AgaricusMushroom"/>
             <child lootmax="0" lootmin="0" max="0" min="0" type="PleurotusMushroom"/>
@@ -948,7 +948,7 @@
         <flags deletable="0" init_random="0" remove_damaged="0"/>
         <position>player</position>
         <limit>mixed</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="0" lootmin="0" max="0" min="0" type="Plum"/>
         </children>
@@ -988,9 +988,9 @@
         </children>
     </event>
     <event name="VehicleCivilianSedan">
-        <nominal>8</nominal>
+        <nominal>10</nominal>
         <min>5</min>
-        <max>11</max>
+        <max>8</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1007,9 +1007,9 @@
         </children>
     </event>
     <event name="VehicleHatchback02">
-        <nominal>8</nominal>
+        <nominal>10</nominal>
         <min>5</min>
-        <max>11</max>
+        <max>8</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1026,9 +1026,9 @@
         </children>
     </event>
     <event name="VehicleOffroad02">
-        <nominal>3</nominal>
+        <nominal>10</nominal>
         <min>2</min>
-        <max>3</max>
+        <max>8</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1043,9 +1043,9 @@
         </children>
     </event>
     <event name="VehicleOffroadHatchback">
-        <nominal>8</nominal>
+        <nominal>10</nominal>
         <min>5</min>
-        <max>11</max>
+        <max>8</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1062,9 +1062,9 @@
         </children>
     </event>
     <event name="VehicleSedan02">
-        <nominal>8</nominal>
+        <nominal>10</nominal>
         <min>5</min>
-        <max>11</max>
+        <max>8</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1081,9 +1081,9 @@
         </children>
     </event>
     <event name="VehicleTruck01">
-        <nominal>8</nominal>
+        <nominal>10</nominal>
         <min>5</min>
-        <max>11</max>
+        <max>8</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
