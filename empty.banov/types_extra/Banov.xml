@@ -77,6 +77,16 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
     </type>
+	 <type name="ambulancia_crash">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
 	<type name="PunchedCard">			//Don't edit! 
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
@@ -88,6 +98,18 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Singularity_Ammobox">	
+        <nominal>2</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+		 <usage name="Military"/>
+	</type>
+	<type name="Mag_Banov_SingularityCannon_5Rnd">	
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -150,7 +172,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
         <usage name="Military"/>
-		<value name="Tier4"/>
     </type>
 	<type name="Red_Key">
         <nominal>5</nominal>
@@ -165,8 +186,7 @@
         <tag name="shelves"/>
         <usage name="Military"/>
         <usage name="Police"/>
-        <usage name="Hunting"/>
-		<value name="Tier2"/>		
+        <usage name="Hunting"/> 
     </type>
 	<type name="Key_Nano">	//Don't edit! 
         <nominal>0</nominal>
