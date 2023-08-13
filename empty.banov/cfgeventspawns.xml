@@ -555,12 +555,12 @@
 		<pos x="6723.78" y="337.696" z="12888.7" a="-17.214"/>
 		</event>
 		<event name="StaticTrain">
-		<zone smin="0" smax="0" dmin="2" dmax="4" r="20" />
+		<zone smin="0" smax="0" dmin="1" dmax="1" r="20" />
 		<pos x="2793.92" z="4281.62" a="0" y="217.183" group="VlakVeronika"/>
 		<pos x="4155.13" z="3482.62" a="0" y="203.165" group="OzorovceVlak"/>
 	</event>
 	<event name="StaticMilitaryConvoy">
-		<zone smin="0" smax="0" dmin="3" dmax="4" r="5" />
+		<zone smin="0" smax="0" dmin="1" dmax="1" r="5" />
 		<pos x="4004.27" z="5630.33" a="0" y="207.923" group="Podluzanymily"/>
 		<pos x="2351.04" z="8935.95" a="0" y="235.778" group="Prosperitycamp"/>
 		<pos x="2493.76" z="6647.06" a="0" y="214.226" group="Dezericemily"/>
@@ -573,7 +573,7 @@
 		<pos x="12572.8" z="10014.3" a="0" y="332.136" group="Radisamily"/>
 	</event>
 	<event name="StaticPoliceSituation">
-		<zone smin="0" smax="0" dmin="1" dmax="2" r="20" />
+		<zone smin="0" smax="0" dmin="1" dmax="1" r="20" />
 		<pos x="8639.61" z="6005.53" a="0" y="242.192" group="PoliceDubnicka"/>
 		<pos x="5097.06" z="10082.7" a="0" y="224.985" group="PoliceTimo"/>
 		<pos x="15170.4" z="3161.92" a="0" y="516.006" group="Policeforest"/>
