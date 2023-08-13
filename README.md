@@ -5,7 +5,7 @@ Server Installation
 Make sure you have up-to-date @Banov folder in your server root. Copy Banov.bikey from Keys folder to your server root keys folder.
 
 Frequently Asked Questions (FAQ)
-Q: Can I add my own locations on the map?
+Q: Can I add my own locations on the map?:
 
 A: Yes.
 
