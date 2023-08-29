@@ -34,4 +34,12 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="save_events_startup" value="true"/>
 		<default name="save_types_startup" value="true"/>
 	</defaults>
+	<ce folder="types_extra">
+
+        <!-- Types -->
+            <file name="Banov.xml" type="types" />
+	    <file name="zbrane.xml" type="types" />
+	    <file name="last.xml" type="types" />
+	    <file name="bike.xml" type="types" />
+    </ce>
 </economycore>
