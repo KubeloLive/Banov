@@ -38,8 +38,5 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 
         <!-- Types -->
             <file name="Banov.xml" type="types" />
-	    <file name="zbrane.xml" type="types" />
-	    <file name="last.xml" type="types" />
-	    <file name="bike.xml" type="types" />
     </ce>
 </economycore>
