@@ -11,6 +11,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
+		<value name="Tier4"/>
+        <value name="Tier5"/>
     </type>
     <type name="ACOGOptic_6x">
         <nominal>10</nominal>
@@ -133,9 +135,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="ContaminatedArea"/>
-		<usage name="Military"/>
 		<usage name="Underground"/>
-		<value name="Tier4"/>
+		<value name="Tier5"/>
     </type>
     <type name="AKS74U">
         <nominal>17</nominal>
@@ -324,7 +325,7 @@
         <category name="weapons"/>
         <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
-		<usage name="Military"/>
+		<usage name="Underground"/>
     </type>
     <type name="AK_WoodBttstck">
         <nominal>5</nominal>
@@ -2681,7 +2682,7 @@
         <usage name="Farm"/>
     </type>
     <type name="BaseRadio">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>1</min>
@@ -2692,7 +2693,6 @@
         <category name="tools"/>
         <usage name="Military"/>
         <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="BaseballBat">
         <nominal>80</nominal>
@@ -5160,7 +5160,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="explosives"/>
-        <usage name="Military"/>
+        <usage name="Underground"/>
         <value name="Tier5"/>
     </type>
     <type name="Cleaver">
@@ -6526,7 +6526,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-		<usage name="Underground"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
 		<value name="Tier4"/>
     </type>
     <type name="FNP45_MRDSOptic">
@@ -10317,7 +10318,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="explosives"/>
-        <usage name="Military"/>
+        <usage name="Underground"/>
         <value name="Tier5"/>
     </type>
     <type name="Land_Container_1Aoh_DE">
@@ -10783,7 +10784,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
         <category name="containers"/>
         <usage name="Military"/>
     </type>
@@ -11502,7 +11503,7 @@
         <category name="weapons"/>
         <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
-		<usage name="Military"/>
+		<usage name="Underground"/>
     </type>
     <type name="M4_T3NRDSOptic">
         <nominal>20</nominal>
@@ -11847,6 +11848,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
+		<usage name="Underground"/>
 		<value name="Tier4"/>
 		<value name="Tier5"/>
     </type>
@@ -12291,6 +12293,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
+		<value name="Tier2"/>
+        <value name="Tier3"/>
     </type>
     <type name="Mag_VAL_20Rnd">
         <nominal>15</nominal>
@@ -14065,6 +14069,7 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="containers"/>
         <usage name="Town"/>
+		<usage name="Lunapark"/>
     </type>
     <type name="PartyTent_Blue">
         <nominal>10</nominal>
@@ -14077,6 +14082,7 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="containers"/>
         <usage name="Town"/>
+		<usage name="Lunapark"/>
     </type>
     <type name="PartyTent_Brown">
         <nominal>10</nominal>
@@ -14089,6 +14095,7 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="containers"/>
         <usage name="Town"/>
+		<usage name="Lunapark"/>
     </type>
     <type name="PartyTent_Lunapark">
         <nominal>10</nominal>
@@ -15579,9 +15586,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-		<usage name="Underground"/>
 		<usage name="Hunting"/>
-		<value name="Tier1"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
@@ -17371,9 +17376,7 @@
         <category name="weapons"/>
         <tag name="shelves"/>
         <usage name="ContaminatedArea"/>
-		<usage name="Military"/>
-		<value name="Tier3"/>
-		<value name="Tier4"/>
+		<usage name="Underground"/>
     </type>
     <type name="StartKitIV">
         <nominal>30</nominal>
@@ -18914,6 +18917,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
+		<value name="Tier2"/>
+        <value name="Tier3"/>
     </type>
     <type name="USMCJacket_Desert">
         <nominal>5</nominal>
@@ -19064,9 +19069,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-		<value name="Tier3"/>
-		<value name="Tier4"/>
+        <usage name="Underground"/>
+		<value name="Tier5"/>
     </type>
     <type name="VitaminBottle">
         <nominal>40</nominal>
