@@ -1,16 +1,15 @@
 //Vanilla Banov Init.c
 // Thank you for using my map
+
+void main()
+{
+	// economy init
+	CreateHive();
+	GetHive().InitOffline();
 	
 //Loot spawn Creator
-//GetCEApi().ExportProxyData(vector.Zero, 100000); //Loot
-//GetCEApi().ExportClusterData(); //Fruit	
-
-	void main()
-{
-	//INIT ECONOMY--------------------------------------
-	Hive ce = CreateHive();
-	if ( ce )
-		ce.InitOffline();
+GetCEApi().ExportProxyData(vector.Zero, 100000); //Loot
+GetCEApi().ExportClusterData(); //Fruit	
 
 	//DATE RESET AFTER ECONOMY INIT-------------------------
 	int year, month, day, hour, minute;
