@@ -137,10 +137,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="Banov_map">
-        <nominal>25</nominal>
+        <nominal>50</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
