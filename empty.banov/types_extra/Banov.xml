@@ -11,20 +11,9 @@
         <category name="weapons"/>
         <usage name="Military"/>
     </type>
-	  <type name="TLS_Nano2_Filter">	//Don't edit! 
+		 <type name="TLS_Nano2_TOP">	//Don't edit! 
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-    </type>
-		  <type name="TLS_Nano2_TOP">	//Don't edit! 
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -35,7 +24,7 @@
     </type>
 		  <type name="TLS_Nano2_LEG">	//Don't edit! 
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -46,7 +35,7 @@
     </type>
 		  <type name="TLS_Nano2_Gloves">	//Don't edit! 
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -57,7 +46,7 @@
     </type>
 		  <type name="TLS_Nano2_Boots">	//Don't edit! 
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -68,7 +57,7 @@
     </type>
 		  <type name="TLS_Nano2_Helm">	//Don't edit! 
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -89,7 +78,7 @@
     </type>
 	<type name="PunchedCard">			//Don't edit! 
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -98,20 +87,20 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Singularity_Ammobox">	
-        <nominal>2</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>0</nominal>
+        <lifetime>27200</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
 		 <usage name="Military"/>
 	</type>
 	<type name="Mag_Banov_SingularityCannon_5Rnd">	
         <nominal>0</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -123,7 +112,7 @@
 	</type>
 	<type name="Banov_XSight">	//Don't edit! 
         <nominal>0</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -136,7 +125,7 @@
 	</type>
     <type name="Ammo_BNVSingularityCell">	//Don't edit! 
 		<nominal>0</nominal>
-		<lifetime>28800</lifetime>
+		<lifetime>7200</lifetime>
 		<restock>0</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
@@ -162,37 +151,32 @@
         <usage name="Office"/>
     </type>
 	<type name="Blue_Key">
-        <nominal>2</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="Warlords"/>
+        <usage name="Alien"/>
     </type>
 	<type name="Red_Key">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>10</nominal>
+        <lifetime>21800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-       <category name="tools"/>
-        <tag name="shelves"/>
-        <usage name="Police"/>
-        <usage name="Hunting"/> 
-		<value name="Tier2"/>
-		<value name="Tier3"/>
-		<value name="Tier4"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="Warlords"/>
+        <usage name="Alien"/>
     </type>
 	<type name="Key_Nano">	//Don't edit! 
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -201,16 +185,45 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="Yellow_Key">
-        <nominal>2</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>8</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="Warlords"/>
+        <usage name="Alien"/>
+    </type>
+	  <type name="YRTSK_UFO_Crash">
+        <nominal>0</nominal>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="Scout_Alien_1">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
     </type>
+	<type name="Scout_Alien_2">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      </type>
 </types>

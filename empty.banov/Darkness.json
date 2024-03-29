@@ -40,6 +40,26 @@
             "triggersoundset": "None",
             "soundloop": 0
         },
+		  {
+            "DarkLight": "Dark",
+            "triggerpos": "8178.53 228.485 1252.56",
+            "triggermins": "-5 -1 -5",
+            "triggermaxs": "5 1 5",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
+        {
+            "DarkLight": "Light",
+            "triggerpos": "8180.66 233.436 1247.07",
+            "triggermins": "-5 -1 -5",
+            "triggermaxs": "5 1 5",
+            "triggerradius": 0.0,
+            "triggerheight": 0.0,
+            "triggersoundset": "None",
+            "soundloop": 0
+        },
 		{
             "DarkLight": "Dark",
             "triggerpos": "11474.2 453.647 11983.2",
@@ -288,16 +308,6 @@
             "triggerradius": 2.0,
             "triggerheight": 2.0,
             "triggersoundset": "Alienship_Area",
-            "soundloop": 1
-        },
-        {
-            "DarkLight": "Sound",
-            "triggerpos": "8149.01 277.433 851.361",
-            "triggermins": "-1 1 1",
-            "triggermaxs": "1 3 1",
-            "triggerradius": 2.0,
-            "triggerheight": 2.0,
-            "triggersoundset": "cave",
             "soundloop": 1
         },
 		{

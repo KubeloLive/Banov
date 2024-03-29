@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <lists>
     <categories>
+		<category name="Warlords"/>
         <category name="tools"/>
         <category name="containers"/>
         <category name="clothes"/>
@@ -18,6 +19,7 @@
     </tags>
     <usageflags>
         <usage name="Military"/>
+		<usage name="Alien"/>
         <usage name="Police"/>
         <usage name="Medic"/>
         <usage name="Firefighter"/>
