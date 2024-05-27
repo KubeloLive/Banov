@@ -27,6 +27,34 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
+	    <type name="SV98">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>40</quantmin>
+        <quantmax>80</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	    <type name="Mag_SV98_10Rnd">
+        <nominal>10</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>7</min>
+        <quantmin>30</quantmin>
+        <quantmax>70</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
     <type name="AK101">
         <nominal>4</nominal>
         <lifetime>28800</lifetime>
@@ -4521,31 +4549,6 @@
         <usage name="Industrial"/>
         <usage name="Town"/>
         <usage name="Village"/>
-    </type>
-    <type name="ChernarusMap">
-        <nominal>50</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>30</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-    </type>
-    <type name="ChernarusMap_Open">
-        <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="tools"/>
     </type>
     <type name="ChernarusSportShirt">
         <nominal>20</nominal>
@@ -11528,6 +11531,17 @@
         <category name="weapons"/>
         <usage name="Military"/>
     </type>
+	<type name="Vikhr">
+        <attachments chance="0.25">
+            <item name="KashtanOptic" chance="0.50" />
+            <item name="PSO1Optic" chance="0.50" />
+        </attachments>
+        <attachments chance="0.35">
+            <item name="Mag_VSS_10Rnd" chance="0.50" />
+            <item name="Mag_VAL_20Rnd" chance="0.35" />
+            <item name="Mag_Vikhr_30Rnd" chance="0.15" />
+        </attachments>
+    </type>
     <type name="Mace">
         <nominal>2</nominal>
         <lifetime>14400</lifetime>
@@ -15769,23 +15783,11 @@
         <category name="weapons"/>
         <usage name="Prison"/>
     </type>
-    <type name="Scout_Chernarus">
-        <nominal>5</nominal>
+    <type name="Scout_Livonia">
+           <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-        <category name="weapons"/>
-        <usage name="Police"/>
-    </type>
-    <type name="Scout_Livonia">
-        <nominal>0</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
