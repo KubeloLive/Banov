@@ -658,9 +658,10 @@
 	</event>
 	<event name="StaticMilitaryConvoy">
 		<zone smin="0" smax="0" dmin="1" dmax="1" r="5" />
+		<pos x="3545.26" z="7682.26" a="0" y="279.941" group="ZeroPoint"/>
 		<pos x="4004.27" z="5630.33" a="0" y="207.923" group="Podluzanymily"/>
 		<pos x="2351.04" z="8935.95" a="0" y="235.778" group="Prosperitycamp"/>
-		<pos x="2493.76" z="6647.06" a="0" y="214.226" group="Dezericemily"/>
+		<pos x="2823.24" z="6238.63" a="0" y="211.801" group="Dezericemily"/>
 		<pos x="7341.69" z="8901.82" a="0" y="310.411" group="Lutovmily"/>
 		<pos x="8579.79" z="11653.1" a="0" y="474.62"  group="KopecMilyCamp"/>
 		<pos x="5404.74" z="14481.1" a="0" y="272.391" group="Slatinamilyattack"/>
