@@ -20,12 +20,29 @@
 		<child type="StaticObj_Furniture_canister_DZ" deloot="0" lootmax="0" lootmin="0" x="2.35986" z="-2.5" y="-0.162003" a="0"/>
 		<child type="StaticObj_Furniture_canister_DZ" deloot="0" lootmax="0" lootmin="0" x="-1.80005" z="0.160156" y="-0.378006" a="0"/>
 	</group>
-		<!--<pos x="2493.76" z="6647.06" a="0" y="214.226" group="Dezericemily"/>-->
+		<!--<pos x="3545.26" z="7682.26" a="0" y="279.941" group="ZeroPoint"/>-->
+	<group name="ZeroPoint">
+		<child type="Land_Wreck_Ikarus_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="271.98"/>
+		<child type="StaticObj_Wreck_BMP1_DE" deloot="0" lootmax="3" lootmin="1" x="24.8899" z="-68.25" y="-0.219025" a="0"/>
+		<child type="StaticObj_Wreck_BRDM_DE" deloot="0" lootmax="3" lootmin="1" x="28.54" z="-60.5195" y="-0.177002" a="328.14"/>
+		<child type="StaticObj_Wreck_HMMWV_DE" deloot="0" lootmax="3" lootmin="1" x="16.4299" z="-57" y="-0.457001" a="333.81"/>
+		<child type="StaticObj_Wreck_PowGen" deloot="0" lootmax="3" lootmin="1" x="30.1699" z="-46.9697" y="-0.410004" a="0"/>
+		<child type="StaticObj_Wreck_BMP2_DE" deloot="0" lootmax="3" lootmin="1" x="21.9099" z="-52.6797" y="-0.550018" a="0"/>
+		<child type="Land_wreck_truck01_aban1_firetruck" deloot="0" lootmax="3" lootmin="1" x="23.52" z="-43.8696" y="-1.49701" a="0"/>
+		<child type="Land_wreck_truck01_aban2_firetruck" deloot="0" lootmax="3" lootmin="1" x="21.6499" z="-32.25" y="-1.49002" a="0"/>
+		<child type="vbldr_wreck_v3s_DE" deloot="0" lootmax="3" lootmin="1" x="21.4099" z="-20.1899" y="0.359985" a="0"/>
+		<child type="StaticObj_Wreck_Ural_DE" deloot="0" lootmax="3" lootmin="1" x="15.3101" z="-1.76953" y="0.0579834" a="295.47"/>
+	</group>
+		<!--<pos x="2823.24" z="6238.63" a="0" y="211.801" group="Dezericemily"/>-->
 	<group name="Dezericemily">
-		<child type="StaticObj_Wreck_BMP1_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="356.22"/>
-		<child type="StaticObj_Wreck_Uaz_DE" deloot="0" lootmax="3" lootmin="1" x="-34.23" z="16.71" y="-0.315994" a="290.88"/>
-		<child type="Land_Wreck_V3S_DE" deloot="0" lootmax="3" lootmin="1" x="-21.5801" z="9.77002" y="0.496002" a="294.12"/>
-		<child type="Land_Wreck_offroad02_aban1_DE" deloot="0" lootmax="3" lootmin="1" x="-11.29" z="4.37012" y="0.615005" a="302.49"/>
+		<child type="Land_Wreck_Ikarus_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="133.92"/>
+		<child type="StaticObj_Wreck_BMP1_DE" deloot="0" lootmax="3" lootmin="1" x="-28.5901" z="23.8799" y="-0.320999" a="164.429"/>
+		<child type="StaticObj_Wreck_BRDM_DE" deloot="0" lootmax="3" lootmin="1" x="-17.71" z="17.1001" y="-0.658997" a="137.97"/>
+		<child type="StaticObj_Wreck_Ural_DE" deloot="0" lootmax="3" lootmin="1" x="-8.78003" z="8.12012" y="-0.14299" a="132.84"/>
+		<child type="StaticObj_Wreck_Uaz_DE" deloot="0" lootmax="3" lootmin="1" x="-14.1299" z="9.12988" y="-0.649002" a="174.24"/>
+		<child type="StaticObj_cncbarrier_block" deloot="0" lootmax="3" lootmin="1" x="-34.4199" z="28.6001" y="-0.737" a="321.12"/>
+		<child type="StaticObj_woodencrate" deloot="0" lootmax="3" lootmin="1" x="-10.02" z="6.59033" y="-1.192" a="314.1"/>
+		<child type="StaticObj_woodencrate_5x" deloot="0" lootmax="3" lootmin="1" x="-7.6001" z="4.18994" y="-0.509995" a="45.6299"/>
 	</group>
 		<!--<pos x="7341.69" z="8901.82" a="0" y="310.411" group="Lutovmily"/>-->
 	<group name="Lutovmily">

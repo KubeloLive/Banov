@@ -56,6 +56,48 @@
 		<pos x="2051.97"  z="6772.31" a="0"/>
 		<pos x="4867.39"  z="5076.88" a="0"/>
 	</event>
+		<event name="StaticYRTSK_UFO_Crash">
+		<zone smin="1" smax="3" dmin="1" dmax="5" r="45" />
+		<pos x="4873.27"  z="6255.44" a="0"/>
+		<pos x="4178.05"  z="6828.18" a="0"/>
+		<pos x="3437.84"  z="7127.84" a="0"/>
+		<pos x="3548.66"  z="6697.26" a="0"/>
+		<pos x="2168.87"  z="7160.96" a="0"/>
+		<pos x="829.542"  z="7652.4" a="0"/>
+		<pos x="2693.38"  z="7900.85" a="0"/>
+		<pos x="3355.03"  z="9036.63" a="0"/>
+		<pos x="2384.21"  z="9682.01" a="0"/>
+		<pos x="1681.98"  z="9435.9" a="0"/>
+		<pos x="1216.18"  z="9192.78" a="0"/>
+		<pos x="791.526"  z="8336.87" a="0"/>
+		<pos x="1962.59"  z="10178.1" a="0"/>
+		<pos x="1768.24"  z="10855" a="0"/>
+		<pos x="1035.21"  z="11471.5" a="0"/>
+		<pos x="713.487"  z="11429.9" a="0"/>
+		<pos x="631.125"  z="12212.2" a="0"/>
+		<pos x="1364.52"  z="12196.2" a="0"/>
+		<pos x="2434.52"  z="12340.7" a="0"/>
+		<pos x="2883.46"  z="12209.6" a="0"/>
+		<pos x="3013.42"  z="12876.3" a="0"/>
+		<pos x="1829.62"  z="13964.3" a="0"/>
+		<pos x="2891.12"  z="14582.2" a="0"/>
+		<pos x="3166.47"  z="13875.2" a="0"/>
+		<pos x="4179.64"  z="14263.3" a="0"/>
+		<pos x="5166.77"  z="13908.3" a="0"/>
+		<pos x="7179.02"  z="12287.9" a="0"/>
+		<pos x="7714.93"  z="13244.2" a="0"/>
+		<pos x="8087.29"  z="14122.2" a="0"/>
+		<pos x="10175.6"  z="12221" a="0"/>
+		<pos x="11338.4"  z="13883.1" a="0"/>
+		<pos x="9534.31"  z="14415.5" a="0"/>
+		<pos x="10977.9"  z="10622.3" a="0"/>
+		<pos x="14913.2"  z="9365.73" a="0"/>
+		<pos x="13499.7"  z="4723.62" a="0"/>
+		<pos x="10424.9"  z="3857.01" a="0"/>
+		<pos x="5941.79"  z="1571.52" a="0"/>
+		<pos x="2873.03"  z="4448.56" a="0"/>
+		<pos x="1177.39"  z="5879.39" a="0"/>
+  </event>
       <event name="StaticSantaCrash">
 		<zone smin="1" smax="1" dmin="1" dmax="1" r="45" />
 		<pos x="5282.19"  z="962.388" a="-1"/>
@@ -616,9 +658,10 @@
 	</event>
 	<event name="StaticMilitaryConvoy">
 		<zone smin="0" smax="0" dmin="1" dmax="1" r="5" />
+		<pos x="3545.26" z="7682.26" a="0" y="279.941" group="ZeroPoint"/>
 		<pos x="4004.27" z="5630.33" a="0" y="207.923" group="Podluzanymily"/>
 		<pos x="2351.04" z="8935.95" a="0" y="235.778" group="Prosperitycamp"/>
-		<pos x="2493.76" z="6647.06" a="0" y="214.226" group="Dezericemily"/>
+		<pos x="2823.24" z="6238.63" a="0" y="211.801" group="Dezericemily"/>
 		<pos x="7341.69" z="8901.82" a="0" y="310.411" group="Lutovmily"/>
 		<pos x="8579.79" z="11653.1" a="0" y="474.62"  group="KopecMilyCamp"/>
 		<pos x="5404.74" z="14481.1" a="0" y="272.391" group="Slatinamilyattack"/>
@@ -641,6 +684,7 @@
     <event name="InfectedSolitude" />
     <event name="InfectedArmy" />
     <event name="InfectedCity" />
+	<event name="InfectedAlien" />
     <event name="InfectedMedic" />
     <event name="InfectedPolice" />
     <event name="InfectedFirefighter" />
