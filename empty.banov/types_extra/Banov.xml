@@ -1,5 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
-	<type name="SingularityCannon"> //Don't edit! 
+	<type name="SingularityCannon"> <!-- Don't edit! --> 
         <nominal>0</nominal>            
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -11,7 +12,7 @@
         <category name="weapons"/>
         <usage name="Military"/>
     </type>
-		 <type name="TLS_Nano2_TOP">	//Don't edit! 
+		 <type name="TLS_Nano2_TOP">	<!-- Don't edit! --> 
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
@@ -22,7 +23,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
     </type>
-		  <type name="TLS_Nano2_LEG">	//Don't edit! 
+		  <type name="TLS_Nano2_LEG">	<!-- Don't edit! --> 
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
@@ -33,7 +34,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
     </type>
-		  <type name="TLS_Nano2_Gloves">	//Don't edit! 
+		  <type name="TLS_Nano2_Gloves">	<!-- Don't edit! --> 
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
@@ -44,7 +45,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
     </type>
-		  <type name="TLS_Nano2_Boots">	//Don't edit! 
+		  <type name="TLS_Nano2_Boots">	<!-- Don't edit! --> 
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
@@ -55,7 +56,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
     </type>
-		  <type name="TLS_Nano2_Helm">	//Don't edit! 
+		  <type name="TLS_Nano2_Helm">	<!-- Don't edit! --> 
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
@@ -76,7 +77,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
-	<type name="PunchedCard">			//Don't edit! 
+	<type name="PunchedCard">			<!-- Don't edit! --> 
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -110,7 +111,7 @@
         <category name="weapons"/>
 		 <usage name="Military"/>
 	</type>
-	<type name="Banov_XSight">	//Don't edit! 
+	<type name="Banov_XSight">	<!-- Don't edit! --> 
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -123,7 +124,7 @@
 		<usage name="SeasonalEvent"/>
         <value name="Tier4"/>
 	</type>
-    <type name="Ammo_BNVSingularityCell">	//Don't edit! 
+    <type name="Ammo_BNVSingularityCell">	<!-- Don't edit! --> 
 		<nominal>0</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
@@ -174,7 +175,7 @@
         <category name="Warlords"/>
         <usage name="Alien"/>
     </type>
-	<type name="Key_Nano">	//Don't edit! 
+	<type name="Key_Nano">	<!-- Don't edit! --> 
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
