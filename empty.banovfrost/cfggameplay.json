@@ -52,8 +52,7 @@
 		"objectSpawnersArr": [],
 		"environmentMinTemps": [-6.5, -9.5, -6.5, -9.5, 2, 6, 9, 10, 6, 1, -5, -10],
 		"environmentMaxTemps": [-3, -5, -3, -5, 9, 14, 16, 17, 14, 8, 1, -3],
-		"wetnessWeightModifiers": [1.0, 1.0, 1.33, 1.66, 2.0],
-		"playerRestrictedAreaFiles": ["pra/warheadstorage.json"]
+		"wetnessWeightModifiers": [1.0, 1.0, 1.33, 1.66, 2.0]
 	},
 	"BaseBuildingData":
 	{
