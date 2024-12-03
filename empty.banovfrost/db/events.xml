@@ -798,7 +798,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>uniform</position>
         <limit>child</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="10" lootmin="5" max="17" min="14" type="ChristmasTree_Green"/>
         </children>
