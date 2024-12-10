@@ -185,10 +185,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="Yellow_Key">
-        <nominal>8</nominal>
-        <lifetime>1800</lifetime>
+        <nominal>5</nominal>
+        <lifetime>21800</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -217,11 +217,31 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="Scout_Alien_2">
-        <nominal>0</nominal>
+        <nominal>0</nominal>	
         <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>-1</quantmin>
+        <quantmin>-1</quantmin>	
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      </type>
+	  <type name="Captain_Alien">
+        <nominal>0</nominal>	
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>	
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      </type>
+	  <type name="Queen_Alien">
+        <nominal>0</nominal>	
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>	
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>

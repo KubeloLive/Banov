@@ -1,19 +1,20 @@
 //Vanilla Banov Init.c
 // Thank you for using my map
 
-void main()
+	void main()
 {
-	// economy init
-	CreateHive();
-	GetHive().InitOffline();
-	
-//Loot spawn Creator
-//GetCEApi().ExportProxyData(vector.Zero, 100000); //Loot
-//GetCEApi().ExportClusterData(); //Fruit	
+	//INIT ECONOMY--------------------------------------
+	Hive ce = CreateHive();
+	if ( ce )
+		ce.InitOffline();
+
+    //Loot spawn Creator
+	//GetCEApi().ExportProxyData(vector.Zero, 100000); //Loot
+	//GetCEApi().ExportClusterData(); //Fruit	
 
 	//DATE RESET AFTER ECONOMY INIT-------------------------
 	int year, month, day, hour, minute;
-	int reset_month = 9, reset_day = 20;
+	int reset_month = 7, reset_day = 17;
 	GetGame().GetWorld().GetDate(year, month, day, hour, minute);
 
 	if ((month == reset_month) && (day < reset_day))
@@ -72,21 +73,11 @@ class CustomMission: MissionServer
 			
 			itemEnt = itemClothing.GetInventory().CreateInInventory( "BandageDressing" );
 			player.SetQuickBarEntityShortcut(itemEnt, 2);
-			
+
 			string chemlightArray[] = { "Chemlight_White", "Chemlight_Yellow", "Chemlight_Green", "Chemlight_Red" };
 			int rndIndex = Math.RandomInt( 0, 4 );
 			itemEnt = itemClothing.GetInventory().CreateInInventory( chemlightArray[rndIndex] );
-			SetRandomHealth( itemEnt );
 			player.SetQuickBarEntityShortcut(itemEnt, 1);
-
-			rand = Math.RandomFloatInclusive( 0.0, 1.0 );
-			if ( rand < 0.35 )
-				itemEnt = player.GetInventory().CreateInInventory( "Apple" );
-			else if ( rand > 0.65 )
-				itemEnt = player.GetInventory().CreateInInventory( "Pear" );
-			else
-				itemEnt = player.GetInventory().CreateInInventory( "Plum" );
-			player.SetQuickBarEntityShortcut(itemEnt, 3);
 			SetRandomHealth( itemEnt );
 		}
 		
@@ -101,4 +92,5 @@ class CustomMission: MissionServer
 Mission CreateCustomMission(string path)
 {
 	return new CustomMission();
-}
+}	
+	

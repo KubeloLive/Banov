@@ -332,8 +332,9 @@
 		<cargo chance="0.20"> <item name="AmmoBox_9x39_20Rnd" /> </cargo>			
 		<cargo chance="0.10"> <item name="AmmoBox_9x39AP_20Rnd" /> </cargo>			
 		<cargo chance="0.10"> <item name="AmmoBox_9x39AP_20Rnd" /> </cargo>	
-		<cargo chance="0.25"> <item name="AmmoBox_308Win_20Rnd" /> </cargo>			
-		<cargo chance="0.25"> <item name="AmmoBox_308Win_20Rnd" /> </cargo>			
+		<cargo chance="0.25"> <item name="AmmoBox_308Win_20Rnd" /> </cargo>
+        <cargo chance="0.25"> <item name="AmmoBox_308Win_20Rnd" /> </cargo>			
+		<cargo chance="0.25"> <item name="Ammo_BNVSingularityCell" /> </cargo>			
 		<cargo chance="0.15"> <item name="AmmoBox_308WinTracer_20Rnd" /> </cargo>			
 		<cargo chance="0.15"> <item name="AmmoBox_308WinTracer_20Rnd" /> </cargo>	
 		<cargo chance="0.25"> <item name="AmmoBox_762x54_20Rnd" /> </cargo>			
@@ -1136,10 +1137,17 @@
 			<item name="AntiChemInjector" chance="1.0" />
 		</cargo>
 	</type>
-	<type name="ZmbM_NBC_Yellow">
+	<type name="ZmbM_NBC_Grey">
 		<cargo preset="ContaminatedCargo" />
-		<cargo chance="0.01">
+		<cargo chance="0.03">
 			<item name="AntiChemInjector" chance="1.0" />
+		</cargo>
+	</type>
+	<type name="Captain_Alien">
+		<cargo preset="foodCity" />
+		<cargo chance="1.0">
+			<item name="CatFoodCan" chance="1.0" />
+			<item name="DogFoodCan" chance="1.0" />
 		</cargo>
 	</type>
 	<!--ARMY-->
