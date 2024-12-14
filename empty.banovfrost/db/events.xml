@@ -32,7 +32,7 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="15" lootmin="10" max="2" min="4" type="YRTSK_UFO_Crash"/>
+            <child lootmax="15" lootmin="10" max="4" min="2" type="YRTSK_UFO_Crash"/>
          </children>
     </event>
 	<event name="StaticAmbulanceCar">
