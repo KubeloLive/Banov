@@ -1259,8 +1259,23 @@
 	<!--START OF ZOMBIES  -->
 	<!--NBC-->
 	<type name="ZmbM_NBC_Grey">
+		<cargo preset="ContaminatedCargo" />
+		<cargo chance="0.03">
+			<item name="AntiChemInjector" chance="1.0" />
+		</cargo>
 	</type>
-	<type name="ZmbM_NBC_Yellow">
+	<type name="ZmbM_NBC_Grey">
+		<cargo preset="ContaminatedCargo" />
+		<cargo chance="0.03">
+			<item name="AntiChemInjector" chance="1.0" />
+		</cargo>
+	</type>
+		<type name="Captain_Alien">
+		<cargo preset="foodCity" />
+		<cargo chance="1.0">
+			<item name="CatFoodCan" chance="1.0" />
+			<item name="DogFoodCan" chance="1.0" />
+		</cargo>
 	</type>
 	<!--ARMY-->
 	<type name="ZmbM_PatrolNormal_Autumn">
