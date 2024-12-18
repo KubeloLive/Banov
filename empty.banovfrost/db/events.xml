@@ -798,9 +798,9 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>uniform</position>
         <limit>child</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
-            <child lootmax="10" lootmin="5" max="17" min="14" type="ChristmasTree_Green"/>
+            <child lootmax="10" lootmin="5" max="5" min="2" type="ChristmasTree_Green"/>
         </children>
     </event>
     <event name="StaticFridgeTest">
