@@ -615,7 +615,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="5" lootmin="0" max="0" min="100" type="ZmbM_Santa"/>
         </children>
@@ -782,7 +782,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>uniform</position>
         <limit>child</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="15" lootmin="10" max="10" min="5" type="ChristmasTree_Green"/>
         </children>
@@ -888,7 +888,7 @@
         <flags deletable="1" init_random="0" remove_damaged="0"/>
         <position>fixed</position>
         <limit>child</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="15" lootmin="10" max="3" min="1" type="Wreck_SantasSleigh"/>
         </children>
