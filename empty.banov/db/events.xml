@@ -19,7 +19,7 @@
          </children>
     </event>
 		<event name="StaticAmbulanceCar">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <min>0</min>
         <max>0</max>
         <lifetime>1800</lifetime>
@@ -50,8 +50,7 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="5" lootmin="0" max="0" min="30" type="Scout_Alien_1"/>
-			<child lootmax="5" lootmin="0" max="0" min="30" type="Scout_Alien_2"/>
+            <child lootmax="5" lootmin="0" max="0" min="30" type="Captain_Alien"/>
         </children>
     </event>
     <event name="AmbientFox">
